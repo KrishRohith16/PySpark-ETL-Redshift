@@ -11,3 +11,9 @@ print("imported modules")
 # Creating SparkSession :
 spark = SparkSession.builder.appName("ETL Pipeline").getOrCreate()
 print("Created SparkSession")
+
+
+# ETL Process Begin :
+# *** Extracting inconsistent data :
+df = spark.read.csv(r"E:\Data Engineer ETL Project\raw_data\employee_data_raw_inconsistent.csv", header=True, inferSchema=True)
+print("Extracted raw dataframe")
