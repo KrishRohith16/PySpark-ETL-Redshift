@@ -1,0 +1,1006 @@
+emp_id ,full_name,gender,dob,join_date,Department,job_title,manager_id,location,Status,salary,email,phone,employment_type,last_working_day
+1, Kevin Brown ,Male,1997-01-21,2004-01-01,sales,,45,Hyderabad,,,williamfitzpatrick@gmail.com,1312138349,Contract,2011-09-18
+2, Sherri Gardner ,,1996-06-25,2022-11-20,Engineering,Sales Executive,42,Remote,Active,,joneskatherine@collins.com,+1-994-206-7110x476,Intern,
+3, Dan Pena ,,1967-05-26,1976-05-23,sales,Sales Executive,7,Bangalore,Resigned,,joshua68@edwards.info,+1-241-975-9225x633,,2010-03-06
+emp4, Paul Johnson ,Female,1971-12-02,1975-07-21,Engineering,Operations Lead,18,Bangalore,Terminated,-1000.0,timothy63@hotmail.com,172-744-3954,,1987-10-03
+5, Cynthia Reynolds ,,1997-11-07,2015-05-20,Sales,Operations Lead,8, ,Terminated,125642.0,bfrye@smith.net,+1-420-146-2724,Contract,2022-10-30
+6, David Webb ,Male,1998.06.21,2019/09/13,Engineering,HR Manager,20,Remote,Active,-1000.0,victorlee@hotmail.com,956-893-6511x15863,,
+EMP_7, David Graham ,Male,1993-12-05,2008-04-13,sales,Software Engineer,15,Chennai,Terminated,-1000.0,tortiz@cochran-johnson.com,+1-236-880-0318x0059,Intern,2018-06-26
+8, Mark Mathews ,Male,1969-06-25,1995-10-25,HR,HR Manager,41, ,,,blakestephen@gmail.com,(041)454-8518,,2015-01-24
+9, Teresa Torres ,Male,1995-12-18,2013-12-20,HR,Software Engineer,23,Hyderabad,,106063.0,swalker@clark.com,354.112.2131x1444,,2023-01-16
+10, Seth Hart ,Male,1978-05-17,1980-09-08,Engineering,,18,Remote,Active,-1000.0,christopher29@hill.biz,427.634.5957,Contract,
+11, Christopher Vance ,,1972-12-03,1986-09-27,  Engineering  ,,22,Chennai,Resigned,-1000.0,lovecynthia@yahoo.com,001-529-580-4996x95516,,1999-06-10
+1 2, Denise Rodriguez ,,1981 Jan 23,01 April 2002,Finance,,40,Bangalore,Resigned,93225.0,,(917)451-8477x790,Full-time,2003 November 12
+13, Robert Sellers ,Male,1998-11-13,1999-02-12,sales,Finance Analyst,22,Hyderabad,,,jimenezkristine@hotmail.com,753-457-5197,,1999-11-22
+Emp 14, Kristopher Larson ,Male,1976-06-06,2007-02-08,Engineering,Sales Executive,35,Remote,Resigned,-1000.0,lisaward@hotmail.com,048.672.2656x662,,2024-12-17
+15, Laura Evans MD ,Female,1985-06-21,2013-07-20,Finance,Finance Analyst,48,Bangalore,Active,50579.0,donnawells@hopkins-hoover.com,+1-572-705-9588x3775,Full-time,
+EMP-16, Michael Wallace ,,03.11.72,98.10.01,HR,,49, ,,79040.0,hlang@gmail.com,338-262-8943,Intern,2002/01/15
+17, Ronald Richardson ,,1984-05-07,2023-09-29,Sales,Software Engineer,12,Chennai,Resigned,-1000.0,ann44@hotmail.com,(088)452-5322,,2025-02-21
+18, Daniel Steele ,Male,2001-02-04,2009-09-20,Sales,Sales Executive,49,Bangalore,,101845.0,awagner@andrews-mahoney.com,0799212382,Contract,2020-11-22
+EMP19, Victor Barton ,Male,1984-09-15,1993-10-09,Finance,,47, ,,147106.0,smithchristian@hotmail.com,562-581-4795x699,Contract,2007-02-09
+20, Patrick Schneider ,,1983-09-29,2024-02-25,HR,Operations Lead,40,Bangalore,Resigned,-1000.0,sylviamccoy@gmail.com,438-605-2305,Contract,2024-03-21
+21 , Angela Walker ,Female,1975-10-14,1984-06-03,HR,Finance Analyst,19,Bangalore,Terminated,47335.0,kennethhodges@martinez.com,+1-499-002-6707x98751,,2017-10-01
+22, Colton Johnson ,,1973-01-03,1979-06-11,  Engineering  ,Sales Executive,10, ,Active,-1000.0,johnnymartinez@nichols.com,001-789-159-2762x765,,
+23, Crystal George PhD ,Male,1976-10-14,2001-10-21,sales,Sales Executive,48,Chennai,Active,144627.0,kristabaker@mccarthy.com,479.579.0532,Intern,
+24, Matthew Turner ,Female,1989-04-07,2005-06-11,  Engineering  ,Finance Analyst,21,Chennai,Active,-1000.0,hollandjoseph@grant.com,621-003-8505,Full-time,
+25, Katherine Lee ,Female,1966-05-31,2006-10-16,Engineering,Software Engineer,4,Chennai,Resigned,,thomasmann@gmail.com,024-723-3655x11548,Full-time,2021-05-07
+26, Sonya Shelton ,Female,1998-05-02,2007-11-20,Engineering,Operations Lead,29, ,Terminated,147508.0,diana35@andrade-haney.com,001-142-641-0958x00478,,2016-02-01
+27, Elizabeth Booker ,,1970-06-29,2015-07-15,Engineering,HR Manager,29,Bangalore,Resigned,84174.0,kjohnson@gmail.com,(928)942-9925,Full-time,2020-08-25
+28, Kristen Cox ,Female,1998-09-24,2007-08-25,  Engineering  ,Finance Analyst,34, ,,86981.0,anthony86@yahoo.com,(024)733-1541x6777,Intern,2010-04-18
+29, Grant Torres ,Male,1975-09-18,2017-01-03,sales,Sales Executive,38,Bangalore,Terminated,-1000.0,xhoward@yahoo.com,620-514-3850x1636,Intern,2022-02-10
+30, Leslie Sanchez ,Male,2000-11-25,2020-02-04,Sales,Sales Executive,42,Bangalore,Active,,jamesjacobs@arnold.org,(693)276-1969x905,Full-time,
+31, Terry Yoder ,,1982-09-13,2017-01-02,HR,Operations Lead,46,Remote,Resigned,,zhill@gmail.com,+1-442-031-6348x895,Contract,2023-09-21
+32, Johnny Richardson ,Male,1972-11-04,1985-08-23,Sales,HR Manager,23,Chennai,Terminated,-1000.0,morrisjennifer@yahoo.com,3096928752,Full-time,2009-10-09
+33, Michael Martinez ,,1977-05-15,2024-08-09,Finance,Sales Executive,47, ,Resigned,57370.0,fcollins@sullivan.com,7581190593,Full-time,2025-03-07
+34, Christopher Bryant ,Male,1970-03-29,1985-09-20,Operations,,11,Chennai,Active,-1000.0,dudleyphillip@hotmail.com,190-552-4317x78245,,
+35, Robert Morales ,,1964-09-06,1966-07-01,HR,Sales Executive,24,Chennai,,101053.0,egarcia@floyd.net,251.674.6607x2603,Full-time,2005-02-27
+36, Phillip Rodgers ,Female,1975-02-14,1997-11-29,sales,HR Manager,31,Chennai,Active,,jennifergonzales@gmail.com,0495754156,Contract,
+37, Michael Cortez ,,1984-09-16,1991-08-22,sales,Operations Lead,8, ,,,elizabeth69@yahoo.com,835-224-7464,Contract,2018-05-14
+38, Brett Huerta ,,1974-08-08,2014-02-16,Operations,,9,Hyderabad,Active,51955.0,josephhansen@perez.com,881.953.3255,Full-time,
+39, Michelle Clayton ,Male,1996-01-07,2015-01-21,HR,Sales Executive,45,Chennai,Resigned,82996.0,megan39@hotmail.com,001-321-306-9036,Contract,2019-06-18
+40, Melissa Garcia ,Male,1964-10-26,1983-08-20,  Engineering  ,Finance Analyst,9, ,,42519.0,renee34@lester-turner.net,+1-169-860-1743x7972,,2015-06-19
+41, Anne Hodge ,Male,1991-11-12,2014-05-05,Operations,Sales Executive,1,Hyderabad,,92931.0,simmonschristina@yahoo.com,(163)065-8501x3079,Contract,2018-01-19
+42, Jose Morgan ,,1986-04-02,1996-10-20,sales,Finance Analyst,3, ,,,,001-096-790-3246x919,Full-time,2011-01-16
+43, Angela Gilbert ,Female,1973-09-14,1975-03-29,sales,,45,Chennai,Active,67921.0,beckjeffery@hotmail.com,172.050.9459x01586,Full-time,
+44, Mark Johns ,,1978-08-18,2009-04-15,Sales,Operations Lead,12,Bangalore,Resigned,38194.0,jeffrey15@gmail.com,2264100104,,2012-07-11
+45, Jennifer Sosa MD ,,1996-07-12,2021-11-10,sales,HR Manager,48,Chennai,Terminated,-1000.0,melissa35@hotmail.com,960-230-5811,,2024-09-12
+46, Zachary Krause DDS ,Male,1993-10-24,2006-10-19,  Engineering  ,HR Manager,18,Hyderabad,,39851.0,christopherowens@yahoo.com,001-786-359-2313x51854,,2022-05-16
+47, Zachary Williams ,Female,1970-05-15,1993-02-24,Sales,Finance Analyst,30,Hyderabad,Terminated,-1000.0,jorge98@myers.com,977.422.6386,,2019-09-22
+48, Robert Hall ,Female,1987-04-25,2018-11-13,  Engineering  ,Operations Lead,19,Chennai,,,joycekerry@hotmail.com,001-591-368-7280x5943,,2019-10-05
+49, Samuel Morgan ,Female,1985-04-22,1985-12-26,Finance,Finance Analyst,16,Remote,Resigned,,steven22@taylor.com,798.546.5039x73895,Intern,1994-03-12
+50, Donald Martinez ,,1968-06-12,1981-08-16,HR,Finance Analyst,9,Chennai,Terminated,,kdavis@yahoo.com,108-769-6948x889,Intern,2005-07-19
+51, Angela King ,,1993-04-13,2023-10-11,HR,Finance Analyst,7,Remote,Terminated,,austinmccoy@yahoo.com,(119)583-1040,,2024-08-17
+52, Jennifer Harmon ,,1993-12-05,2000-07-30,Operations,,11,Hyderabad,Resigned,,lopezjessica@mooney.com,568.722.0378x9687,Full-time,2002-03-04
+53, Alex Hahn ,,1980-02-06,2023-12-23,Sales,HR Manager,43,Chennai,,55120.0,jasmine56@reynolds.com,041-224-8287,Contract,2024-11-22
+54, Stephanie Escobar ,,1987-12-04,2002-01-16,  Engineering  ,Finance Analyst,32,Chennai,Resigned,-1000.0,gonzalezsabrina@bailey-king.com,254-605-0451x19602,,2011-02-25
+55, Victoria Bentley ,Female,1987-11-17,1991-07-13,Sales,Finance Analyst,29, ,Terminated,,burgessgerald@yahoo.com,823-840-1081x50212,Intern,2004-08-19
+56, Beth Blair ,Male,1993-03-07,2008-07-12,Engineering,Software Engineer,25, ,Resigned,86807.0,mjackson@hotmail.com,7599761249,Contract,2024-07-27
+57, Latoya Hardy ,Female,1982-03-20,1993-10-16,Operations,,4,Remote,Active,66201.0,snyderkatelyn@gmail.com,+1-291-598-2540x033,,
+58, Jessica Smith ,Male,1973-04-16,1991-01-01,sales,Software Engineer,7,Remote,Resigned,-1000.0,joseph63@gmail.com,502-768-5796x368,Contract,2002-10-06
+59, Steven Rodriguez ,Female,1987-11-16,2003-05-26,Sales,,26,Bangalore,Terminated,,jasmine95@beltran.biz,744.843.9948x98284,,2015-12-04
+60, Alexandra Love ,Male,1978-07-13,1979-02-13,sales,HR Manager,8,Bangalore,Active,-1000.0,phillipsvictoria@mahoney.org,930.989.6797,Contract,
+61, Jennifer Shields ,Female,1992-01-05,2019-06-21,Engineering,Sales Executive,35, ,Resigned,-1000.0,ramirezjessica@mcgee.com,(993)035-8027x07490,Intern,2019-10-04
+62, Angela Floyd ,,1973-01-13,2013-02-28,Finance,Sales Executive,50,Remote,Resigned,,reedtracy@henderson.info,431.846.6180x421,Contract,2021-04-29
+63, Cynthia Anderson ,,1973-11-09,2004-12-11,Operations,HR Manager,15,Hyderabad,Active,-1000.0,,001-880-045-1480x08178,Contract,
+64, Dr. Andrew Burke PhD ,Female,1982-01-24,2004-11-21,Finance,Software Engineer,2,Chennai,Resigned,,douglas33@berger-barnett.com,148-985-4722,Contract,2015-05-20
+65, Mrs. Brooke Burgess ,Female,1995-11-25,2021-05-15,Engineering,Sales Executive,5,Hyderabad,Active,,rgray@yahoo.com,(387)405-4773,,
+66, Rachel Mason ,,1966-05-30,1971-01-07,Operations,Finance Analyst,29,Remote,Active,,robert03@gmail,+1-798-702-6038,Intern,
+67, Charles Smith ,,1980-01-16,1985-09-10,sales,Sales Executive,24,Hyderabad,,32969.0,scottwalker@yahoo.com,+1-667-639-4719x79472,Full-time,2024-11-07
+68, Erica Martin ,Female,1998-08-22,2015-08-15,Sales,Software Engineer,5,Bangalore,Terminated,,horr@murillo.info,+1-283-897-0700x363,Full-time,2016-02-13
+69, Andre Keller ,Female,1975-10-28,1993-02-18,Sales,Finance Analyst,38, ,Active,84142.0,usteele@hotmail.com,505.815.8728,Contract,
+70, Ashley Novak ,Male,1993-12-15,2011-05-18,sales,Sales Executive,18,Remote,Active,-1000.0,uarnold@yahoo.com,947-447-0233x36497,Contract,
+71, Elizabeth Roberts ,Female,1986-03-25,2001-03-17,Sales,Sales Executive,15,Chennai,Resigned,72894.0,erichinton@davis.com,001-803-445-3111,,2011-05-10
+72, Brandi Ritter ,Female,1970-03-23,1993-09-23,Sales,Operations Lead,42,Hyderabad,,134953.0,markjohnson@hotmail.com,478-584-0998,Intern,2020-10-28
+73, Andrew Smith ,Male,1964-12-09,1985-01-02,Finance,,24,Bangalore,,147679.0,,548.164.0364,Contract,2019-11-08
+74, Tara Knapp ,,1985-08-07,1996-02-12,Operations,,8,Remote,Terminated,147486.0,dgonzalez@gmail.com,001-273-330-9401,,2010-11-13
+75, Tricia Jones ,Female,1974-02-23,2023-02-12,Finance,,40, ,,66659.0,obeasley@yahoo.com,3338086668,Contract,2025-03-30
+76, Joseph Blackwell ,Male,1997-08-09,2021-12-18,Engineering,Finance Analyst,38,Hyderabad,Active,-1000.0,cassandra62@yahoo.com,(022)723-9737,Full-time,
+77, Seth Horton ,Female,1982-02-21,2000-12-17,Finance,Sales Executive,18,Remote,Active,,erose@mason.com,(326)437-5890x836,Intern,
+78, Shannon Henry ,Male,1964-09-18,1969-10-31,Sales,Sales Executive,23,Remote,Terminated,-1000.0,,613.182.7099x992,Intern,1975-03-10
+79, Mrs. Jo Johnson MD ,Female,1998-03-10,2009-01-08,Engineering,Operations Lead,3,Bangalore,Active,-1000.0,cathygreen@hebert.org,+1-863-324-1516,Full-time,
+80, Jacob Fisher ,Male,1992-02-19,2019-11-14,HR,HR Manager,16,Hyderabad,Resigned,-1000.0,xmartin@barton.info,3215910377,,2020-11-10
+81, Hunter Morse ,,1978-07-17,2003-03-17,Finance,Operations Lead,24,Remote,,75033.0,vavery@olson.com,800.157.1022,Intern,2022-09-05
+82, Jaime Thompson ,Female,1986-03-17,1987-01-28,  Engineering  ,Software Engineer,9, ,Active,,johnsmith@henson.net,7501230128,Contract,
+83, Kenneth Davis ,,1990-06-12,1994-01-22,Sales,Software Engineer,22,Hyderabad,Terminated,,watkinsalicia@hotmail.com,828-387-7709,Contract,1997-06-11
+84, Julie White ,Female,1992-11-24,2013-12-12,Engineering,Operations Lead,3,Hyderabad,Active,,briannarush@yahoo.com,(111)636-0584,Contract,
+85, Jacob Jensen ,Male,1997-10-07,2010-03-19,Operations,,44,Bangalore,Active,-1000.0,andrewjohnson@hotmail.com,319.759.0257x51616,Contract,
+86, Wayne Larson ,Male,2003-04-11,2018-06-30,HR,Operations Lead,31,Bangalore,Resigned,101929.0,,(461)454-5381x658,Contract,2019-02-16
+87, Christine Baker ,Male,1998-03-11,2000-10-25,Operations,HR Manager,37, ,Terminated,,jenniferbradley@benton.net,001-342-391-6923x21585,Intern,2023-04-30
+88, Denise Lamb ,Male,1985-11-13,1991-10-14,Operations,Software Engineer,4,Chennai,,,kimberly65@gilbert-moran.com,555.786.7358x059,Intern,2019-03-13
+89, Tammy Anderson ,Male,1973-06-21,1986-09-15,HR,Sales Executive,34,Bangalore,Terminated,-1000.0,guerrerodaniel@gmail.com,501-314-1368,Full-time,1998-06-26
+90, Tyrone Smith ,Male,2000-08-02,2017-12-01,Finance,Software Engineer,17,Chennai,Active,32758.0,bryantchristine@yahoo.com,7476895077,Intern,
+91, Cheryl Rivas ,,2000-01-30,2020-05-05,sales,Finance Analyst,49, ,Active,126112.0,john78@gmail.com,988.243.2600x053,Intern,
+92, Kevin Smith ,Female,1979-02-02,2003-04-07,Operations,,38,Remote,,,christopherspence@gmail.com,320.560.6456x4625,Full-time,2014-04-15
+93, Mark Riley ,,1979-05-24,2011-11-10,Finance,Finance Analyst,44,Bangalore,,-1000.0,clayashley@flores-price.com,8018099111,,2019-11-08
+94, Vickie Crawford ,Male,1968-05-06,1981-03-31,HR,,44,Hyderabad,Resigned,-1000.0,gmartin@yahoo.com,001-020-479-0529x92235,Contract,2012-12-24
+95, Meredith Moore ,Male,1988-03-15,2013-04-29,Sales,Software Engineer,27,Remote,Terminated,-1000.0,christina43@gmail.com,001-686-060-4362x770,Intern,2016-07-22
+96, Michael Horne ,Male,1983-10-17,2005-03-10,Sales,Sales Executive,34, ,Terminated,136943.0,johnmyers@hernandez-perez.com,+1-024-929-8478x1199,Contract,2023-05-19
+97, Timothy Santiago DVM ,,2003-04-07,2015-05-27,Finance,Software Engineer,48, ,,48765.0,bridgetchristensen@evans-jacobs.com,652.651.7802x617,Intern,2022-01-16
+98, Bridget Cooper ,Male,1989-07-31,1998-08-05,Finance,Finance Analyst,6,Chennai,,,braunamy@hotmail.com,646-626-6363,Contract,2022-11-18
+99, Thomas Holt ,Male,1987-11-17,2006-07-28,Engineering,Sales Executive,24,Bangalore,,-1000.0,amandabrandt@gmail.com,657.062.3593x820,Full-time,2007-02-03
+100, Alejandra Mendoza ,Female,1971-02-25,2016-02-07,  Engineering  ,,20,Hyderabad,,-1000.0,howellheather@hotmail.com,349-703-6982x6298,Contract,2022-10-23
+100, Alejandra Mendoza ,Female,1971-02-25,2016-02-07,  Engineering  ,,20,Hyderabad,,-1000.0,howellheather@hotmail.com,349-703-6982x6298,Contract,2022-10-23
+101, John Ray ,Male,2002-09-24,2017-12-15,Operations,Operations Lead,43,Chennai,Resigned,129622.0,ehorton@yahoo.com,385.978.9205,Contract,2021-07-04
+102, Allison Barber ,,2000-12-11,2010-03-18,Finance,,21, ,,88850.0,dcollins@shields-velazquez.com,112-374-3206x28260,Intern,2016-05-21
+103, Denise Bennett ,Female,1966-08-25,1979-10-02,HR,Software Engineer,16,Bangalore,Active,63817.0,mark08@gibbs.org,287-846-3851,Full-time,
+104, Leslie Buchanan ,,1997-03-14,2005-02-04,  Engineering  ,,4, ,Terminated,-1000.0,kennethevans@myers.com,912-447-8069x91184,Contract,2007-05-10
+105, Mark Hickman ,,1976-09-21,2013-06-28,Engineering,Finance Analyst,36,Remote,,,meyerkatherine@watts.com,(319)620-6284,Contract,2015-01-22
+106, Whitney Martin ,Female,1978-02-24,1992-01-23,HR,,17,Hyderabad,Terminated,-1000.0,laneemily@pace.com,038-811-1205x35696,Contract,2007-02-05
+107, Aaron Perez ,,1982-11-10,2023-03-25,Sales,Software Engineer,43,Remote,Resigned,145499.0,iwise@lyons.com,+1-039-349-0895,Intern,2023-08-26
+108, Mary Park ,Female,1984-06-19,1995-05-20,Engineering,Finance Analyst,9,Bangalore,Terminated,,jjacobs@yahoo.com,(894)585-9215x26230,,2015-12-29
+109, Roger Jones ,Female,1980-08-21,2006-07-20,Engineering,,43,Bangalore,Terminated,143619.0,morrisjohn@walters.biz,642.003.8593x911,,2007-06-14
+110, Angela Avery ,,2000-11-21,2002-03-31,Sales,Finance Analyst,32,Hyderabad,Active,,icarter@yahoo.com,029-605-1994x099,Contract,
+111, Jessica Saunders ,Male,1983-07-18,2019-05-21,Sales,Software Engineer,5, ,Terminated,,sthomas@yahoo.com,574.151.5642,Full-time,2022-07-11
+112, Leslie Jones ,Male,1978-11-25,1987-04-17,sales,Finance Analyst,19,Chennai,Terminated,91530.0,robert48@gmail.com,(456)339-7327,Contract,2019-12-25
+113, Sarah Williams ,Female,1979-08-04,2001-01-05,Sales,Software Engineer,1,Hyderabad,Active,101366.0,davischad@gmail.com,(675)106-6383,,
+114, Elizabeth Franklin ,,1982-05-06,2019-09-06,Engineering,HR Manager,34,Bangalore,,-1000.0,plee@carter.net,+1-880-214-2508x40320,Intern,2021-10-22
+115, Natalie Anderson ,Male,1973-02-02,2021-08-18,Engineering,HR Manager,14, ,Active,,teresa03@yahoo.com,(575)979-0264,Contract,
+116, Steven Orozco ,,1972-12-18,1988-12-22,Sales,Sales Executive,38,Chennai,Resigned,,brittany50@hotmail.com,429-181-7495x9714,Contract,2016-04-16
+117, Brittany Cherry ,,1980-09-23,1983-08-25,sales,Software Engineer,30,Hyderabad,Terminated,119639.0,fmcgrath@yahoo.com,042-163-4216x079,Intern,1986-05-31
+118, Donna Smith ,,2000-01-12,2002-05-11,sales,Operations Lead,49,Chennai,,,robertmoody@lee.biz,(009)061-2704x554,,2006-08-28
+119, Rebecca Russell ,,1995-02-28,2014-08-10,Finance,HR Manager,12,Hyderabad,Terminated,-1000.0,kathryn68@wheeler-ross.com,(245)543-8684x220,Intern,2019-01-30
+120, Micheal Wood ,Female,1980-07-27,2003-12-17,Sales,HR Manager,9,Chennai,Resigned,-1000.0,marygonzalez@rodriguez-mcguire.com,044-026-2807x5191,,2013-09-16
+121, Jessica Moody ,Male,1999-10-18,2019-02-04,Operations,Operations Lead,26,Remote,,,csullivan@brown.com,593-784-7955x64783,Intern,2024-09-18
+122, Curtis Buck ,Female,1988-10-09,1994-01-04,Operations,Finance Analyst,31, ,Terminated,-1000.0,matthew26@simon.biz,+1-387-072-6725x3796,Contract,2005-04-23
+123, Daniel Thornton ,Female,1971-07-25,1989-05-01,Sales,Finance Analyst,34,Remote,,103443.0,levysamantha@silva-shepherd.org,678.835.4241x18375,Contract,2008-01-11
+124, Tammy Browning ,Female,1987-04-02,2015-04-12,Operations,,41,Remote,Terminated,-1000.0,lpeterson@scott.com,135-306-5613x9402,,2018-12-20
+125, Lance Walker ,Male,1967-09-18,1984-12-06,Finance,Operations Lead,14,Hyderabad,Terminated,-1000.0,mccarthylogan@casey-blevins.info,+1-225-405-4033x45992,Contract,1995-08-27
+126, Brooke Velazquez ,,1997-08-04,2006-02-26,Sales,Software Engineer,16,Remote,Terminated,-1000.0,jason82@sandoval.com,001-763-349-5911x9324,,2024-09-08
+127, Caitlin Freeman ,Male,1986-03-18,1992-01-01,Finance,Software Engineer,4,Hyderabad,,,brownthomas@andrade-hawkins.com,265.725.8716x5373,Full-time,1997-04-21
+128, Terri Hoffman ,,1978-05-31,1980-10-03,Operations,HR Manager,17,Remote,Resigned,-1000.0,carla80@lopez-martin.org,607-348-9518,Contract,1993-10-13
+129, Bruce Fox ,Female,1988-06-06,2000-06-24,Operations,Operations Lead,12,Chennai,,-1000.0,uflores@hotmail.com,+1-895-766-6573x21927,Contract,2008-05-23
+130, Vickie Reyes ,Female,1973-02-25,2025-01-17,HR,HR Manager,47,Hyderabad,Active,-1000.0,nsimpson@yahoo.com,(800)486-1626x86861,,
+131, Dana Williams ,,1976-10-04,1983-09-04,  Engineering  ,HR Manager,48,Bangalore,Terminated,,rbrandt@shelton.com,6826740068,Intern,2021-03-16
+132, Dalton Wilson ,,1998-04-20,2010-05-16,Finance,HR Manager,27,Remote,,,jennifer02@johnson-harris.info,(461)244-7685x6049,Contract,2016-02-07
+133, Jeffrey Lester ,Male,1984-01-10,1997-07-01,  Engineering  ,Software Engineer,12,Bangalore,,138286.0,williamsaustin@schaefer.com,(123)138-8467,Full-time,2008-08-12
+134, Jeremy Costa ,Male,1977-07-17,2024-11-12,Operations,Software Engineer,25,Chennai,,,nataliecain@gmail.com,001-327-994-8903,Full-time,2024-12-22
+135, Phillip Chan ,Female,2001-10-13,2012-07-16,Operations,Operations Lead,49,Bangalore,,,amoore@hotmail.com,615-411-3569,,2018-07-08
+136, George Hill ,Male,2002-04-04,2022-05-30,Operations,Sales Executive,32,Chennai,,,,001-233-538-8101x55677,Contract,2024-08-16
+137, Aaron Parker ,,2000-09-06,2020-06-03,Operations,Sales Executive,33,Chennai,Terminated,-1000.0,gstephens@hotmail.com,001-423-452-1289x93073,Intern,2023-05-06
+138, Ronald Adams ,,1974-12-01,1991-08-03,sales,Sales Executive,43,Bangalore,Active,-1000.0,latoyadillon@yahoo.com,491.529.4255,,
+139, Donald Guzman ,Female,1985-03-27,1999-03-28,HR,Finance Analyst,47, ,Terminated,,duranbenjamin@gmail.com,882.222.6482x1723,Intern,2003-11-30
+140, Norma Wyatt ,Male,1987-02-04,2024-04-18,Engineering,,38,Hyderabad,Active,,,(670)239-6919,Contract,
+141, Nicholas Gomez ,,1995-11-19,2009-01-21,HR,,42, ,Active,-1000.0,mark87@lutz.biz,615.878.9932x55363,Intern,
+142, Susan Morris ,Male,1988-12-17,2016-09-09,sales,Software Engineer,40, ,Resigned,58041.0,myersdavid@yahoo.com,+1-333-541-2401,,2022-06-13
+143, Lauren Melendez ,Male,1975-07-08,1985-03-02,sales,Finance Analyst,17, ,Resigned,67099.0,ana95@hotmail.com,(878)215-9458x866,Full-time,2011-03-18
+144, Jennifer Young ,,1980-05-26,2008-12-22,HR,Finance Analyst,11, ,,,rebeccaanderson@gmail.com,519-088-8471x35608,Contract,2022-06-07
+145, Megan Blake ,,1975-02-01,2021-01-05,Operations,Sales Executive,4, ,Terminated,-1000.0,timothy92@yahoo.com,126-990-2887x141,Full-time,2022-01-15
+146, Chelsea Smith ,Female,1992-06-07,2015-07-16,Sales,Operations Lead,22,Chennai,Terminated,-1000.0,karenwilson@yahoo.com,170.411.2505,Contract,2021-05-08
+147, Shawn Jordan ,Female,1994-05-05,1998-06-06,Finance,Sales Executive,15,Bangalore,Active,99470.0,fsteele@smith.com,7731727804,Full-time,
+148, Roger Rodgers ,Male,1970-07-12,1998-09-14,  Engineering  ,,35,Hyderabad,,78917.0,lhardin@lloyd.net,638-633-9694,Intern,2023-03-08
+149, Andrew Reed ,Male,1986-03-17,2013-03-03,Finance,Finance Analyst,26,Chennai,Active,,lisahunter@marquez.info,(590)569-9421x893,Intern,
+150, Thomas Fowler ,,2001-02-23,2003-07-28,Engineering,Sales Executive,14,Chennai,Active,37614.0,pcastaneda@hotmail.com,(455)672-5887,Contract,
+151, Kathleen Mccoy ,Male,2001-03-11,2021-07-24,Operations,Operations Lead,26,Chennai,Active,,kgreen@yahoo.com,0619728938,Full-time,
+152, Shaun Anderson ,,1999-12-05,2015-03-20,HR,HR Manager,46,Remote,Terminated,46296.0,smithchris@jackson.com,(389)782-1350,Full-time,2018-08-31
+153, William James ,Male,1995-07-25,2009-03-18,Operations,Finance Analyst,8,Chennai,Resigned,44576.0,bruce78@jefferson-williams.com,506-560-3257x13377,,2010-04-16
+154, Nicholas Waters ,Male,1994-08-24,1998-12-04,HR,Sales Executive,40,Chennai,,-1000.0,smithmisty@christensen.net,820.070.7158x562,,2016-01-17
+155, Robert Blankenship ,Male,1987-11-19,2018-03-02,Operations,Operations Lead,8,Bangalore,,,josephwashington@hotmail.com,415-330-8299x7489,,2024-07-25
+156, Shawna Gallagher ,Male,1972-01-31,2007-05-11,Operations,Finance Analyst,26,Remote,Resigned,,weaverrachel@yahoo.com,(535)261-1022x8988,Full-time,2023-08-03
+157, Cheyenne Joyce ,Male,1992-09-14,2012-11-10,sales,Software Engineer,45,Hyderabad,,92154.0,fbartlett@hotmail.com,+1-285-586-3379x859,Full-time,2013-06-28
+158, Kayla Mcclain ,Female,1971-02-01,1988-11-17,Operations,,12,Remote,Terminated,,gsaunders@gmail.com,711.293.5399,Full-time,2021-08-03
+159, Sheri Taylor ,,1995-05-25,2001-09-03,Operations,Software Engineer,25,Bangalore,Resigned,89153.0,cheyenne45@gmail.com,(639)730-0028x115,Contract,2017-05-06
+160, Cindy Barnes ,Male,2001-08-23,2013-03-21,HR,Sales Executive,25,Chennai,Active,-1000.0,michellelamb@yahoo.com,880.027.7035,,
+161, Amy Maldonado ,Male,1964-07-15,1983-11-02,Finance,Software Engineer,28,Hyderabad,Terminated,-1000.0,pcherry@lopez.com,+1-315-962-2910x269,,2025-03-02
+162, Courtney Jackson ,,1972-10-21,2011-11-05,Engineering,Sales Executive,21,Bangalore,Active,,ericnash@cook-gonzalez.com,+1-699-127-7864x153,Intern,
+163, Jennifer Hanson ,Female,1968-12-23,1995-05-31,Operations,,1,Bangalore,Terminated,,taylor59@yahoo.com,001-598-982-8603x060,Contract,1998-01-16
+164, Mark Medina ,Male,1987-06-28,2013-05-02,Sales,Operations Lead,21,Remote,,-1000.0,crystal55@hotmail.com,(920)126-7315,Intern,2019-01-16
+165, David Ball ,Female,1985-10-15,2022-05-26,Operations,Sales Executive,36,Remote,Resigned,-1000.0,patricia94@gmail.com,001-029-621-9748x47709,Intern,2023-08-19
+166, Matthew Lee ,Female,1969-04-12,1972-05-23,Sales,HR Manager,45,Bangalore,Resigned,,katherine52@gmail.com,(588)300-9505x820,Contract,2009-06-10
+167, John Cox ,Female,1970-09-19,2024-03-07,Operations,Sales Executive,24, ,Active,,perezshannon@smith.com,+1-337-575-5005,,
+168, Donna Roberts ,Male,1994-12-18,2012-08-18,Sales,Sales Executive,24,Remote,Active,-1000.0,rebeccadonovan@ruiz.com,024.916.8733,Contract,
+169, Kathryn Graham ,Male,1994-03-20,2019-08-14,Sales,HR Manager,17,Remote,Active,-1000.0,rjones@rodriguez-black.info,1279537580,Full-time,
+170, Katie Rogers ,Female,1987-09-30,1993-11-17,Sales,Sales Executive,6,Remote,Resigned,-1000.0,,615.210.1714x1798,,2023-02-26
+171, Scott Smith ,,1999-07-11,2008-11-02,Operations,,19,Remote,,37384.0,dennismitchell@hotmail.com,110.265.9761,Contract,2024-04-12
+172, Steven Thompson ,,1985-04-07,2000-01-10,  Engineering  ,Sales Executive,35,Remote,Terminated,,bennettmichael@mcbride.biz,3732176337,Intern,2004-10-18
+173, Erika Johnson ,,1970-06-05,1972-04-27,HR,Operations Lead,26,Hyderabad,Resigned,116386.0,gregory66@logan.com,001-611-645-2084,Intern,2001-01-06
+174, Caitlin Haley ,Male,1969-09-22,1981-01-20,Operations,,16,Remote,,,dgregory@wiley.info,+1-276-153-7089,Full-time,1981-10-07
+175, Carlos Brown ,Male,1969-09-15,1987-02-22,Operations,,11,Chennai,Terminated,,mariah70@decker-abbott.com,(871)897-0443,Intern,2023-08-08
+176, Bethany Hammond ,Male,2001-05-29,2008-10-26,sales,HR Manager,44,Remote,Active,-1000.0,emckay@yahoo.com,614-977-4743,,
+177, Amanda Hayes ,Male,2001-08-06,2011-12-16,HR,HR Manager,19, ,,,annemalone@farmer.com,398-478-6652x2625,Contract,2024-01-29
+178, Kathleen Moses ,Male,1966-01-08,1986-06-27,HR,,12,Remote,Terminated,-1000.0,jennifer55@hotmail.com,(332)469-4128x9776,,2021-06-30
+179, Alan Allison ,Female,2003-03-17,2009-10-24,Sales,Operations Lead,42,Bangalore,Active,,davismaria@oneill.com,909.919.3992x306,,
+180, Jordan Medina ,,1977-05-08,2013-03-28,Finance,Software Engineer,17,Hyderabad,Resigned,,scottmills@hoffman-baker.com,192.958.8833x49502,Contract,2022-08-03
+181, Marilyn Davis ,Female,1990-08-06,2015-08-15,Sales,HR Manager,29,Remote,Terminated,78354.0,ngarner@yahoo.com,001-126-106-5925x428,,2023-04-28
+182, Jonathan Castillo ,,1987-06-02,2003-01-19,Engineering,Operations Lead,30, ,Resigned,-1000.0,morsekathy@cain-ellison.com,(926)008-5817,Full-time,2008-06-25
+183, Gary Johnson ,,2002-12-10,2022-07-19,HR,Finance Analyst,20,Bangalore,Active,-1000.0,gary15@yahoo.com,(898)972-5199x4258,Contract,
+184, Greg Bishop ,Female,1993-12-29,2022-11-13,  Engineering  ,Software Engineer,27,Bangalore,Active,-1000.0,umorales@gmail.com,001-345-335-7416x188,,
+185, Jessica Maldonado ,Male,1997-04-19,2015-09-08,Engineering,,7,Chennai,,45991.0,angie17@yahoo.com,(398)708-7145,Full-time,2015-11-21
+186, Lisa Mcknight ,Male,2001-09-12,2004-01-08,sales,Finance Analyst,46,Hyderabad,Terminated,-1000.0,jensenrobert@wong.com,(928)853-0700,Full-time,2009-03-22
+187, Nicole Swanson ,Male,2000-08-19,2001-02-28,Operations,Sales Executive,25,Remote,Resigned,32059.0,mistydavis@smith.com,821.794.8520,Full-time,2008-01-17
+188, Leah Hudson PhD ,Female,1994-05-23,1999-02-08,  Engineering  ,Sales Executive,33,Chennai,Resigned,-1000.0,fmorgan@martin.com,4401638640,,2013-02-20
+189, Brenda Lopez ,Male,2002-06-29,2012-11-02,sales,,42,Bangalore,Resigned,128047.0,haleyterry@gmail.com,851-045-7613,Full-time,2024-11-29
+190, Sarah King ,Male,1980-02-04,2012-03-02,Operations,HR Manager,7,Bangalore,,,cbennett@kaiser.com,517.758.6533x167,Intern,2012-03-07
+191, David Baldwin ,,1994-05-12,2014-07-24,Engineering,HR Manager,8,Bangalore,Terminated,,gabrielross@smith.com,+1-708-029-5615x7812,,2022-08-26
+192, Megan Le ,Male,1988-03-08,2019-08-04,Sales,Software Engineer,13,Hyderabad,,-1000.0,kcross@hotmail.com,182-891-8912,Intern,2020-06-15
+193, Ashley Harding ,Male,1994-03-16,1994-12-26,Engineering,Finance Analyst,39,Remote,Resigned,-1000.0,jacquelinecook@stanton-riggs.com,001-407-057-4224,Contract,2017-09-22
+194, Brandy Robertson ,Female,1993-01-24,2001-03-20,Engineering,Operations Lead,33, ,Active,,xkemp@hotmail.com,383-883-0830,,
+195, Lori Williams ,Female,1966-09-23,1984-06-07,Sales,Finance Analyst,30,Hyderabad,,89343.0,nicole56@hotmail.com,(506)828-4278x949,Full-time,1999-04-15
+196, Nathan Moore ,Female,1970-01-14,2011-08-30,  Engineering  ,Finance Analyst,8,Bangalore,Active,,laura44@chung.com,+1-846-799-0005x0151,,
+197, Courtney Jackson ,,1995-01-11,2012-05-18,HR,Sales Executive,1,Chennai,Terminated,-1000.0,cfarley@johnson.com,+1-381-658-8598x99136,Contract,2022-07-12
+198, Lee Murphy ,,1982-06-22,1996-07-02,Operations,,45,Chennai,,-1000.0,zroberts@hotmail.com,(278)812-4536,Contract,2017-05-17
+199, Laura Boone ,Male,1983-01-06,2013-05-11,  Engineering  ,,24,Chennai,,,brodgers@yahoo.com,293.553.4450x9708,Intern,2022-01-02
+200, Olivia Hunter ,Male,1965-03-01,1992-12-30,Sales,,33,Hyderabad,Terminated,-1000.0,patriciaashley@yahoo.com,647-562-7337,,2009-10-01
+200, Olivia Hunter ,Male,1965-03-01,1992-12-30,Sales,,33,Hyderabad,Terminated,-1000.0,patriciaashley@yahoo.com,647-562-7337,,2009-10-01
+201, Ryan Warren ,Male,1977-08-29,1996-01-23,Finance,Software Engineer,27, ,Active,-1000.0,john78@guzman-patel.com,0447443372,Contract,
+202, Mrs. Kimberly Thomas ,Male,1970-11-06,1975-11-21,Operations,Operations Lead,14,Remote,Resigned,,mary19@hotmail.com,444.471.0609x6810,Intern,1983-04-27
+203, Susan Alexander ,Male,1969-02-18,1969-08-04,Finance,Finance Analyst,5,Remote,Active,114070.0,ycooper@hotmail.com,001-840-737-4012x867,,
+204, Jeff Carter ,Male,1984-02-20,1997-09-01,Engineering,Finance Analyst,26,Remote,Terminated,37630.0,gregedwards@gmail.com,(916)937-6662x853,,2008-10-13
+205, Katherine Bailey ,Male,1966-01-01,1970-01-01,Sales,HR Manager,13,Hyderabad,,43146.0,gonzalezmikayla@yahoo.com,3000727243,,1986-10-10
+206, Amanda York ,Male,1965-01-03,1984-06-04,Operations,Finance Analyst,41, ,Terminated,-1000.0,,+1-332-638-7692x42007,Intern,1993-04-15
+207, Megan Mendoza ,Female,1974-03-29,1991-09-30,Operations,,4,Remote,,32436.0,zmcclure@gmail.com,902-843-2591,Intern,2007-03-14
+208, Alexander Ward ,Male,1993-10-06,2023-08-08,HR,Software Engineer,50,Hyderabad,,-1000.0,kolsen@gmail.com,(535)581-3817x65328,Full-time,2024-10-05
+209, Brandon Mcbride ,,2003-01-19,2005-01-11,sales,Sales Executive,20, ,Resigned,,katherinehuber@gmail.com,430-099-0950x35752,,2009-06-11
+210, Rachel Jones ,Female,1991-05-10,2017-03-28,sales,,25,Hyderabad,,,william27@gmail.com,001-504-886-8496x5831,Full-time,2025-01-10
+211, John Anderson ,Female,1977-09-11,2007-03-21,Sales,,43,Hyderabad,Terminated,-1000.0,moorearthur@gmail.com,(441)859-4947,Contract,2010-01-13
+212, Laurie Herrera ,Female,1969-10-03,1992-09-06,Sales,HR Manager,13,Remote,Active,-1000.0,galvarez@owens.biz,031-300-8577x9376,Intern,
+213, Thomas Carter ,,1985-05-10,2015-11-05,Finance,Operations Lead,27,Remote,Active,-1000.0,darrell54@yahoo.com,081.217.6616,Contract,
+214, Erika Thomas ,Female,1971-04-07,2016-10-23,  Engineering  ,Operations Lead,50,Hyderabad,Terminated,,drice@yahoo.com,001-378-810-2581x9178,,2019-02-09
+215, Katherine Waters ,Male,1998-02-22,2013-05-22,HR,,44,Remote,,120492.0,arellanoamber@gmail.com,169.293.1756,Full-time,2025-01-15
+216, Chad Russo ,Male,85-07-21,2001/11/29,Operations,Operations Lead,14, ,Active,123909.0,james55@yahoo.com,140.763.1881,Contract,
+217, Jacob Obrien ,,1978-10-11,2008-02-25,HR,Sales Executive,43,Bangalore,Resigned,-1000.0,,686.328.3481x68123,,2023-03-06
+218, Kari Moody ,,1978-05-30,2013-03-05,sales,Sales Executive,50,Chennai,Active,-1000.0,ralph79@hotmail.com,(589)961-0419x9546,Contract,
+219, Elizabeth Contreras ,Male,1971-07-22,2019-06-16,Finance,Software Engineer,32,Chennai,Active,53414.0,zgonzalez@gmail.com,001-594-529-2877,Full-time,
+220, Francisco Walker ,Male,2003-03-05,2017-12-02,HR,,1,Bangalore,,96392.0,michellepatel@preston.com,(483)546-8258x161,Contract,2018-12-10
+221, William Thompson ,,1968-02-21,2017-12-01,Operations,Software Engineer,42,Hyderabad,Terminated,52675.0,melanieruiz@lucas.com,518.806.4699,Intern,2024-03-29
+222, Devin Potter ,,,1999-08-24,Finance,Sales Executive,36, ,Active,,reidjames@gmail.com,482.696.3826,Full-time,
+223, Victoria Reyes ,Male,1975-12-05,2004-12-24,Engineering,Software Engineer,16,Chennai,Resigned,-1000.0,steven75@fletcher.com,474.105.2479x6286,Intern,2020-05-17
+224, Trevor White ,Male,1977-02-19,1993-12-24,Engineering,HR Manager,16, ,Resigned,-1000.0,brenda93@martin.info,375-669-5033,Full-time,1994-08-06
+225, Toni Johnson ,,1994-04-11,2020-05-20,Engineering,HR Manager,11, ,Active,-1000.0,goodmanjustin@davis.com,001-509-391-0027,Full-time,
+226, Kathleen Dixon ,,1991-10-20,2020-08-03,sales,HR Manager,26,Chennai,Active,-1000.0,nancyjones@yahoo.com,223-395-5122,Intern,
+227, Gabrielle Garcia ,Male,1987-09-11,2004-11-14,HR,HR Manager,18,Chennai,Terminated,85286.0,patriciadavis@jones.biz,(661)385-7009x8275,,2006-12-13
+228, Jessica Allen ,,1976-05-08,2013-07-06,Sales,Sales Executive,48,Remote,,-1000.0,,+1-636-928-4051x358,Intern,2013-08-01
+229, Latoya Coleman ,,1983-12-08,2006-05-08,Sales,,18,Chennai,Terminated,,qzhang@white-williams.com,130-037-5621x36770,Contract,2011-07-03
+230, Kara Thompson ,Female,1968-03-22,1995-03-28,Operations,,16,Remote,Resigned,-1000.0,harrisamy@hotmail.com,(013)511-3175,Full-time,2008-05-29
+231, Jennifer Arnold ,Female,1979-10-28,1994-05-22,  Engineering  ,Software Engineer,16, ,Terminated,-1000.0,lindavega@villanueva.com,001-659-122-0913x1385,Intern,2016-11-22
+232, Danielle Bean ,Female,1982-03-02,2023-11-29,sales,Software Engineer,6,Hyderabad,Terminated,-1000.0,bryantkristina@hotmail.com,(747)149-2911,Intern,2024-09-24
+233, Jordan Juarez ,,1978-07-14,1993-03-19,Operations,HR Manager,8, ,Terminated,32753.0,,215.577.7652x3303,Full-time,2009-10-08
+234, Andrew Smith ,Female,1975-10-18,1982-07-05,Operations,Sales Executive,25,Chennai,Terminated,,ypayne@banks.com,(895)539-1117,Full-time,1988-05-21
+235, Paul Zimmerman ,Female,1967-02-02,1981-07-03,HR,Sales Executive,13, ,Terminated,109879.0,vincentdavis@yahoo.com,001-280-674-1470,,2012-05-22
+236, Tammy Allen ,Female,2001-12-31,2024-10-07,Sales,,9, ,,126060.0,wmccormick@scott-stephens.info,481.229.0768x668,Full-time,2024-10-14
+237, Natalie Myers ,Female,1999-11-04,2018-12-06,  Engineering  ,,46, ,Terminated,,rickybrooks@cole.com,796.732.1175,Intern,2021-05-17
+238, Steven Williams ,,1979-09-24,2021-10-06,Engineering,Operations Lead,11,Remote,Active,36682.0,mwilliams@johnson.info,254-646-5459,Intern,
+239, Kelly Sanchez ,Female,1991-04-28,2024-04-22,Operations,Sales Executive,21, ,,-1000.0,pacosta@george.info,+1-235-317-9861x34433,Full-time,2025-01-22
+240, Brad Patel ,Male,1988-05-09,2023-12-07,Finance,HR Manager,21,Hyderabad,,120313.0,crystal99@boyd.org,(628)317-1213x2836,,2024-02-23
+241, Tracy Brown ,Male,1980-04-22,2007-03-25,  Engineering  ,Finance Analyst,35,Chennai,Resigned,,jessica87@yahoo.com,059-353-2991,Contract,2016-10-01
+242, Kelly Brown ,Male,2002-08-01,2012-10-03,Engineering,HR Manager,6,Remote,,-1000.0,josephking@wong.biz,+1-660-828-3401x271,Contract,2019-03-07
+243, Troy Green ,Male,1972-06-28,1989-11-26,Operations,Sales Executive,47, ,Active,-1000.0,montgomeryjames@mosley.com,299-192-1212,Intern,
+244, Sherry Torres ,,1978-04-16,1985-09-17,Finance,Operations Lead,42, ,Terminated,81575.0,richardrichards@yahoo.com,846.991.0258x09828,Full-time,2005-02-25
+245, Linda Schmidt ,,1980-10-22,1988-01-03,Sales,HR Manager,45,Chennai,Resigned,60089.0,desireecox@mccoy.biz,682.454.6212,,1988-04-10
+246, Jessica Velez ,Male,1980-09-21,1997-11-04,Finance,HR Manager,36,Chennai,Resigned,-1000.0,philippugh@clay-espinoza.com,(475)068-9951,Intern,2023-11-22
+247, Lindsay Diaz ,Female,1974-02-16,2015-12-26,Sales,Finance Analyst,1,Bangalore,Active,-1000.0,,+1-138-140-3177x140,Intern,
+248, Greg Russell ,Female,1988-10-11,2004-05-01,sales,,17,Chennai,,51118.0,lopezchristopher@gmail.com,+1-871-503-6712,,2006-12-09
+249, Danny Ramsey ,Female,1983-10-01,2007-07-02,sales,Software Engineer,6,Bangalore,Terminated,93826.0,tblake@thompson.biz,476.455.8656,Full-time,2023-10-25
+250, Kimberly Munoz ,,1999-08-24,2021-12-16,  Engineering  ,Operations Lead,38,Remote,,-1000.0,jvalencia@allen.com,(736)061-5142x16576,Full-time,2022-09-13
+251, Patricia Gutierrez ,Male,1966-07-03,1983-07-16,  Engineering  ,Finance Analyst,23,Chennai,Active,,thart@hotmail.com,(412)641-3762x2137,Contract,
+252, Sandra Morgan ,,1966-08-20,2002-11-28,  Engineering  ,Operations Lead,22,Bangalore,Resigned,,jenniferjohnson@gmail.com,(142)175-5525x770,,2025-01-20
+253, Billy Williams ,Female,1992-06-30,2018-07-01,  Engineering  ,HR Manager,15,Bangalore,,82500.0,jonesjennifer@hotmail.com,+1-161-432-4693x68861,,2018-11-09
+254, Sydney Bean ,Male,1986-04-25,1989-09-15,  Engineering  ,Sales Executive,13,Remote,,105377.0,karenhiggins@jones.biz,163-577-1429,,1993-10-13
+255, Jay Diaz ,Female,1967-03-30,2007-12-21,HR,Sales Executive,46,Hyderabad,Resigned,,vmeyer@davenport.com,+1-140-449-0235x70636,Full-time,2010-02-27
+256, Ethan Chavez ,,1992-10-18,2002-03-03,HR,Operations Lead,11, ,Resigned,-1000.0,umiller@wright-mclaughlin.com,898-260-7249x05686,Full-time,2016-05-14
+257, Bernard Tran ,,1978-04-06,1998-03-23,HR,Software Engineer,12, ,Active,103473.0,craigsnow@hotmail.com,3845064680,,
+258, Robert Campbell ,,1972-11-01,2010-12-13,  Engineering  ,Finance Analyst,3,Hyderabad,Resigned,97007.0,emily92@hotmail.com,001-376-551-0975x36171,Full-time,2016-09-26
+259, Kristen Kelley ,Female,1965-10-19,2011-05-07,Sales,Sales Executive,24, ,Terminated,108279.0,christinebenton@hotmail.com,(711)107-7014,Full-time,2019-08-02
+260, Jacqueline Brown ,,1970-01-09,1992-01-05,sales,HR Manager,26, ,Terminated,,ryan92@harris.com,220.411.0496,Contract,2009-03-17
+261, Theresa Hernandez ,,1988-08-28,1991-02-15,  Engineering  ,HR Manager,16,Chennai,Active,-1000.0,tholden@gmail.com,+1-473-588-4015x0962,Intern,
+262, Karen Ray ,Male,1965-06-01,2004-04-18,Finance,Operations Lead,4, ,,,anthony65@taylor-smith.com,+1-434-807-9092x545,Contract,2014-01-08
+263, Carol Lin ,Male,1974-01-26,2022-07-24,sales,Software Engineer,4,Hyderabad,Terminated,114034.0,wagnergeoffrey@gmail.com,(018)780-8802,Full-time,2023-09-12
+264, Robert Johnson ,Female,1979-09-05,1980-12-18,Operations,Software Engineer,43,Hyderabad,Terminated,112930.0,hboyd@gmail.com,(581)884-1889x128,,1981-12-24
+265, Lisa Grant ,,1999-10-30,2007-09-18,Engineering,HR Manager,28,Hyderabad,,,duartemolly@brown.net,3041776796,,2019-01-08
+266, John Patterson ,,1993-08-30,2024-05-28,Engineering,Operations Lead,32,Chennai,Active,-1000.0,lisa28@hotmail.com,934.135.0030,Intern,
+267, Katie Flores ,Male,1970-02-05,2003-10-21,Operations,Finance Analyst,31, ,,-1000.0,tjackson@smith-quinn.com,130.281.0163,Contract,2012-02-29
+268, Robert Rodriguez ,Female,1966-08-15,2005-06-20,Finance,Sales Executive,33,Remote,Resigned,138871.0,haleydenise@gmail.com,593-821-2867x554,,2014-05-06
+269, Teresa Bryant ,,1983-09-12,1988-08-12,Finance,HR Manager,19,Hyderabad,Terminated,-1000.0,tina52@hotmail.com,122.260.1569x208,Full-time,2005-03-27
+270, Ruth Chan ,Male,1984-04-20,2022-05-26,Sales,Software Engineer,36,Chennai,,,jordanpatricia@ritter-carter.com,(835)056-2470,,2022-08-30
+271, David Owens ,Male,1970-09-24,2007-06-17,  Engineering  ,Sales Executive,49,Hyderabad,Resigned,-1000.0,sarahjones@martin.com,615-229-6108,Intern,2020-11-21
+272, Samuel Miller ,,1984-12-10,1992-03-05,sales,Finance Analyst,31,Bangalore,Active,,fgarcia@donaldson-spencer.org,087-507-1289,Full-time,
+273, Joshua Oneill ,Male,1966-12-30,1987-11-28,Operations,HR Manager,43,Hyderabad,Terminated,-1000.0,,001-880-075-6660x06016,Intern,2018-11-04
+274, Daniel Nelson ,Male,1977-06-03,1994-08-01,sales,,33,Bangalore,Terminated,,weeksdarren@thompson-lopez.com,3657932761,,2021-11-05
+275, Nichole Jordan ,Male,1991-07-27,1999-07-08,Operations,Operations Lead,43,Remote,,,ndavis@goodman-nelson.com,457.825.5903x698,Intern,2023-06-21
+276, John Morales ,Female,2001-12-27,2018-11-20,  Engineering  ,Sales Executive,11,Bangalore,Terminated,-1000.0,wcohen@scott-turner.com,(047)451-6388,Contract,2022-09-14
+277, Michele Graham ,,1986-03-12,2010-02-18,Finance,,39,Bangalore,Active,,huertajack@king.biz,(768)107-1597,Contract,
+278, Michael Garza ,Female,1978-07-05,1982-05-27,Sales,,12,Remote,Terminated,139099.0,,001-292-623-3596x145,Full-time,2023-09-17
+279, Evan Webb ,Female,1997-11-13,2007-03-11,Operations,Software Engineer,3, ,,128966.0,pattersonmichelle@gmail.com,001-464-305-0029x002,Full-time,2012-12-16
+280, Brianna Wiley ,,1974-12-10,2018-11-19,Sales,Finance Analyst,30, ,Active,128369.0,steveflores@gmail.com,073.357.4764,Contract,
+281, Christopher Bray ,Male,1989-11-19,1995-01-02,HR,Sales Executive,21, ,Active,,tracyjohnson@yahoo.com,060.095.4385,Full-time,
+282, Carrie Hill ,Female,1986-05-16,1998-11-10,Engineering,Finance Analyst,40,Chennai,Resigned,-1000.0,robertdavid@yahoo.com,(651)643-9587x2191,,2003-12-03
+283, Chelsea Wolfe ,,1987-03-01,2008-07-02,HR,,5,Hyderabad,,,kathleen48@hotmail.com,001-535-271-4298,Contract,2013-09-01
+284, Nicole Hines ,,1974-06-02,1986-09-15,  Engineering  ,,17, ,Resigned,90866.0,cbriggs@lane.org,2990228447,Intern,2005-12-24
+285, Cathy Alexander ,Female,1965-07-14,1976-06-30,  Engineering  ,Operations Lead,32,Bangalore,Active,-1000.0,kelsey53@dixon.org,+1-493-101-1604x9384,Intern,
+286, Sandra Rodriguez ,,1994-08-20,2022-07-31,Finance,HR Manager,9,Hyderabad,Active,-1000.0,daniellebradford@hotmail.com,(307)033-6326,Full-time,
+287, Carrie Pace ,Male,1990-11-30,2019-03-11,Engineering,Operations Lead,11,Hyderabad,Terminated,,sdavies@yahoo.com,001-966-175-9420x472,Intern,2023-11-26
+288, Elijah Bennett ,Male,1971-07-19,2010-08-02,HR,,10,Remote,Terminated,,stephencrawford@hotmail.com,845.322.0017x9535,Full-time,2018-08-22
+289, Kenneth Wood ,,1978-09-10,2003-12-11,Sales,Software Engineer,35,Chennai,Terminated,,brandon23@gmail.com,+1-246-212-7840x7044,Full-time,2011-10-05
+290, Danny Harris ,Male,1972-02-07,1992-08-03,Finance,Sales Executive,32, ,Active,,ygonzalez@adams.com,(493)930-2301x39002,Full-time,
+291, Roger Key ,Male,1979-04-07,2018-01-25,Sales,,42,Remote,,,mcintoshraymond@yahoo.com,545-710-6607,Contract,2024-04-26
+292, Gordon Moore ,,1983-01-13,2010-01-19,  Engineering  ,Sales Executive,28,Bangalore,Active,-1000.0,zcain@gmail.com,+1-690-076-2093x252,Full-time,
+293, Marie Silva ,,1969-08-01,1973-12-09,Finance,Sales Executive,30,Bangalore,Resigned,71373.0,graymark@chen.com,(899)019-2298x766,,2002-02-03
+294, Alexander Wilson ,Male,1988-02-25,1990-06-01,HR,Software Engineer,17,Bangalore,Terminated,30381.0,michaeldavis@gmail.com,001-663-703-1047,Intern,1991-01-21
+295, Rodney Palmer ,,1972-03-15,2012-07-13,  Engineering  ,,4,Remote,Terminated,107132.0,gdavis@morrison.com,578.884.2501x1610,Intern,2014-08-13
+296, Kevin Aguilar ,,1964-04-24,1998-09-13,Engineering,,24, ,Active,-1000.0,lauraschmitt@yahoo.com,(764)909-2662x451,Full-time,
+297, Kenneth Ballard ,Female,1974-03-03,1989-04-20,Sales,Software Engineer,32,Chennai,Active,79157.0,paul52@yahoo.com,+1-184-806-4490x148,Intern,
+298, Veronica Ramirez ,Female,1995-09-10,2022-09-26,HR,Finance Analyst,32, ,Terminated,-1000.0,parkerchristopher@green.com,+1-852-754-6994x4929,Contract,2023-08-10
+299, Kevin Lopez ,Male,1975-04-08,1985-09-27,Operations,Finance Analyst,32,Remote,Active,,kbarker@campbell.info,(992)105-6193,Intern,
+300, Karen Cortez ,Male,2003-02-22,2005-11-16,sales,HR Manager,18,Bangalore,Resigned,92601.0,briannamedinahotmail.com,656.415.5571x43835,Intern,2007-10-20
+300, Karen Cortez ,Male,2003-02-22,2005-11-16,sales,HR Manager,18,Bangalore,Resigned,92601.0,briannamedinahotmail.com,656.415.5571x43835,Intern,2007-10-20
+301, Steven Escobar ,Male,1998-07-30,2008-02-06,  Engineering  ,,24,Remote,Resigned,47590.0,beasleyleah@lloyd.com,+1-631-826-7921x999,Full-time,2022-05-17
+302, Lori Parker ,Male,1997-02-22,1997-06-18,Sales,HR Manager,37, ,,149685.0,williamsgeorge@mitchell.com,+1-484-522-1479x686,Intern,2009-12-02
+303, Kenneth Rasmussen ,Female,1964-05-20,2014-03-06,Operations,Operations Lead,45,Remote,,112850.0,,001-314-056-0300,Full-time,2018 May 15
+304, Austin Robinson ,Female,1992-09-20,2011-07-23,Engineering,Operations Lead,22,Hyderabad,,-1000.0,scott10@rivera.org,+1-943-211-3674x5921,Intern,2020-04-14
+305, Joseph Richards ,Male,1972-09-28,2013-09-12,sales,Operations Lead,4,Chennai,,34078.0,bryan50@gmail.com,001-550-596-2406,,2015-04-26
+306, Ryan Olson ,Female,1966-04-19,2012-01-10,HR,HR Manager,46,Bangalore,Resigned,102057.0,kgarcia@thompson-ramos.com,103.211.4600,,2014-12-16
+307, Benjamin Dyer ,,1975-07-29,2002-10-18,Engineering,Sales Executive,26,Chennai,Terminated,-1000.0,peter36@hotmail.com,+1-535-444-5862,,2009-02-27
+308, Jeffrey Hubbard ,Female,1986-08-10,2024-10-22,Sales,Operations Lead,46,Bangalore,Active,74390.0,johnmyers@simpson-baxter.org,(931)911-0600,Intern,
+309, Tiffany Shannon ,,1973-12-27,2002-03-28,Finance,Software Engineer,25,Bangalore,,,jimmylee@keith-smith.biz,4994038777,,2007-12-23
+310, Miss Erica Smith ,Female,1981-07-07,1998-05-15,HR,Operations Lead,37,Bangalore,,41941.0,allen41@hotmail.com,182.539.1881x2714,Intern,2009-01-17
+311, Katherine Tanner ,Male,1984-04-16,2008-02-21,Sales,Sales Executive,23,Bangalore,,58071.0,,001-324-117-4005x33975,,2020-08-01
+312, Roger Bender ,Female,1979-05-13,2000-03-01,Finance,,30,Bangalore,,-1000.0,lopezjohn@watkins.com,001-458-496-6332x99418,,2002-07-12
+313, Stephanie Lara ,Female,1978-07-02,1986-07-13,HR,Sales Executive,7,Hyderabad,Resigned,-1000.0,higginsteresa@gmail.com,+1-280-566-3963x7356,,2017-07-10
+314, Michael Thomas ,Female,1966-10-19,1972-05-28,Sales,HR Manager,3,Chennai,,,klewis@yahoo.com,(222)043-9687,Intern,2009-03-23
+315, Juan Anderson ,Male,1994-11-20,2016-01-31,sales,Sales Executive,15,Hyderabad,Resigned,-1000.0,lisa70@garcia-dawson.net,+1-780-495-1563x3636,Full-time,2023-07-09
+316, Michael Powell ,Male,1970-11-03,2012-10-28,Finance,Sales Executive,13,Remote,Terminated,,martinwendy@yahoo.com,954-381-6992,,2019-08-07
+317, Joshua Smith ,Female,1990-04-04,2003-03-11,Sales,Software Engineer,46,Hyderabad,Terminated,65009.0,ericperry@moss.net,240.774.2491x91829,Full-time,2023-07-06
+318, Christina Sheppard ,Male,1983-02-15,1987-05-31,Finance,Sales Executive,23,Hyderabad,Active,137656.0,deborahrichards@harding.info,001-319-690-3545,,
+319, Jason Perez ,,1995-08-27,2004-09-26,Engineering,Operations Lead,22,Chennai,,,caleb85@miller-james.com,5626242072,Contract,2008-10-22
+320, Meghan Briggs ,Male,1964-04-14,1979-03-15,Engineering,HR Manager,35,Hyderabad,Terminated,36539.0,jesuscampbell@hodges-sawyer.com,001-027-175-3296x446,Intern,1988-12-04
+321, Kenneth Williams ,,1977-07-21,1978-08-09,  Engineering  ,Software Engineer,32,Hyderabad,Active,,christinagonzalez@gmail.com,501.791.3167,Intern,
+322, Mark Martin ,Female,1971-09-05,1991-04-20,Finance,HR Manager,44,Bangalore,Active,,mrichard@stone.com,+1-670-554-8420x563,Contract,
+323, Terry Wagner ,,1995-08-10,2010-03-16,HR,Sales Executive,10,Remote,,,nathanbell@taylor.net,1851273680,,2017-10-20
+324, Andrea Hall ,Male,1975-11-27,1991-11-27,Engineering,Software Engineer,50, ,,68132.0,hahnrobert@harris.com,5963062681,Intern,1994-05-29
+325, Thomas Graham ,,2002-01-12,2021-03-02,sales,Sales Executive,27,Remote,Active,-1000.0,tylerfreeman@hotmail.com,+1-091-499-9637x802,,
+326, David Hernandez ,Male,1975-01-11,1989-03-10,sales,Operations Lead,42,Chennai,,-1000.0,vbass@hotmail.com,651-361-4661x01854,,1994-01-24
+327, Barbara Bird ,Female,1979-08-20,1991-05-08,Engineering,,43,Bangalore,Terminated,-1000.0,mwood@anderson-mitchell.org,(561)942-3893x912,Full-time,2011-03-23
+328, Rachel Johnson ,Female,1980-05-25,2007-02-15,Sales,Finance Analyst,8,Bangalore,Active,,wanderson@miller.net,001-606-755-6445,Intern,
+329, Douglas Colon ,Male,1996-06-26,2023-12-13,HR,,32,Hyderabad,Resigned,,gordondavid@yahoo.com,653-204-1909x653,Intern,2024-08-12
+330, Melanie Lopez ,Male,1998-02-03,2023-10-27,  Engineering  ,Sales Executive,26,Chennai,Resigned,-1000.0,amandadunn@hotmail.com,+1-562-634-5060x5876,Contract,2025-03-25
+331, Amanda Valenzuela ,Female,1971-06-11,2017-04-14,sales,Software Engineer,13,Remote,Terminated,-1000.0,martinezedward@johnston.com,189-951-7697,Intern,2019-07-23
+332, Robert Bryant ,Male,1970-12-08,2009-03-20,Finance,HR Manager,45,Chennai,Resigned,74075.0,tchase@gmail.com,(313)593-8428,Intern,2010-12-04
+333, Amy Calderon ,Male,1974-05-11,2021-02-19,Sales,Finance Analyst,13,Remote,Terminated,,christopherramirez@simpson-griffin.com,(387)502-1224x8561,Full-time,2023-09-18
+334, Teresa Smith ,Female,2000-06-01,2019-03-16,HR,HR Manager,14,Hyderabad,Active,,xroberts@mendez.info,428-603-5922,Full-time,
+335, Travis Cameron ,Female,2002-02-04,2004-05-25,sales,Operations Lead,35, ,Terminated,-1000.0,qshepherd@smith.info,258.111.3765x2370,,2007-05-03
+336, Sarah Madden ,Male,1992-09-25,2013-03-01,Engineering,,15,Remote,Terminated,-1000.0,baldwinwendy@sandoval.net,8689981052,Full-time,2018-03-26
+337, Alex Combs ,Female,2000-07-29,2024-12-25,Operations,,40,Bangalore,Active,32068.0,hollandtracy@yahoo.com,815-180-9127,,
+338, Daniel Ramirez ,Female,1969-09-30,2000-06-30,  Engineering  ,HR Manager,46,Hyderabad,Terminated,-1000.0,zlogan@strong-day.com,+1-652-211-8211x51443,Contract,2010-12-03
+339, Thomas Jackson ,Female,1970-12-03,2006-08-11,Sales,Sales Executive,30,Remote,Resigned,-1000.0,molly42@benjamin.biz,+1-381-112-3860x27528,Intern,2010-02-12
+340, Toni Johnson ,Male,1992-10-24,2016-07-18,Engineering,,7,Chennai,Resigned,58112.0,fbradley@yahoo.com,(483)541-4447x7677,Intern,2020-08-15
+341, Jeffrey Romero ,Female,1971-11-29,2004-01-30,Engineering,Sales Executive,6,Hyderabad,Active,88160.0,louisrojas@costa.biz,805.444.3151x0060,Contract,
+342, Kenneth Webb ,Female,1978-04-17,2021-10-17,Engineering,Sales Executive,33,Bangalore,,137660.0,tmoran@yahoo.com,(807)405-3770x25967,,2022-03-04
+343, Robert Jefferson ,Female,1998-09-15,2005-11-16,  Engineering  ,Operations Lead,36, ,Active,,agonzalez@house-young.com,001-068-195-9947x1267,Full-time,
+344, Christina Mcguire ,Male,1981-10-28,2009-11-21,HR,Software Engineer,50,Remote,Resigned,-1000.0,kevinhenson@yahoo.com,052-198-9386x764,Full-time,2018-07-03
+345, Katie Lutz ,Female,1978-06-11,2002-05-05,Engineering,Operations Lead,28,Chennai,,-1000.0,jcervantes@gmail.com,(883)314-2187,Intern,2013-02-28
+346, Daniel Villanueva ,Male,2001-11-18,2017-10-05,Finance,HR Manager,24,Remote,Active,-1000.0,kimberlyhopkins@white.com,(485)217-3936x910,Contract,
+347, Bryan Scott ,Female,1973-11-08,1995-05-19,Finance,,44,Chennai,Active,61977.0,robinsonwilliam@mendez.org,(503)210-3205x23435,Intern,
+348, Darlene Smith ,Male,2001-10-24,2009-05-23,Finance,Software Engineer,16,Bangalore,Active,,kgraham@meyer.com,691-492-1524x45458,Full-time,
+349, Logan Hernandez ,Male,1991-07-07,2006-03-31,sales,Operations Lead,29,Remote,Terminated,72467.0,jamesharris@christensen-jones.com,001-629-700-9716x236,,2013-07-05
+350, Leah Huffman ,Female,1995-12-30,2001-03-28,Sales,Software Engineer,4,Chennai,Terminated,,kmays@hotmail.com,989-364-6078x19470,,2002.10.26
+351, Zachary Moss ,,1965-03-29,1982-11-17,Sales,Finance Analyst,5,Bangalore,Resigned,-1000.0,ujackson@scott.info,(523)915-5802x18594,,16 July 2015
+352, Shane Craig ,Male,1970-07-19,2014-12-04,Sales,Software Engineer,36,Hyderabad,Terminated,-1000.0,nandrews@melendez.com,512-662-8957x7674,Full-time,2017-03-26
+353, James Roy ,Male,1982-02-16,2009-11-24,HR,,39, ,Terminated,,pacelarry@bishop-duncan.info,158.140.5280x922,Intern,2011-02-18
+354, Amanda Diaz ,Male,1967-02-01,1968-12-15,Operations,,47,Hyderabad,,140787.0,christine32@gmail.com,+1-617-000-7187x88053,Contract,1981-05-04
+355, Laura Miller ,Female,1993-12-08,2013-12-15,Engineering,Operations Lead,26, ,Active,,bjohnson@yahoo.com,302-173-8856x1637,,
+356, Eric Rivera ,Female,1989-06-04,2014-08-09,Operations,HR Manager,28,Remote,Resigned,-1000.0,gphelps@yahoo.com,+1-889-644-2010,,2024-10-21
+357, Zachary Williams ,,1979-06-30,1998-07-10,Finance,Software Engineer,17,Hyderabad,,-1000.0,rebeccabenjamin@yahoo.com,955.759.3528,Full-time,2016-01-25
+358, Angel Burnett ,Male,1973-09-25,1998-03-01,sales,,29,Bangalore,,-1000.0,bmontes@gmail.com,(797)525-1614,,2005-12-18
+359, Sarah Bryant ,Male,1972-09-21,1986-11-05,sales,Software Engineer,11, ,Terminated,-1000.0,iquinn@johnson.com,7003626455,Intern,2012-12-28
+360, Gregory Stafford ,Female,1973-10-28,2012-08-11,Sales,,27,Chennai,,149188.0,miranda08@hotmail.com,969.633.4746x77916,,2022-09-09
+361, Lindsay Hawkins ,Female,1993-06-18,2001-08-22,Operations,HR Manager,14, ,,61754.0,mark33@yahoo.com,+1-306-171-6798,,2007-08-04
+362, David Moore ,,1986-03-02,2001-01-23,sales,,13,Chennai,,-1000.0,melissavazquez@yahoo.com,010.088.0501x5147,Contract,2018-12-18
+363, Melissa Bell ,Female,1968-03-27,2014-12-04,Engineering,Software Engineer,42, ,Terminated,109820.0,ajenkins@hotmail.com,+1-283-386-3137x768,Full-time,2020-11-11
+364, Francisco Dean ,Male,1978-02-14,2023-05-05,Operations,,41,Remote,Resigned,,ricealexander@yahoo.com,561.856.0216,,2024-10-20
+365, Richard Acosta ,Male,1964-12-01,1971-10-20,Engineering,Sales Executive,31,Remote,,,john93@schultz.com,573-142-2757,Contract,1992-06-30
+366, Charles Burns ,,1966-01-26,2019-12-06,Operations,HR Manager,20,Remote,,,awright@wright-fields.com,050.259.9828x06159,,2024-08-02
+367, Amber Walls ,Male,1988-05-26,2001-05-27,Operations,HR Manager,40,Bangalore,Terminated,,wagnersherry@yahoo.com,935.203.8690x8844,Full-time,2009-01-04
+368, Matthew Johnson ,Male,1965-02-15,1998-07-14,Finance,,10,Hyderabad,Active,,westbrenda@coleman.biz,+1-219-703-1546,Contract,
+369, Mary Cross ,,1990-09-30,2015-01-17,Operations,Sales Executive,4,Remote,,32721.0,jlyons@hotmail.com,(451)267-5951,Full-time,2017-05-14
+370, Tammy Dixon ,Male,1970-12-16,2018-03-25,Finance,Sales Executive,35,Remote,,,mark34@gmail.com,(750)341-1025x41302,Contract,2019-02-09
+371, Michael Mason ,Male,1993-04-16,2015-07-30,sales,Finance Analyst,16,Remote,Terminated,,jennifer35@martin-cox.com,202.914.9113,Contract,2022-07-31
+372, Gordon Carr ,Female,1974-07-22,1978-07-13,Engineering,Finance Analyst,50,Bangalore,Active,-1000.0,alopez@gray.com,(642)993-5264x13576,Intern,
+373, Misty Campbell ,Female,1969-07-26,1971-09-09,HR,Software Engineer,21,Remote,,,mjones@saunders.com,(767)217-0324x3062,Intern,1987-06-03
+374, Melissa Jackson ,Female,1994-07-17,2018-12-31,  Engineering  ,Finance Analyst,30,Bangalore,Active,140876.0,oconnorian@yahoo.com,610.660.7128x2526,,
+375, Lisa Lane ,Female,1997-12-01,2013-02-04,  Engineering  ,Sales Executive,46,Remote,Terminated,66336.0,eddiecastro@yahoo.com,001-500-820-2346x2510,Intern,2015-03-19
+376, Todd Gutierrez ,,1981-11-29,1982-05-04,  Engineering  ,Software Engineer,2, ,Terminated,-1000.0,rachelvaughan@gmail.com,539-985-8535,Intern,1996-10-05
+377, Sean Solis ,,1991-08-12,1993-02-17,sales,Operations Lead,32,Hyderabad,Terminated,134412.0,scott33@gmail.com,001-057-724-8894,Intern,2000-09-23
+378, Susan Mueller ,,1978-10-26,2001-03-15,Finance,Operations Lead,29,Chennai,Active,,hsims@graves-keller.com,+1-017-677-4875,Intern,
+379, Richard Martinez ,Male,1992-08-26,2005-06-26,HR,Finance Analyst,31,Chennai,Resigned,,robertsrichard@jackson.info,124.987.1048x55274,,2015-09-13
+380, David Solomon ,Female,1991-01-21,2018-09-16,Finance,Finance Analyst,12,Bangalore,,-1000.0,josewilliamson@matthews.org,(917)559-0314,Intern,2023-10-18
+381, Evan Romero ,Male,1977-11-15,1987-12-04,Engineering,HR Manager,13,Remote,Resigned,,xjackson@martinez.com,652-086-8202,Intern,1990-02-11
+382, Rhonda Jenkins ,Female,1966-04-28,2001-08-26,HR,Operations Lead,36,Chennai,Resigned,-1000.0,stephaniebriggs@hernandez.com,672-612-8335x9796,Full-time,2003-04-19
+383, Sabrina Jones ,Female,1972-12-28,2025-03-19,Operations,Finance Analyst,36,Hyderabad,Terminated,,jamesellis@hunter.net,0028873029,Full-time,2025-03-31
+384, Jose Carr ,,1997-08-28,2001-11-21,  Engineering  ,,13,Bangalore,,-1000.0,cynthia87@dean.com,+1-313-720-2954x214,Contract,2012-07-07
+385, Jessica Lopez ,Male,1997-11-19,2020-11-21,  Engineering  ,HR Manager,24, ,Active,38447.0,sandra42@yahoo.com,(604)925-5845,Intern,
+386, Kim Hoffman ,Female,2000-08-18,2018-06-15,Sales,HR Manager,25,Hyderabad,Active,-1000.0,egraham@reed-johnson.info,001-309-244-1787x4380,Full-time,
+387, Barbara Hammond ,,1975-05-11,1991-06-14,Operations,HR Manager,8, ,Active,-1000.0,susanpeck@hotmail.com,383-680-3152x7692,,
+388, Tracey Marshall ,,1977-12-14,1992-01-14,Operations,Finance Analyst,18,Hyderabad,Terminated,-1000.0,stevensmith@hotmail.com,(190)391-6882,Full-time,1994-11-14
+389, Tyler Vargas ,Male,1971-08-08,2003-08-24,  Engineering  ,,34,Chennai,Active,,colemanjohn@miller.com,005-017-1839x996,Full-time,
+390, Michael Bray ,Female,1970-04-03,2023-10-14,Sales,HR Manager,29,Bangalore,Terminated,,hobbscynthia@hotmail.com,001-081-901-5620x3685,,2024-11-01
+391, James Wilkerson ,Female,1982-07-18,1983-04-28,Operations,Finance Analyst,39,Chennai,,,richard25@boyd-morgan.info,033.553.1470,Intern,1998-01-06
+392, Robert White ,,1975-06-26,2012-06-28,Sales,Sales Executive,28,Chennai,Terminated,-1000.0,nathanberry@hotmail.com,001-426-112-0952x770,,2022-07-15
+393, Jeffrey Rivera MD ,Female,1995-05-13,2015-04-18,sales,,35,Hyderabad,Terminated,,julie46@mclaughlin-moore.com,817.906.1048x35949,,2024-08-04
+394, Brittney Petersen ,Female,1991-11-18,2021-12-08,Engineering,,3, ,Active,-1000.0,gregory10@dickerson-booker.org,001-551-279-7181x4298,Full-time,
+395, Jody Hernandez ,Female,1988-07-18,2024-05-11,Operations,Operations Lead,14,Bangalore,Terminated,,barry20@hansen-baker.com,0723641013,Full-time,2024-12-14
+396, James Welch ,Female,1986-01-31,2013-06-14,sales,Software Engineer,26,Chennai,Active,-1000.0,robertomurphy@ponce-rhodes.net,628.333.9243,Contract,
+397, Joshua Walker ,,1975-03-11,2017-09-13,Engineering,,7, ,Resigned,-1000.0,lewisnicole@baker.com,+1-408-287-8589x11397,Contract,2023-06-20
+398, Patricia Jenkins ,Male,1983-05-28,2012-01-01,Finance,Finance Analyst,49,Hyderabad,Active,-1000.0,deborahbell@hotmail.com,+1-781-126-2118x244,Contract,
+399, Jeanette Massey ,,1972-04-12,1984-02-04,sales,,43,Hyderabad,Active,118947.0,jordanmichael@hotmail.com,831.214.8738x178,Contract,
+400, Eric Keller ,,1988-10-15,2002-05-24,  Engineering  ,Software Engineer,16,Chennai,Resigned,,lauren64@yahoo.com,124-401-7463x76551,Full-time,2009-08-20
+400, Eric Keller ,,1988-10-15,2002-05-24,  Engineering  ,Software Engineer,16,Chennai,Resigned,,lauren64@yahoo.com,124-401-7463x76551,Full-time,2009-08-20
+401, Peter Welch ,Female,1994-08-26,1996-08-29,HR,HR Manager,35,Remote,Active,-1000.0,reedamanda@gmail.com,001-163-672-2303x1014,Contract,
+402, Madison Jones ,Female,1990-05-19,1995-11-26,Sales,Operations Lead,46,Hyderabad,Active,60846.0,kevin82@burton.org,+1-966-962-5006x9200,Full-time,
+403, Marc Lynch ,,1998-02-16,2019-09-07,Engineering,HR Manager,42,Bangalore,Active,,dbraun@yahoo.com,+1-774-659-9903x5615,Contract,
+404, Jeremy Jones ,,1979-09-13,2006-03-02,Finance,,4,Chennai,Active,-1000.0,gsullivan@yahoo.com,001-612-271-4146x1297,Full-time,
+405, Mikayla Peterson ,Female,1967-09-13,1976-10-29,  Engineering  ,Sales Executive,44,Bangalore,Resigned,,alexanderlopez@yahoo.com,608-899-8613,Contract,1998-11-11
+406, Mr. Christopher Keith ,Male,1976-09-20,1991-02-27,sales,Software Engineer,4,Bangalore,Active,,greenisabel@wright.com,(676)306-4356,Intern,
+407, Jennifer Scott ,Male,1995-01-31,2007-11-07,Operations,Operations Lead,21, ,,80587.0,jeanmitchell@gmail.com,235.800.9402x33223,,2008-07-05
+408, Amy Suarez ,Male,2002-05-19,2023-05-11,Engineering,Operations Lead,7, ,Terminated,-1000.0,willisapril@gmail.com,(731)753-9799,Intern,2023-07-04
+409, Ellen Mays ,,1977-08-14,2008-02-17,Operations,,36,Hyderabad,Resigned,,hwhite@hill-riddle.com,(523)856-9792x826,Intern,2009-05-12
+410, Diana Dorsey ,Female,1999-02-16,2014-12-12,HR,Sales Executive,44, ,Resigned,,gwendolyn72@casey.com,000-193-7356,Contract,2017-02-22
+411, Linda Salinas ,Female,1996-01-18,2023-10-21,  Engineering  ,Software Engineer,47,Bangalore,Active,,powersronald@lopez-anderson.net,+1-640-755-2051x89015,,
+412, Jose Lynch ,Female,1978-03-24,2021-07-12,Sales,HR Manager,40,Chennai,Active,131576.0,fieldsmarie@green.com,001-671-812-1681,Full-time,
+413, Kimberly Buck ,Male,1993-02-04,2002-12-11,  Engineering  ,Software Engineer,43,Bangalore,Active,134632.0,qrodriguez@walker-horton.com,799.132.5266,Intern,
+414, Edward Barnett ,,1979-06-16,1990-02-03,Engineering,Sales Executive,41, ,Resigned,,kellyfischer@gmail.com,+1-207-196-2195x967,,2024-11-07
+415, Richard Henry ,Female,1991-08-21,1997-01-31,sales,Sales Executive,21,Hyderabad,Resigned,125640.0,joshua75@hotmail.com,839.452.6727,Contract,2003-09-08
+416, Shane Anderson ,Male,1980-08-14,2002-03-17,HR,Sales Executive,21,Hyderabad,Terminated,,linda40@gmail.com,414-728-4248x1767,Full-time,2018-03-16
+417, Tracy Holland ,Female,1995-11-20,1998-07-27,Finance,Software Engineer,11,Bangalore,Active,-1000.0,bblack@yahoo.com,+1-973-225-2400x7526,Contract,
+418, Julie Nelson ,,1988-03-13,2007-10-18,Operations,Software Engineer,47,Chennai,Active,43637.0,alice03@hotmail.com,+1-574-760-4404x59209,Intern,
+419, Michele Scott ,Female,1971-01-09,2006-01-01,Engineering,Finance Analyst,26,Bangalore,Active,55468.0,walljustin@cervantes.com,+1-792-807-9531x8921,Contract,
+420, Michael Campbell ,Female,1972-10-10,2005-04-05,Finance,,12, ,,51277.0,xmurray@morton.info,758-551-3229x53051,Full-time,2019-08-05
+421, Alexis Stanton ,Male,1994-06-11,2004-10-12,HR,Operations Lead,50,Remote,,-1000.0,youngmatthew@gonzalez-ibarra.com,1430024860,Intern,2017-12-04
+422, Jeff Smith ,,1990-09-09,2008-03-28,Sales,Operations Lead,21,Hyderabad,Resigned,-1000.0,paul34@kim.biz,(058)401-4522,,2020-04-03
+423, Thomas Nelson ,Female,1996-10-12,2024-01-28,sales,Finance Analyst,22,Chennai,,-1000.0,nathan15@gmail.com,(540)008-1257,,2025-03-18
+424, Leonard Boyd ,,1992-12-31,2021-03-05,Sales,Finance Analyst,30,Remote,Active,,marywelch@taylor.org,842.476.6481x688,Intern,
+425, Melissa Cole ,Female,1974-12-15,2003-03-06,  Engineering  ,,43, ,Terminated,-1000.0,destiny80@gamble.com,538.887.9274x512,Full-time,2024-03-17
+426, Caitlin Hines ,,1967-05-06,1989-11-21,sales,Software Engineer,40, ,,,meganbass@reynolds.biz,278-798-1228,Full-time,2003-02-11
+427, Richard Frazier ,Female,1975-11-10,1992-01-07,sales,HR Manager,14,Hyderabad,Terminated,,wrightcandace@gmail.com,432.209.2011x04423,Contract,2008-07-20
+428, Alyssa Harris ,,1992-07-10,1996-06-03,  Engineering  ,Software Engineer,21,Chennai,Active,,mitchellnichols@hotmail.com,001-671-578-9916,Intern,
+429, Todd Jenkins ,Male,1981-05-26,2013-06-16,sales,,17, ,,97677.0,adamtaylor@taylor.com,(515)436-7474x28879,,2022-04-18
+430, Stephanie Vega ,Male,1995-01-25,2010-11-10,Engineering,Operations Lead,28,Hyderabad,,,virginiapowell@yahoo.com,819-950-1323x799,Full-time,2022-09-10
+431, Tiffany Wood ,,2002-10-12,2024-10-05,Sales,HR Manager,17,Hyderabad,Terminated,138497.0,hvargas@johnson-jones.info,+1-165-562-2183x12301,Full-time,2024-10-24
+432, Bonnie Henderson ,Male,1997-12-02,2004-11-01,sales,Sales Executive,31,Chennai,Terminated,61764.0,hulljermaine@wu-mccullough.com,(038)590-2939,Intern,2019-02-19
+433, Alicia Davis ,,1999-05-28,2008-12-22,sales,Sales Executive,35,Remote,Terminated,-1000.0,englishregina@johns.info,822-909-8390,Full-time,2019-04-17
+434, Jeffrey Bridges ,,1982-06-11,2023-04-30,Operations,HR Manager,41,Bangalore,Active,62202.0,griffinalexis@hickman-gonzales.org,001-900-943-0843x96756,Full-time,
+435, Robert Ford ,,1985-10-15,2024-09-03,Operations,Finance Analyst,18,Hyderabad,Resigned,118998.0,shelleyross@maldonado.com,001-100-161-8029x50959,,2024-12-12
+436, Sarah Morris ,Female,2001-05-14,2004-02-23,Sales,Operations Lead,2,Bangalore,Resigned,,jessicagutierrez@hayes.com,001-445-088-8816x00451,Full-time,2017-12-25
+437, Katrina Rodriguez ,Female,1981-10-09,2018-09-03,Engineering,Software Engineer,29,Chennai,,-1000.0,pagesharon@perry.com,204-958-6940x526,Full-time,2020-11-27
+438, Jessica Martin ,Female,1982-06-24,1986-12-26,sales,Sales Executive,14,Hyderabad,,122615.0,michael16@heath.com,519-782-8549,,2000-08-09
+439, David Cooper ,Female,1973-08-05,2008-07-25,Operations,Finance Analyst,18,Bangalore,,124085.0,tracyrodriguez@hotmail.com,+1-206-799-3320x38947,Full-time,2016-03-21
+440, Ronald Ramirez ,,1984-04-24,2019-03-04,sales,Finance Analyst,37, ,,104135.0,marknelson@hotmail.com,465-482-7441,Contract,2024-12-20
+441, Ralph Nelson ,,1975-10-04,1983-03-06,Operations,Sales Executive,50,Chennai,Terminated,,cmontgomery@gmail.com,0464102786,,2005-10-13
+442, Nicole Terry ,Male,1976-07-05,2002-12-31,Sales,Operations Lead,38,Remote,Terminated,-1000.0,yhernandez@yahoo.com,001-618-735-1523x8666,,2024-07-22
+443, Kenneth Stevens ,Female,1992-01-05,2008-06-24,Sales,Sales Executive,8,Remote,Active,,stonepatrick@reynolds-perry.com,001-170-665-5014x3621,,
+444, Kelly Scott ,Female,1981-12-30,2015-01-19,Sales,Operations Lead,50,Bangalore,Resigned,98887.0,mossmatthew@molina-valdez.info,129.915.2789x5249,Intern,2020-04-17
+445, Ryan Flores ,,1992-06-11,2024-03-26,Operations,Finance Analyst,40,Chennai,Resigned,-1000.0,jwatson@bauer.com,(786)885-0616x0580,Intern,2024-10-15
+446, Susan Curtis ,Male,1988-09-08,2010-10-09,sales,HR Manager,7,Remote,Resigned,,halekatherine@hotmail.com,555.441.7812x152,Contract,2018-11-09
+447, Kelly Torres ,Female,1979-04-05,1980-09-25,Sales,,48, ,Active,-1000.0,krystal29@rodriguez.com,+1-122-769-5730x7905,Intern,
+448, John Carroll ,Female,2002-06-01,2018-04-25,sales,HR Manager,7,Hyderabad,,126462.0,laurawilson@gardner.info,+1-053-342-9771x88008,Full-time,2024-09-27
+449, Tracy Terry ,Male,1973-01-28,2017-04-01,Operations,HR Manager,8,Remote,Resigned,,jenniferjones@hendricks.com,000-917-8115x3519,Contract,2025-01-26
+450, Edwin Sutton ,Male,1966-11-09,2005-05-29,  Engineering  ,Operations Lead,17, ,Active,60892.0,xsaunders@andrews.org,(473)199-4542x94873,Full-time,
+451, Sandra Johnson ,Female,1995-03-26,2000-10-11,sales,Sales Executive,40,Bangalore,Active,104928.0,jsanchez@yahoo.com,001-812-687-8387x1871,Full-time,
+452, Yolanda Williams ,Male,1978-01-22,2005-06-10,Sales,Finance Analyst,7,Chennai,Terminated,52662.0,alicialucas@hotmail.com,447-006-7843x78695,Full-time,2023-07-24
+453, Amy Hebert ,,1993-12-14,2010-03-07,Operations,Operations Lead,38,Hyderabad,Active,109073.0,kmathis@hotmail.com,001-432-331-0881,Contract,
+454, Bryan Lindsey ,,1983-10-27,2018-08-31,Operations,,41,Chennai,Terminated,58296.0,pharris@conway-barnett.org,468-382-1654x2233,Contract,2021-06-13
+455, John Sanchez ,,1975-11-04,2001-11-20,Sales,Software Engineer,9,Hyderabad,Active,,qburke@ali.net,(380)119-2816x6669,Contract,
+456, Eric Thompson ,Female,1978-03-29,1990-09-27,Finance,,46,Hyderabad,Active,53503.0,pmorales@lynn.com,001-347-514-0514x548,Contract,
+457, Paula Alvarado ,Female,1998-08-06,2009-10-08,Operations,,18,Chennai,Terminated,,kmartinez@hotmail.com,465-442-8082x13977,,2013-04-20
+458, Rhonda Dominguez ,Male,1991-11-06,2001-12-07,  Engineering  ,Finance Analyst,15,Chennai,Resigned,,,068-620-0408,Full-time,2002-11-21
+459, Julie Craig ,Female,1971-08-17,1994-08-23,  Engineering  ,HR Manager,13,Hyderabad,Active,64791.0,,6533990394,Intern,
+460, Ronald Mcconnell DDS ,Male,1982-08-09,1997-07-11,Engineering,HR Manager,50,Bangalore,Terminated,-1000.0,rvang@hotmail.com,412.688.9057x0173,Intern,2013-02-08
+461, James Fuller ,Female,1996-03-06,2011-12-17,  Engineering  ,HR Manager,17, ,Resigned,,brianperez@collins.biz,(372)102-8561x326,Full-time,2015-02-02
+462, Leslie Lara ,Female,1993-01-16,1993-03-23,Engineering,Operations Lead,41,Bangalore,Resigned,-1000.0,garycherry@yahoo.com,(603)889-8196,Intern,1995-12-31
+463, Nancy Lee ,,2000-01-28,2020-07-17,  Engineering  ,Operations Lead,36,Chennai,Terminated,-1000.0,,(598)027-2193x9031,,2021-03-08
+464, Pamela Moore ,Female,1999-02-18,2002-02-17,HR,Software Engineer,21,Hyderabad,Active,44198.0,victorcallahan@gmail.com,(347)465-8707,Full-time,
+465, Pamela Williams ,,1997-01-02,2017-08-25,  Engineering  ,HR Manager,9,Bangalore,,-1000.0,nrichardson@may.org,6149131071,Full-time,2017-10-08
+466, William Robinson ,Male,1976-08-21,2002-04-04,sales,Software Engineer,27,Hyderabad,Terminated,-1000.0,michaelmcknight@hotmail.com,518-022-6832x780,,2019-03-19
+467, Robert Mcgee ,Female,1997-07-04,2005-10-13,Operations,Finance Analyst,16,Bangalore,Terminated,-1000.0,nicole00@calhoun.com,+1-951-054-8063x9334,Intern,2015-04-15
+468, Gwendolyn Bryan ,Female,1990-01-10,1990-07-05,sales,Operations Lead,16,Hyderabad,Terminated,,crystal59@peterson.com,+1-995-460-7779x2430,Intern,2017-09-05
+469, Bradley Jennings ,Male,1990-09-15,1995-02-27,Engineering,Finance Analyst,28,Bangalore,Active,-1000.0,cpadilla@higgins-stewart.com,747.899.9037x046,Full-time,
+470, Tina Howell ,Male,1980-10-19,1991-08-25,Engineering,HR Manager,3, ,Terminated,133827.0,bjohnson@fox.com,008.096.3292x12181,Contract,2006-05-06
+471, Rebecca Parks ,Male,1976-10-07,1979-10-22,Operations,,10,Chennai,Resigned,-1000.0,sarah25@white.com,(811)723-5999x303,Full-time,2007-11-02
+472, Jasmine Lin ,Female,1971-02-22,1990-04-12,  Engineering  ,Software Engineer,12, ,Resigned,-1000.0,jonesrita@shaw.info,(501)492-9372,,1994-10-04
+473, Catherine Brown ,Female,1999-07-30,2010-03-20,Engineering,Software Engineer,35,Remote,Resigned,,kathleenbird@smith.biz,058-716-4640x6154,Contract,2015-08-28
+474, Dana Lopez ,Male,1971-12-29,1990-10-07,Sales,,44, ,,-1000.0,munozmichael@yahoo.com,826.150.8511x247,Full-time,2012-02-12
+475, Mrs. Katie Dickson ,Male,1971-03-18,1979-03-18,Engineering,Sales Executive,7,Remote,Resigned,128893.0,alvarezmaurice@bruce.biz,178.462.8610x0289,Intern,1984-12-06
+476, Erica Gonzalez ,Female,1986-02-03,2022-07-14,Operations,HR Manager,21,Hyderabad,Terminated,139726.0,,(192)666-6263x7576,,2024-05-01
+477, Betty Perez ,,1980-08-28,1996-07-07,HR,Sales Executive,41,Bangalore,Resigned,,qsmith@hayes-johnson.com,+1-769-929-9322x4441,,2017-12-18
+478, Gary Williams ,Male,1997-11-08,2011-05-11,Engineering,Operations Lead,10,Chennai,,,ygarcia@shelton-torres.biz,(863)281-1574x30231,Intern,2021-03-03
+479, Logan Parker ,,1979-07-21,2000-09-29,Finance,Software Engineer,27,Chennai,Terminated,,robert34@hotmail.com,001-706-656-1658x96429,,2005-07-19
+480, Regina Deleon ,,1965-07-04,2023-11-30,  Engineering  ,Software Engineer,17,Chennai,Resigned,-1000.0,susan07@gmail.com,(938)299-6497x7211,,2023-12-24
+481, Dennis Rollins ,Male,1988-09-22,2009-05-21,Operations,Finance Analyst,30, ,Active,51553.0,nthomas@yahoo.com,(370)583-6164,,
+482, Mr. Aaron Aguilar ,Male,1980-12-07,1989-07-14,sales,Sales Executive,2,Chennai,,120556.0,matthewchen@morrow-wilson.info,+1-869-349-7424x55075,Intern,2011-07-04
+483, Donna Erickson ,Male,1986-06-11,2024-03-30,Sales,Operations Lead,27,Chennai,Active,83151.0,vbaldwin@smith.info,468.817.9126x1615,Intern,
+484, Joseph Park ,Male,1987-11-30,2016-02-16,Finance,Finance Analyst,1,Hyderabad,Active,,flemingcassidy@stevens.org,(324)708-0518x28260,Intern,
+485, Darrell Delgado ,Male,1986-07-15,2011-08-05,  Engineering  ,Software Engineer,21,Chennai,Resigned,126214.0,jamesschaefer@yahoo.com,001-629-577-2554x30544,Intern,2020-08-16
+486, Kimberly Johnston MD ,,1983-02-02,1988-03-11,  Engineering  ,Software Engineer,42,Hyderabad,,62031.0,paul02@gmail.com,983.749.9567x44181,Full-time,2020-12-27
+487, David Mullen ,Female,1965-01-20,2000-05-13,Engineering,,4,Chennai,Terminated,-1000.0,boyerdavid@jones.com,271-623-1310x228,Intern,2002-04-11
+488, Chase Brown ,Female,1990-09-15,2005-01-05,HR,Finance Analyst,15,Remote,Terminated,55588.0,leahhickman@hotmail.com,237.615.9685x74755,Intern,2017-01-06
+489, Seth Robinson ,Male,2003-03-03,2012-03-26,Operations,Operations Lead,3,Bangalore,Terminated,,stevensonsabrina@hotmail.com,(513)365-5647x4463,Intern,2024-07-20
+490, Alex Hall ,,1968-04-25,2004-07-17,HR,Software Engineer,8,Remote,,-1000.0,barrettmargaret@gmail.com,7573082455,Intern,2018-05-19
+491, Angel Zimmerman ,,1981-02-08,1998-02-28,Finance,Software Engineer,2,Remote,Resigned,,georgewhite@hotmail.com,602-264-3567,Contract,2020-09-17
+492, Jasmin Clark ,Female,1986-01-28,1989-05-17,  Engineering  ,HR Manager,8,Chennai,Active,,mmullins@gmail.com,228.566.2960x3723,,
+493, Paige Carter ,Male,1994-01-25,2004-10-19,HR,Software Engineer,25,Remote,,,benjamin38@yahoo.com,001-786-219-8199x19924,Intern,2022-06-15
+494, Jamie Noble ,Male,1992-04-21,2021-12-07,Finance,,16,Remote,Terminated,-1000.0,autumnshaw@hotmail.com,(982)142-9078x8036,,2022-12-06
+495, David Rodriguez ,Male,1984-06-22,2008-09-12,HR,HR Manager,47,Bangalore,Resigned,,moralestyler@gmail.com,(847)644-4450x5244,Intern,2019-06-16
+496, Kristen Peters ,Female,1966-10-08,1975-04-14,sales,HR Manager,30, ,Active,-1000.0,ewilliams@delgado.com,391-805-5480x84280,,
+497, Mackenzie Harvey ,Female,1992-12-10,2015-12-20,  Engineering  ,HR Manager,16,Hyderabad,Terminated,122438.0,ruth06@yahoo.com,001-540-179-3464x340,Intern,2023-07-17
+498, Kathryn Reyes ,Female,2000-09-17,2006-03-20,sales,Sales Executive,33,Hyderabad,,52859.0,rward@gmail.com,827-966-1161x57419,Full-time,2013-03-03
+499, Michael White ,,1986-09-22,2017-07-15,Operations,Finance Analyst,43,Chennai,Terminated,-1000.0,gmcpherson@rodgers.com,(547)113-9203,Full-time,2020-06-13
+500, Jenna Smith ,Male,1975-09-18,2021-07-18,Finance,Software Engineer,50,Remote,Active,-1000.0,maryrios@lamb-walsh.net,433-043-9516x4614,Contract,
+500, Jenna Smith ,Male,1975-09-18,2021-07-18,Finance,Software Engineer,50,Remote,Active,-1000.0,maryrios@lamb-walsh.net,433-043-9516x4614,Contract,
+501, Tina Greene ,Male,1971-05-04,1991-10-26,  Engineering  ,Finance Analyst,13,Bangalore,Active,-1000.0,fgilbert@gmail.com,(515)489-1499x268,Full-time,
+502, Angie Todd ,,1978-05-06,2017-09-21,  Engineering  ,Software Engineer,48, ,,-1000.0,james30@lewis.com,557-405-8681,Intern,2025-04-04
+503, Ashley Ross ,Male,1991-07-24,1994-04-16,Operations,Finance Analyst,3,Chennai,Resigned,126287.0,monica63@delacruz.org,028-001-9460x45896,Intern,2012-07-20
+504, Taylor Joseph ,Female,1984-10-31,2003-08-11,Operations,Operations Lead,6, ,,,williamharris@hotmail.com,+1-307-132-1607x86224,Full-time,2024-01-08
+505, Eric Gomez ,,1975-09-24,2015-06-28,Sales,HR Manager,42,Chennai,Resigned,,edwardmorgan@hotmail.com,(894)464-6204x121,Contract,2016-09-04
+506, Dr. Amanda Morris ,Male,1990-11-30,2023-03-27,Operations,Sales Executive,15,Hyderabad,Active,,priceandrew@hunter-dixon.info,8921533359,Contract,
+507, Sheryl Nguyen ,Female,1980-02-25,1982-05-31,Engineering,Operations Lead,23,Remote,Active,43482.0,jennifer27@thomas-rodriguez.com,+1-681-677-4488x9271,Full-time,
+508, Jesse Pierce ,Male,1987-07-21,2015-10-14,Sales,Finance Analyst,17,Bangalore,,88913.0,yarias@fields.com,(045)395-4645x12076,,2017-09-23
+509, Erica Peterson ,Male,1983-12-30,1985-05-22,Finance,Finance Analyst,40,Chennai,Terminated,-1000.0,brownnancy@fitzgerald.com,(483)366-6549x5688,Contract,1986-01-17
+510, Tyler Harper ,Female,1977-11-29,2017-01-26,Sales,Operations Lead,23,Bangalore,Terminated,,gcole@randolph-harper.info,893.008.8359,,2019-11-16
+511, Brian Roberts ,Female,1984-10-27,2010-04-04,Finance,,41,Remote,Resigned,44328.0,karinasmith@gmail.com,+1-528-198-9684x78036,Intern,2015-08-24
+512, Lauren Wright ,Male,1975-12-05,2015-12-06,Engineering,Operations Lead,1, ,,-1000.0,melissathomas@yahoo.com,565.706.4023,Intern,2024-10-30
+513, Beth Garcia ,Male,1982-08-03,2020-03-30,Engineering,Finance Analyst,25,Bangalore,Resigned,,combscarrie@knight.net,237.523.6160x18240,Full-time,2023-03-19
+514, Melissa Moran ,Male,1980-02-28,2018-08-28,Finance,Software Engineer,1, ,,136389.0,shieldsscott@clarke-robinson.com,(295)856-4477,Contract,2020-11-18
+515, Makayla Rodriguez ,Female,1997-01-15,2002-09-07,Engineering,,20, ,,-1000.0,xhanson@peterson.org,901-202-6224,Full-time,2012-09-22
+516, Victoria Camacho ,,1991-12-30,2009-02-17,  Engineering  ,Finance Analyst,6,Chennai,Terminated,,jessebecker@thompson.org,040.711.1106,Full-time,2019-05-12
+517, Doris Lyons ,Female,1972-01-08,1995-12-13,  Engineering  ,,44,Bangalore,Resigned,70968.0,rachel24@woodward-goodwin.com,575.755.8669x70602,Full-time,2018-08-12
+518, Shane Jensen ,,1989-06-06,2000-08-25,HR,Software Engineer,46, ,Terminated,122339.0,jmacdonald@harris.com,001-131-087-2032,Intern,2000-12-25
+519, Cole Hayes ,,1995-01-05,2015-03-20,Operations,Software Engineer,38,Bangalore,Resigned,,anthonymiller@cook-foster.com,001-406-878-6294x595,Contract,2022-11-22
+520, Shawna Santiago ,Female,1969-08-18,1979-10-19,sales,HR Manager,13,Remote,Active,-1000.0,mdaniels@hotmail.com,485.892.5937x0588,Intern,
+521, Heather Byrd ,,1982-11-04,1997-04-08,HR,Finance Analyst,7,Chennai,Active,-1000.0,vbradshaw@hotmail.com,832-233-0320x816,Intern,
+522, Angel Soto ,Female,1997-12-08,2008-07-22,  Engineering  ,HR Manager,15,Remote,,84836.0,dustinpage@collins-ray.com,119-114-1014x567,Intern,2011-12-05
+523, Rebecca Moore ,Male,1975-06-02,1977-12-30,Finance,,47,Hyderabad,Resigned,-1000.0,james93@yahoo.com,(183)066-6154x45221,Contract,1982-11-19
+524, Lisa Moore ,Male,1988-12-15,2023-09-05,  Engineering  ,,50,Bangalore,Resigned,,durhamjoseph@gmail.com,(281)655-1105x931,Contract,2024-02-12
+525, Melody Thomas ,Female,1993-11-27,2019-06-24,  Engineering  ,Software Engineer,38, ,Resigned,114133.0,ellen38@hotmail.com,123.470.8955x4893,Intern,2021-10-26
+526, Russell Ray ,Female,1974-12-01,1979-02-01,Sales,Software Engineer,19, ,Active,58608.0,jessica12@yahoo.com,484-506-2644x8552,Intern,
+527, Joseph Murphy ,Male,1968-10-13,1988-09-27,Engineering,HR Manager,16,Hyderabad,,,,122.660.8982,Contract,2001-02-17
+528, Gina Travis ,Male,1981-09-11,2019-02-12,HR,Software Engineer,14, ,,,eddiechapman@johnson.biz,+1-161-889-6290x4618,Intern,2020-03-26
+529, Kyle Jones ,,1975-12-06,1997-03-29,Engineering,Sales Executive,38,Remote,,83783.0,ewilliams@arnold.com,+1-648-501-1462x088,Full-time,2022-02-15
+530, Alyssa Hernandez ,Female,1977-12-09,1988-02-21,  Engineering  ,Sales Executive,12,Chennai,,-1000.0,thomas37@hunter.com,(188)848-3106x23090,Full-time,2010-06-30
+531, Cassandra Martinez ,,1973-06-17,2017-02-17,HR,HR Manager,15, ,Active,-1000.0,ballkevin@yahoo.com,699-058-5027x38236,Full-time,
+532, Stacey Lyons ,Male,1986-01-04,2013-01-14,sales,Sales Executive,44,Chennai,,-1000.0,gardnerroberta@gmail.com,301-007-7903,Full-time,2018-01-02
+533, Andrew Cunningham ,,1978-11-07,2004-02-26,Operations,HR Manager,25,Remote,,72596.0,amanda40@rollins.com,001-466-575-8225x606,Full-time,2011-12-21
+534, James Whitehead ,,1996-09-01,2015-11-04,Sales,HR Manager,11,Hyderabad,,-1000.0,theodorepotts@martinez-berry.com,027.279.8030,,2020-07-05
+535, Christina Black ,Female,1968-12-24,2015-06-06,Finance,Finance Analyst,29,Hyderabad,Resigned,41874.0,anthonyzachary@murray.com,092.508.0158x168,Contract,2017-08-17
+536, Arthur Mullins ,Male,1985-03-08,2012-02-17,  Engineering  ,Finance Analyst,20,Hyderabad,Active,,prestonmeghan@chavez.com,001-391-940-8369,,
+537, Jennifer Smith ,Male,1964-11-09,1970-03-29,  Engineering  ,,42, ,Terminated,,paul97@wood.com,797-273-3604x5388,,1970-08-29
+538, David Smith ,Female,1985-12-26,2016-09-11,Finance,,7,Remote,Terminated,75451.0,sabrinaprice@sanchez-valentine.net,001-441-152-3087x6347,Contract,2025-03-02
+539, Michael Wilkerson ,Male,1968-05-22,2021-10-25,Operations,Sales Executive,35,Hyderabad,Resigned,,steve22@yahoo.com,594.920.4861,Full-time,2024-10-17
+540, Amanda Reed ,Male,1990-04-27,1997-07-29,Sales,,25,Hyderabad,Resigned,,jessicaphillips@yahoo.com,132.887.5952x08437,,2009-06-30
+541, Barbara Barber ,Female,1995-11-22,2006-08-29,Engineering,Software Engineer,33,Hyderabad,Active,119091.0,ascott@hines.biz,873.340.3852,Intern,
+542, Kristin Stephens ,Female,1999-05-02,2007-10-08,Engineering,Software Engineer,31,Chennai,Active,,ecollins@hotmail.com,188-357-2168x113,Intern,
+543, Billy Moyer ,Female,1966-06-22,2012-08-19,Finance,Sales Executive,41,Chennai,Active,-1000.0,lynnhicks@knox-smith.info,(677)255-6838x41537,Full-time,
+544, Anna Cole ,Male,1987-06-15,2001-06-09,Finance,Sales Executive,18, ,,,cschroeder@yahoo.com,244-102-3998,Intern,2013-11-19
+545, David Yates ,,1971-10-26,1978-08-21,Operations,HR Manager,43,Remote,Terminated,,jessicahamilton@small-butler.org,744.811.0325x7079,Intern,1985-05-17
+546, Brian Johnson ,Female,1970-11-21,2013-12-28,sales,Sales Executive,12,Remote,Active,,jacob89@gmail.com,150.317.5632x0446,Intern,
+547, Dwayne Chaney ,Male,1994-02-03,1995-01-31,HR,Sales Executive,10, ,Active,,moralesandrew@ramirez.com,(622)242-0278,Contract,
+548, Kaitlin Levine ,Female,2002-11-19,2015-06-24,HR,Operations Lead,42, ,,102160.0,jwalsh@johnson.net,+1-019-397-3411x59352,Full-time,2022-11-29
+549, Amber Ellison ,Female,1975-07-09,1998-11-18,Engineering,Operations Lead,4,Chennai,Terminated,-1000.0,hallwilliam@hotmail.com,+1-315-513-2167x0464,Full-time,2013-10-22
+550, Karen Bruce ,Female,1974-03-28,2004-01-13,  Engineering  ,Finance Analyst,44,Chennai,,-1000.0,clarkaaron@black.biz,4190373532,Contract,2010-06-07
+551, Jennifer Hansen ,,1993-08-13,1999-01-23,Operations,Finance Analyst,37, ,Active,,gjackson@hotmail.com,536.740.1131x30059,Full-time,
+552, Derrick Weiss ,Male,1983-11-24,1997-09-08,sales,HR Manager,45,Chennai,Terminated,-1000.0,patricia31@gmail.com,(000)890-7678,Full-time,2003-12-21
+553, Zachary Santos ,Female,1989-08-12,1999-10-07,  Engineering  ,Sales Executive,15,Bangalore,,-1000.0,zphillips@casey.com,(623)722-2950x1216,Full-time,2016-05-23
+554, Timothy Koch ,,1982-04-30,1996-04-11,Finance,Finance Analyst,42, ,Resigned,-1000.0,donna19@hotmail.com,(273)676-7327x0202,Intern,2014-01-12
+555, William Smith ,Male,1970-07-16,1994-03-03,Operations,Finance Analyst,9,Remote,Active,,mccarthyholly@hotmail.com,573-089-9783,,
+556, Dylan Riley ,Male,1972-02-03,2002-02-01,Engineering,Software Engineer,50,Bangalore,Terminated,,reginaharding@mcfarland.org,001-439-721-2903,Intern,2014-09-13
+557, Kelsey Ford ,Male,1973-11-26,1976-09-26,Engineering,,33,Remote,,133019.0,helen81@yahoo.com,(344)308-7770x777,,1990-12-11
+558, Christopher Wilkerson ,Female,1973-10-17,1991-12-08,Engineering,Finance Analyst,11,Hyderabad,Resigned,131099.0,bhernandez@yahoo.com,001-643-680-9697x68102,Full-time,1993-04-21
+559, Kimberly Terry ,,1999-10-03,2006-01-11,Sales,Operations Lead,35,Bangalore,,-1000.0,allisonreid@douglas-huber.com,(256)380-6974x94535,,2024-04-14
+560, Martin David ,,1967-08-07,2020-10-08,Operations,Software Engineer,2,Hyderabad,,-1000.0,allison59@mckinney-pruitt.com,(486)427-0793x68434,Intern,2024-05-13
+561, Matthew Perkins ,,1972-07-05,2016-01-02,Engineering,,40,Chennai,,138481.0,ujackson@lee-neal.com,(615)254-3911,,2021-04-04
+562, Jonathan Daugherty ,Male,1980-09-01,2011-07-20,Finance,,43,Chennai,Terminated,34256.0,hudsonlindsay@smith.com,9058745054,Full-time,2023-05-22
+563, Kimberly Reid ,Female,1983-07-04,2008-07-03,Finance,HR Manager,2,Chennai,Terminated,-1000.0,,011.510.7229,Intern,2016-01-30
+564, Samantha Mendoza ,Male,1999-03-27,2025-01-19,sales,Operations Lead,29,Bangalore,Terminated,,uhansen@tucker.com,888.513.1585,Contract,2025-02-28
+565, Heather Carter ,Female,1964-10-09,2017-06-12,Sales,Software Engineer,30,Hyderabad,Terminated,81296.0,jpierce@hotmail.com,033.787.1896x8182,Contract,2024-09-14
+566, Angela Richardson ,Male,1997-08-11,2002-04-12,Finance,Finance Analyst,25,Chennai,,127101.0,sandersfrederick@thomas.com,891.261.6681x63262,Full-time,2017-09-24
+567, Jessica Walker ,Male,1980-02-19,1998-10-18,Sales,,18,Hyderabad,Resigned,143320.0,keithwilliams@gmail.com,+1-347-052-0303x4910,Intern,2009-04-18
+568, Deanna Washington ,Male,1984-11-07,1998-08-18,Operations,Software Engineer,43,Bangalore,Resigned,-1000.0,tcook@esparza-collier.com,582.568.8029x66879,Intern,2021-04-21
+569, Shelia Pittman ,Male,1992-09-04,1998-10-29,Finance,Operations Lead,19,Chennai,Resigned,-1000.0,timothyhill@gmail.com,+1-244-600-8713x8730,Contract,2014-03-31
+570, Jason Moore ,Female,1972-12-18,2010-01-05,sales,Finance Analyst,18,Remote,,-1000.0,carlyyoung@smith.com,729.637.7797,Intern,2025-01-21
+571, Sean Stephens ,Male,1967-04-24,1998-02-22,Sales,Sales Executive,18,Remote,Resigned,-1000.0,lynn65@knight.com,213.140.6837x583,Intern,2019-11-10
+572, Heather Eaton ,Male,1998-10-17,2006-02-04,Sales,Operations Lead,1, ,Resigned,120247.0,xwilliams@jones.biz,(296)919-0964x151,Intern,2006-04-07
+573, Sherry Ruiz ,Male,1969-02-13,1984-11-10,Operations,,25, ,Terminated,131468.0,wongmelinda@hotmail.com,156.409.7898x3535,Full-time,2000-10-06
+574, Mark Glenn ,Male,1997-12-20,1998-06-26,Sales,Sales Executive,40, ,Active,-1000.0,summer74@hotmail.com,+1-133-076-0426x6754,,
+575, Ashley Sullivan ,Male,1964-06-03,2016-01-24,sales,,8, ,Terminated,139772.0,lindseyashley@hayes.com,448.054.1217,Full-time,2018-09-16
+576, Veronica Anderson ,Male,1969-10-25,1996-03-14,Finance,Sales Executive,13,Hyderabad,Active,119449.0,ostephens@jones.com,(234)011-2582,Full-time,
+577, Brandon Caldwell ,Female,1968-09-06,1975-10-08,Operations,,26,Chennai,Terminated,,skane@yahoo.com,+1-441-961-4557,Full-time,2017-11-06
+578, Maria Hicks ,Female,1969-07-14,1982-08-05,sales,Sales Executive,26,Hyderabad,Resigned,,barneschad@hotmail.com,(053)158-3940x4439,Full-time,1993-04-16
+579, Michael Warren ,Female,1965-06-02,2002-03-05,  Engineering  ,Operations Lead,15, ,Resigned,-1000.0,johnpacheco@russell.com,208-187-7071,Intern,2014-11-05
+580, Cassandra Walker ,Male,2002-02-05,2003-01-16,Engineering,,32,Chennai,,,stacy82@gmail.com,(572)820-1865x915,,2019-04-04
+581, Douglas Nelson ,Male,1993-12-19,1996-01-13,Sales,Sales Executive,11,Chennai,Resigned,126650.0,miguel09@harris.com,466-265-3754,,2017-06-24
+582, Ryan Walker ,Female,1974-11-25,2004-07-05,sales,Software Engineer,32,Bangalore,,,ygross@yahoo.com,(162)767-5793,,2007-01-05
+583, Susan Gonzales ,,1985-04-09,2022-12-08,Sales,Operations Lead,6,Hyderabad,,99206.0,murillomatthew@hotmail.com,(131)408-6774x09265,Full-time,2024-10-30
+584, Joseph Brown ,Male,1968-10-23,1993-08-20,Sales,Operations Lead,6,Hyderabad,,,mjordan@harris.com,559.147.4584x6478,,2016-07-31
+585, Kyle Burch ,Male,1977-05-01,2019-07-31,Operations,Operations Lead,18, ,Active,-1000.0,qsheppard@gmail.com,+1-879-325-0048x524,Full-time,
+586, Thomas Lucero ,Male,1975-08-20,1983-06-19,Finance,,17,Remote,Resigned,-1000.0,hollyshields@giles.biz,7356154003,,1997-10-29
+587, Stephanie Baker ,,1987-07-28,2012-08-08,HR,Operations Lead,25,Hyderabad,Active,-1000.0,tamarasimpson@yahoo.com,615-745-1989,Intern,
+588, Erik Peters ,,1976-12-10,2024-12-10,  Engineering  ,Software Engineer,17,Chennai,,51720.0,jenniferhill@yahoo.com,(634)168-8787,,2024-12-31
+589, William Cortez ,Female,1972-03-13,1984-03-19,  Engineering  ,,8,Remote,,,hernandezmatthew@lewis-bell.com,+1-641-500-4821x37689,Contract,1997-05-05
+590, Elizabeth Kennedy ,Female,2002-02-26,2015-05-07,Operations,Finance Analyst,11,Hyderabad,,-1000.0,sarahbrowning@garcia-rios.com,668-600-8453,Full-time,2019-07-08
+591, Jacob Brooks ,,1988-01-19,2007-09-13,Finance,,6, ,Terminated,,wmunoz@burns.com,001-520-814-1610x734,,2016-07-18
+592, Andrea Anderson ,,1999-02-20,2018-01-14,sales,Operations Lead,8,Remote,,-1000.0,jim21@hotmail.com,040.145.1812,,2023-10-26
+593, Jacob Mitchell ,Male,1987-05-07,2003-09-18,  Engineering  ,Software Engineer,17,Chennai,Resigned,-1000.0,katrinacollins@hansen.com,706-247-7122x4292,Contract,2022-06-23
+594, Brandon Munoz ,,1995-07-26,2000-11-18,HR,Software Engineer,10,Hyderabad,,,phowe@good-velasquez.com,9133308577,,2001-12-24
+595, Wesley Smith ,Male,1998-06-10,2007-12-31,Finance,Finance Analyst,30,Chennai,Terminated,130170.0,vharmon@hotmail.com,220-458-2717,Intern,2013-06-15
+596, Shawn Wilcox ,Male,1994-08-18,2010-01-31,HR,Operations Lead,41,Hyderabad,,128444.0,brockcathy@gordon.com,375.146.0197,,2016-02-22
+597, Sharon Lee ,Female,1970-09-19,2005-11-29,Operations,HR Manager,41,Remote,Resigned,-1000.0,reeserandall@hubbard-dawson.com,161.925.7319,Contract,2011-07-23
+598, Jennifer Rodriguez ,,1983-09-23,1994-05-19,  Engineering  ,Software Engineer,17,Hyderabad,Active,93070.0,scottbrown@rogers.com,058-157-0068x9156,,
+599, Diana Dixon ,,1978-03-27,2014-02-26,Sales,Sales Executive,47,Hyderabad,Terminated,-1000.0,darinmolina@young.com,670-961-6642x31403,Intern,2015-11-22
+600, Suzanne Molina ,,1980-12-09,2022-07-15,Engineering,,26,Chennai,Resigned,,jacksonalexandra@hotmail.com,840-820-4201x174,Intern,2023-06-23
+601, Daniel Martinez ,Female,1992-10-31,1993-04-21,  Engineering  ,Software Engineer,7,Bangalore,,,nford@sanchez-ortega.biz,569-843-4592,,2009-03-26
+602, April Johnson ,Male,1994-06-23,1996-03-23,Finance,HR Manager,30,Bangalore,Resigned,,freynolds@hotmail.com,(649)524-1613x3053,Intern,1999-12-24
+603, Mark Anderson ,Male,1968-01-17,1972-10-13,Finance,Finance Analyst,26,Chennai,Active,-1000.0,johnsantiago@rice-jones.com,(822)919-8248x15111,,
+604, Elizabeth Sanchez ,,1976-01-13,2021-12-21,sales,Software Engineer,44,Remote,,-1000.0,beckergeorge@hotmail.com,(937)571-0974x8474,,2024-12-26
+605, Cheryl Morgan ,Male,1987-10-13,1994-10-29,HR,Sales Executive,24,Chennai,Active,,hogandavid@price-cruz.org,680-890-6414x3627,Contract,
+606, Stanley Owens ,Male,1985-02-04,1988-04-21,Engineering,Operations Lead,13,Bangalore,Terminated,-1000.0,richard45@smith.net,+1-874-568-5521x12054,,2003-04-04
+607, Phillip Smith ,Female,1965-12-22,1983-10-12,HR,Sales Executive,17,Chennai,,95281.0,nharrington@hotmail.com,+1-997-045-3029,Contract,1990-06-30
+608, Raymond Roberts ,Female,1975-08-16,2015-09-14,Operations,Operations Lead,18,Bangalore,Active,129983.0,whitethomas@fox-wilson.com,(096)755-9820x16536,Intern,
+609, Michele Blevins ,,1977-05-27,1980-04-17,sales,,21,Bangalore,Active,-1000.0,jessicasteele@lyons.com,(831)425-4731x9690,Full-time,
+610, Jennifer Nixon ,Male,1977-01-28,1981-06-28,sales,Software Engineer,48, ,Terminated,,pamela66@owen.com,(919)095-4336,,2012-07-18
+611, Christian Edwards ,Female,1970-03-01,1993-02-09,Engineering,Operations Lead,49,Bangalore,,,josephgarcia@wright.com,+1-404-310-9632x774,Intern,2020-06-14
+612, Carla Daugherty ,Male,1987-11-27,2005-06-10,sales,Software Engineer,24,Hyderabad,Active,,lsoto@casey.com,+1-858-597-7263,Intern,
+613, Lisa Beck ,Male,1967-04-26,2010-08-16,HR,,43,Hyderabad,Active,,karen34@johnson.com,(441)644-9296x42728,Full-time,
+614, Jeremy Orozco ,,1979-04-05,1981-10-14,Operations,Software Engineer,36,Remote,Resigned,,kiaraaguilar@carroll.com,001-525-964-8974x9934,Contract,1986-05-21
+615, Jimmy Miranda ,Female,1993-09-02,1998-08-28,Finance,Sales Executive,14,Remote,,-1000.0,herreraclifford@merritt.com,293-486-9720x08483,Contract,2021-06-09
+616, Cindy Beltran ,,2003-04-07,2024-04-10,Operations,Operations Lead,44,Chennai,Resigned,-1000.0,andrew79@yahoo.com,561-734-0269x248,Contract,2024-12-10
+617, Christopher Hodges ,,1975-05-08,2005-06-30,Finance,Software Engineer,10, ,Active,-1000.0,alyssadawson@hotmail.com,188.634.4629x1394,Full-time,
+618, Linda Bender ,Female,2002-12-01,2020-10-05,sales,,29,Remote,Terminated,108900.0,fuentesjoshua@yahoo.com,(281)109-4235x25059,,2021-08-29
+619, Ashley Phillips ,Male,1977-05-11,1983-08-16,sales,Sales Executive,28,Chennai,Resigned,,cameronjoy@yahoo.com,(661)802-9295,Contract,2002-08-20
+620, Karen Thomas ,Male,1978-08-14,1984-10-29,Finance,Finance Analyst,31,Remote,Resigned,-1000.0,christopher17@hunter-summers.com,+1-909-949-1493x3886,Contract,2018-10-01
+621, Lindsey Reed ,Female,1979-03-16,2015-02-18,sales,Software Engineer,3,Remote,Resigned,50218.0,danielcole@hotmail.com,5471074652,Full-time,2024-01-30
+622, Michael Whitehead ,Male,1976-04-27,1992-07-12,sales,Operations Lead,28,Remote,Resigned,-1000.0,pnewman@yahoo.com,408-341-1644x740,Intern,2012-08-16
+623, Courtney Ramos ,Female,1988-09-14,1988-10-16,  Engineering  ,,32,Remote,Active,72339.0,robertbradley@hotmail.com,001-145-981-5290x372,Contract,
+624, Lisa Miller ,,1997-05-02,2013-11-21,sales,Operations Lead,28,Chennai,,,jacksonmichael@mills.net,001-973-895-0984x42876,,2017-02-28
+625, Debra Anderson ,Male,1997-07-19,2020-08-13,  Engineering  ,,21, ,,33411.0,choward@mclean-neal.com,+1-241-556-2481x22020,Intern,2021-12-11
+626, Gregory Santana ,,1980-01-20,1999-10-08,  Engineering  ,Sales Executive,48,Chennai,,51058.0,gcrosby@ortiz.com,193.007.2089x70948,Contract,2008-10-26
+627, Eric Smith ,,1967-11-07,2002-09-27,Operations,HR Manager,11,Bangalore,Active,-1000.0,uespinoza@duncan.com,518-176-7406x8949,,
+628, James Walsh ,Male,1981-06-28,2024-11-19,Engineering,HR Manager,26,Bangalore,,59152.0,kristinmann@hotmail.com,001-177-485-5777x23617,Intern,2025-01-03
+629, Rhonda Wilson ,Male,1978-11-11,2004-07-03,Engineering,Software Engineer,22,Hyderabad,,,zwatson@gmail.com,(150)968-2885,Contract,2025-01-14
+630, Lori Matthews ,Female,1995-01-14,2003-03-02,Operations,,45,Bangalore,,,amandabarnett@gmail.com,929-314-4522,,2017-08-09
+631, Melinda Williams DDS ,,1967-02-28,2018-11-02,Operations,,14,Hyderabad,Resigned,,pwalters@grimes-stevens.com,+1-907-836-3002x11847,Contract,2019-07-16
+632, Steven Perry ,Female,1974-04-16,2004-12-04,Sales,Operations Lead,20,Hyderabad,Terminated,42726.0,matthew59@hotmail.com,+1-772-699-2561,,2015-05-16
+633, Christine Dean ,,1967-07-18,2021-05-14,Engineering,Software Engineer,11, ,Terminated,37544.0,robert38@yahoo.com,4080628212,Intern,2023-10-06
+634, Sarah Ellis ,,1969-05-25,1976-08-12,HR,Sales Executive,5, ,Active,43681.0,cruzamanda@lopez.info,+1-681-149-1254x3808,,
+635, Patricia Oliver ,,1992-09-19,1997-12-11,Sales,,8, ,Resigned,136194.0,cole99@rogers.com,(034)874-1091x2840,Contract,2007-03-22
+636, Eric Ballard ,Female,1985-07-17,2006-03-18,  Engineering  ,Sales Executive,20,Remote,,32281.0,xjennings@delacruz-smith.com,3283260256,Intern,2008-01-06
+637, Heather Smith ,Female,1974-03-15,1994-12-03,Finance,Sales Executive,29,Remote,Resigned,-1000.0,barbara13@khan.com,492-759-7482,Contract,2003-04-27
+638, Margaret Smith ,,1976-04-26,2002-12-03,sales,Finance Analyst,33,Bangalore,Resigned,-1000.0,taylorvalerie@gmail.com,085.425.7177,Contract,2013-08-05
+639, Mark Lewis ,Female,1983-05-14,1990-06-12,Sales,Software Engineer,17,Chennai,Active,-1000.0,james32@hotmail.com,+1-075-804-2315x3804,Full-time,
+640, Christopher Fields ,Male,1970-05-22,2016-02-17,Operations,Operations Lead,5, ,Active,-1000.0,justin05@hotmail.com,(684)588-2151x390,Contract,
+641, Chad Russell ,Female,2001-08-11,2007-09-09,Operations,Sales Executive,14,Chennai,Active,,debbiehines@hotmail.com,8736135138,Contract,
+642, Robert Luna ,Male,1984-06-08,2013-08-03,Engineering,HR Manager,40,Bangalore,Terminated,-1000.0,megan09@grant.org,001-243-956-6118x06578,Contract,2019-10-30
+643, Heather Rojas ,,2001-04-23,2003-04-11,Sales,Software Engineer,20,Remote,Terminated,,jasonkennedy@yahoo.com,(457)300-3478,Intern,2010-07-30
+644, Amanda Martin ,Female,1969-05-13,1971-11-06,Finance,Sales Executive,22,Bangalore,Active,-1000.0,sean08@brown.net,5300829625,,
+645, Samantha Cantu ,Male,1976-09-22,2000-12-25,sales,Sales Executive,29,Remote,Resigned,31605.0,masseygary@hotmail.com,(863)749-7704,,2024-06-01
+646, Mr. Nicholas Gibson ,Male,1965-02-19,1998-12-25,Operations,,5,Hyderabad,Terminated,,scott59@hotmail.com,+1-146-691-8699x64571,Intern,2018-07-16
+647, Jacob Gallagher ,Female,1972-07-04,1980-03-10,Operations,Software Engineer,24,Hyderabad,Active,,,607.425.6896,Full-time,
+648, Kevin Phillips ,Male,1966-12-08,2002-10-22,  Engineering  ,Finance Analyst,27,Chennai,,129535.0,jamesturner@jones.com,(188)220-6383x302,,2004-03-02
+649, Elizabeth Martinez ,Female,1965-07-20,1987-09-16,Engineering,Operations Lead,4,Bangalore,Active,-1000.0,bryanford@mcmahon-hayes.com,+1-841-966-7777x361,Full-time,
+650, Kathleen Sims ,,1969-09-03,1989-01-11,Sales,HR Manager,22,Bangalore,Active,-1000.0,slee@gmail.com,001-728-767-7148x78632,Contract,
+651, Diane Washington ,Male,1980-06-27,2004-12-08,sales,Finance Analyst,38,Remote,,-1000.0,jacob57@may.info,001-365-830-0201x48967,Intern,2012-03-23
+652, Beth Taylor ,,1989-10-08,1998-03-01,  Engineering  ,,21,Hyderabad,Resigned,-1000.0,,+1-347-593-2979x86164,Full-time,2003-05-15
+653, Mr. John Franco PhD ,Male,1975-01-13,1992-02-24,HR,Sales Executive,26,Hyderabad,Terminated,72856.0,erin17@porter.info,(035)801-6694x56272,Contract,1996-11-26
+654, Thomas Williams ,Female,1965-11-13,1990-06-20,sales,Software Engineer,28, ,Terminated,114675.0,vangmatthew@wallace-gardner.com,001-891-447-9031x30775,Full-time,2011-10-10
+655, John Daniels MD ,Male,1984-06-03,1987-12-19,Operations,HR Manager,34,Remote,Terminated,,santosthomas@hotmail.com,308.058.1977x9554,Full-time,1997-06-14
+656, Dwayne Scott ,Female,1971-09-12,1986-11-02,Sales,,7, ,Resigned,-1000.0,billy51@hotmail.com,001-031-116-8118x600,,1998-08-20
+657, Jeffrey Olson ,Male,1965-08-16,1966-10-05,sales,Operations Lead,18,Hyderabad,,,robert75@thompson-garrett.com,001-411-023-7930x4745,Full-time,2022-03-20
+658, Cynthia Lowery ,Male,1986-10-12,1994-07-15,Engineering,HR Manager,25,Chennai,Resigned,83005.0,brittanyroberts@haley-olsen.com,+1-035-569-4719x4414,Full-time,2009-11-02
+659, Joseph Rodriguez ,,1985-02-24,2001-01-30,  Engineering  ,Software Engineer,3,Bangalore,Resigned,,steven13@schmidt.info,951-176-8736x13018,Intern,2004-10-16
+660, Carrie Jimenez ,Male,1991-05-06,2013-04-11,Sales,HR Manager,19,Bangalore,Terminated,-1000.0,sherri02@hotmail.com,985-464-9798,,2024-03-03
+661, Christina Brown ,,1970-05-29,2024-08-29,sales,HR Manager,26,Hyderabad,Terminated,-1000.0,cardenaskatherine@yahoo.com,315-223-6348x591,Contract,2024-09-18
+662, Laura Davis ,Female,1975-07-12,2001-04-23,Sales,Sales Executive,15,Bangalore,Resigned,,cassandra08@blake-gordon.com,488-747-4593x5116,,2022-12-05
+663, Mr. William Reed ,Female,1977-09-24,1996-04-14,HR,Operations Lead,14, ,Resigned,69446.0,amy98@gmail.com,234.029.4888,,2017-04-22
+664, Omar Andrews ,Male,1964-12-09,1996-12-02,HR,Operations Lead,12,Hyderabad,Terminated,-1000.0,katiealvarado@yahoo.com,220.623.6884x52531,Contract,1997-07-14
+665, Preston Holmes ,Female,1983-02-23,2012-05-13,sales,Operations Lead,38, ,Active,88012.0,camachogregory@gmail.com,001-494-033-4393x032,Intern,
+666, Alicia Cox ,Female,1998-04-25,2007-02-22,Engineering,Software Engineer,11,Hyderabad,Active,-1000.0,trujillokyle@yahoo,5216416956,Intern,
+667, Christopher Mcdonald ,Male,1979-06-12,1983-12-25,Engineering,Software Engineer,21, ,,,carterkristina@garza-smith.com,001-329-795-1052x03826,,1989-09-16
+668, Alexandria Butler ,Male,1967-10-20,1993-10-12,Sales,Software Engineer,29,Hyderabad,Active,-1000.0,kellyhughes@harper-washington.net,+1-450-071-3082x726,,
+669, Mary Moore ,,1966-06-23,1998-06-13,  Engineering  ,HR Manager,44, ,Terminated,-1000.0,rmercado@hotmail.com,512-274-7719x83794,,2012-08-13
+670, Chad Johnson ,Female,1966-02-20,1971-07-08,Sales,Finance Analyst,15,Bangalore,Resigned,,mgreene@shelton.com,(813)767-3518x1948,,1981-05-31
+671, Bethany Miller ,,1988-02-28,2019-03-10,HR,HR Manager,7,Bangalore,,,katherinejackson@hotmail.com,007.437.5090x587,,2024-03-16
+672, Edward Williams ,Female,2003-01-21,2016-09-20,Finance,Operations Lead,12,Hyderabad,,,mitchell09@conner.com,002-211-7085x1238,,2021-02-11
+673, Laura Mcneil ,Male,1971-02-05,2013-06-28,HR,Software Engineer,24,Remote,Terminated,,cfisher@yahoo.com,994-402-4302x3731,Full-time,2024-03-22
+674, Cheyenne Hall ,Male,2001-12-29,2020-09-22,  Engineering  ,,12, ,Resigned,-1000.0,timschmidt@hotmail.com,451.174.0486x10897,Intern,2020-11-19
+675, Eric Adams ,,2001-01-19,2024-09-27,Engineering,Software Engineer,38,Chennai,Resigned,38348.0,vernonkelly@carr.net,(928)603-4634,Full-time,2024-11-27
+676, Jeremiah Thompson Jr. ,,1978-10-26,2015-07-17,Sales,,42,Chennai,Terminated,-1000.0,,644-806-4486x59872,,2020-07-23
+677, Rachel Grant ,,1969-06-25,1994-09-27,Operations,Operations Lead,41,Chennai,,58376.0,gailmitchell@anderson.org,447.770.6913x2562,,2000-09-03
+678, Vernon Pena ,,1973-05-10,1990-02-01,sales,Finance Analyst,3, ,Resigned,55248.0,danielgarcia@hubbard.net,+1-017-834-5574,,2004-11-07
+679, Victoria Hinton ,Male,1978-01-27,1986-02-12,HR,Sales Executive,23,Remote,Active,,wjohnson@gmail.com,755-701-9502x02495,,
+680, Denise Atkins ,Male,1973-03-24,1978-09-04,HR,Finance Analyst,37,Remote,,-1000.0,steven90@yahoo.com,(769)896-3859x30940,Full-time,2009-02-05
+681, Terry Mcdowell ,,1999-09-27,2008-10-07,Sales,HR Manager,6, ,Terminated,,salazardaniel@yahoo.com,176-791-5820,Contract,2015-07-31
+682, Brian Walker ,Male,1982-02-19,2002-02-25,sales,HR Manager,1, ,Resigned,131834.0,woodwardryan@sanchez.com,(824)070-9605x6642,Intern,2004-12-04
+683, Elijah Mendoza ,Male,2002-08-11,2006-09-26,Finance,Sales Executive,6,Hyderabad,Resigned,78598.0,ruben13@myers.net,(548)147-3514x342,Contract,2022-07-25
+684, Jennifer Jackson ,,1980-05-21,2011-02-15,HR,Finance Analyst,23,Remote,Active,124351.0,benjaminwang@burke.org,(184)493-2708,,
+685, Lisa Williams ,Female,1981-10-16,2008-04-08,Operations,,17,Chennai,Active,-1000.0,jadedaniels@hotmail.com,(445)131-9803x27169,Intern,
+686, Cindy Carr ,Male,1974-06-11,1980-02-08,Sales,,22,Bangalore,Terminated,115702.0,sarahmartinez@cisneros-burke.com,+1-355-634-0393,Full-time,2012-01-11
+687, Billy Hooper ,,1993-12-21,2013-02-19,Operations,Sales Executive,12,Remote,Active,61707.0,jonesbeth@peterson.com,+1-874-062-1556,Contract,
+688, Kelli Tucker ,Female,1983-04-24,1995-08-29,Operations,Finance Analyst,40,Hyderabad,Resigned,-1000.0,,(902)495-0166x304,Intern,2025-03-06
+689, Jeffrey Long ,Male,1980-07-08,1985-09-11,Operations,Software Engineer,19,Bangalore,Terminated,103061.0,amanda00@duncan.com,(454)054-6856x7164,,2001-07-28
+690, Emily Griffith ,Female,1989-06-25,2021-07-30,Sales,Software Engineer,42,Bangalore,Active,101703.0,lambtiffany@butler.org,6529574924,Intern,
+691, Maria Woodard ,Female,1968-09-04,1983-08-25,Operations,HR Manager,50,Remote,Active,-1000.0,steven73@harris.org,+1-471-720-7288x3561,Intern,
+692, Jason Smith ,Male,1981-10-06,2018-11-07,Finance,,21,Hyderabad,Terminated,,jennifer85@gmail.com,0829882182,,2021-06-01
+693, Mr. Nicholas Washington ,,1997-04-01,2017-09-07,Operations,Sales Executive,10,Bangalore,Resigned,140221.0,lisa61@sullivan-swanson.com,017.369.4222x545,Intern,2023-03-01
+694, Michael Jimenez ,,1996-05-23,1999-12-04,Sales,HR Manager,28, ,,-1000.0,smoore@thomas-montes.com,4089995273,Contract,2010-06-23
+695, Stephen Jackson ,Male,1987-03-22,2014-12-27,sales,Sales Executive,20, ,Resigned,-1000.0,crystallawson@hotmail.com,+1-281-205-8735x8445,,2025-01-15
+696, Hector Spencer MD ,Female,1996-10-08,2022-07-02,HR,Sales Executive,44,Remote,Resigned,106704.0,cboyle@flores.com,(091)463-6908x825,Intern,2023-02-10
+697, Jose Donovan ,,1983-09-09,1997-10-06,sales,Sales Executive,17,Chennai,Resigned,,luis08@gmail.com,977.785.0014,Intern,1998-02-13
+698, Dr. Charles Johnson Jr. ,,2000-03-02,2008-04-23,HR,Operations Lead,41,Bangalore,Terminated,61626.0,jill29@moss-robinson.com,950-066-8383,Full-time,2016-01-29
+699, Benjamin Ryan ,Male,1968-11-19,2008-05-23,Sales,HR Manager,27,Bangalore,,,chelsea45@beard-smith.com,001-787-545-8328,Contract,2014-02-18
+700, David Smith ,,1979-09-20,2007-02-06,Operations,,46,Bangalore,Active,55657.0,fbullock@yahoo.com,+1-351-179-1783x97946,,
+701, Tanya Garza ,Female,1996-03-13,2016-11-22,Finance,Finance Analyst,44,Bangalore,Terminated,127574.0,matthewhill@gmail.com,671-235-8354x23153,Contract,2023-06-18
+702, James Whitaker ,Female,1968-01-23,1968-01-25,Finance,,28,Bangalore,,112590.0,jonespatricia@gmail.com,625-471-4493,,2022-12-24
+703, Carrie Randall ,,1969-07-12,2014-09-02,  Engineering  ,Finance Analyst,40, ,Resigned,96504.0,bradleywood@hotmail.com,001-697-890-6302,Intern,2018-04-29
+704, Andrew Jackson ,Female,1967-03-22,2022-05-29,Engineering,Sales Executive,3,Bangalore,,,shirley31@owens.com,(467)323-8118x18066,Intern,2022-12-09
+705, Shannon Lewis ,Female,1994-06-10,2005-08-03,HR,Finance Analyst,24,Hyderabad,Resigned,85247.0,wmoss@hotmail.com,001-425-538-2170,Full-time,2019-07-23
+706, Alison Wilson ,Female,1983-08-02,2017-11-06,Operations,Software Engineer,50, ,Resigned,-1000.0,torreszachary@anderson.info,652-417-5718x50445,Contract,2018-07-27
+707, Adrian Bryant ,,1985-06-23,2020-03-17,HR,Sales Executive,10,Chennai,Resigned,,cindy55@miller.com,+1-308-014-3695x68814,,2024-06-28
+708, Juan Glover ,Male,1988-11-18,1997-03-04,Finance,,4,Remote,Resigned,,anna38@yahoo.com,354-567-1508x8956,Contract,2023-12-23
+709, Randy Webster ,,1996-05-02,2003-09-23,Finance,Operations Lead,36,Hyderabad,,128875.0,hendrickssteven@hotmail.com,(683)116-9504x58803,Full-time,2008-09-07
+710, Gina Parker ,Female,1978-05-17,2006-12-06,HR,Sales Executive,9,Bangalore,Active,-1000.0,carterbrian@yahoo.com,754.729.4272x071,,
+711, Felicia Allen ,,1968-03-01,2006-10-30,HR,Finance Analyst,44,Hyderabad,,-1000.0,manuelpitts@white.info,(983)883-8841,Contract,2007-01-30
+712, Sierra Molina ,Female,1984-12-17,1995-03-27,Sales,Operations Lead,43, ,Resigned,66679.0,smithwilliam@yahoo.com,001-882-279-2971x76179,Intern,2003-03-14
+713, Gary Henderson ,Male,1972-11-04,2007-06-23,sales,HR Manager,40,Bangalore,Terminated,98686.0,arnoldadriana@mays.com,243.642.6557x0927,Contract,2008-10-17
+714, John Rasmussen ,,1993-12-02,2018-12-22,HR,Software Engineer,14,Bangalore,Active,,ksmith@gmail.com,001-465-035-9479,Full-time,
+715, Shawn Holmes ,Male,1973-10-07,2019-11-14,Sales,Finance Analyst,29,Bangalore,Active,,luisarcher@yahoo.com,+1-886-615-1525x420,,
+716, Randy Hendricks ,,1972-02-25,2019-05-10,HR,,50,Bangalore,Terminated,,shermanjonathan@gmail.com,+1-460-184-2984x826,Full-time,2020-12-01
+717, Amy Hernandez ,Female,2003-01-25,2010-02-22,Operations,Software Engineer,2,Chennai,Resigned,-1000.0,kristen30@yahoo.com,001-970-221-6586x9428,Intern,2022-07-29
+718, Chad Kim ,,1994-04-04,2024-06-13,  Engineering  ,Sales Executive,25,Bangalore,,77425.0,andrewkrueger@hopkins.com,752.145.9446,Intern,2024-08-25
+719, Lisa Jordan ,,1996-02-17,2019-07-18,HR,Operations Lead,29,Hyderabad,Active,,jrichards@saunders.org,3016022800,Contract,
+720, Gerald Nash ,Female,1994-10-03,2003-05-02,Engineering,,39,Chennai,Active,,vsmith@yahoo.com,001-634-140-6776,Full-time,
+721, Peter Martinez ,,1979-08-14,2005-02-23,Engineering,Finance Analyst,39, ,,-1000.0,joanna12@hotmail.com,(131)444-5061,Contract,2018-10-20
+722, Tracy Lamb ,Male,1997-04-10,2012-04-08,Engineering,Finance Analyst,31,Remote,,122898.0,xsmith@yahoo.com,001-290-343-6661x396,Contract,2025-01-04
+723, Victoria Murphy ,Female,1991-06-04,2007-01-19,HR,Operations Lead,16,Hyderabad,Terminated,-1000.0,ihill@yahoo.com,888.010.6594x11600,,2011-10-25
+724, Mary Hines ,Male,1991-10-25,2007-09-09,Engineering,Operations Lead,37, ,Resigned,33145.0,michael13@yahoo.com,+1-418-815-4000x43992,Contract,2008-08-28
+725, Joseph Nixon ,,1969-03-19,1974-03-10,sales,Sales Executive,38, ,Terminated,90586.0,dmoore@house-bell.com,651-703-4153x5279,Full-time,2020-08-30
+726, Monique Adams ,Male,1972-10-23,1975-05-24,HR,Software Engineer,30,Hyderabad,Resigned,143818.0,daniel60@hotmail.com,7693239320,Contract,1998-02-13
+727, David Fowler ,,1990-09-13,2011-02-19,sales,,23,Hyderabad,Resigned,-1000.0,lindseymcdowell@gmail.com,001-083-751-7893x823,Intern,2022-11-03
+728, Peter Todd ,Male,1996-12-25,2025-01-12,HR,Software Engineer,41,Remote,Terminated,126855.0,zshaw@cline.info,430.621.0328x073,Intern,2025-03-14
+729, Deborah Johnson ,Female,1997-05-20,2018-09-11,Operations,Finance Analyst,24,Hyderabad,,,melissaflynn@gmail.com,(933)821-7097,,2024-02-20
+730, Tracie Dunn ,Female,1981-07-06,1998-11-28,  Engineering  ,,35,Bangalore,,130188.0,karenolsen@levine-miller.info,001-507-076-0074x98908,,2013-05-08
+731, Todd Harris ,,1979-12-16,2004-05-18,HR,Sales Executive,27,Remote,Active,138591.0,ugonzalez@hotmail.com,498.159.9497,Full-time,
+732, Mr. Marcus Lopez ,Female,1966-06-17,2000-08-04,sales,HR Manager,14,Hyderabad,Active,88011.0,lindsey69@hotmail.com,163-177-3155x0154,,
+733, Katherine Vega ,Female,1978-10-22,1984-08-27,Finance,,46,Hyderabad,Active,118630.0,arianawilson@yahoo.com,(594)381-5643x6566,Full-time,
+734, George Sharp ,,1998-06-10,2024-11-10,Sales,,18, ,Resigned,138451.0,lorigregory@hotmail.com,688-038-9991x4038,Intern,2025-03-10
+735, Leroy Hart ,,1973-07-23,2007-11-12,Sales,Sales Executive,37,Chennai,Active,,francisco59@martin-griffith.com,001-946-503-8943,Full-time,
+736, Emily Fowler ,Male,1989-10-25,2006-01-11,Finance,Finance Analyst,13,Hyderabad,Active,54964.0,anthonyquinn@yahoo.com,(784)800-9926,,
+737, Mr. Robert Moore ,,2001-11-10,2017-04-24,Finance,Sales Executive,3, ,Active,30240.0,jamesjohnson@contreras-webb.org,709-052-9523x129,Contract,
+738, Katelyn Warren ,Male,1975-03-19,1977-08-15,Finance,Finance Analyst,6,Hyderabad,Terminated,-1000.0,simmonsmarisa@johnson.com,7395427875,Contract,2009-01-13
+739, Mary Miller ,Female,1979-01-01,2013-12-23,HR,Operations Lead,40, ,,144149.0,andrademeghan@miller.com,+1-689-716-0678x0477,,2019-08-20
+740, Kimberly Mooney ,Male,1970-02-05,2018-07-18,sales,Finance Analyst,28,Bangalore,Terminated,-1000.0,douglas20@gmail.com,+1-809-837-2742x614,Full-time,2023-12-03
+741, Bridget Bauer ,Female,1995-06-06,2024-11-30,Finance,Software Engineer,26,Remote,,-1000.0,reynoldsanthony@yahoo.com,+1-677-760-5104x68890,Contract,2025-03-05
+742, Timothy Rollins ,,1968-02-27,2003-03-09,Finance,Sales Executive,27,Hyderabad,Active,,ghoward@wells.com,(822)934-7752x231,,
+743, Evan Hill ,Male,1981-10-04,2020-09-01,Finance,Finance Analyst,34,Hyderabad,Resigned,,nicholasshields@yahoo.com,466-665-4644,,2025-01-25
+744, Ryan Blake ,,1985-02-09,2006-09-06,HR,Operations Lead,32,Hyderabad,Terminated,55819.0,jasmine46@stone-norris.com,+1-147-309-2498,Full-time,2020-06-10
+745, Nathan Porter ,Female,1970-12-13,1999-03-25,sales,,3,Bangalore,Active,-1000.0,timothygonzalez@hotmail.com,289-494-3975,Full-time,
+746, Robert Myers ,Female,1968-12-23,2016-07-10,Sales,,31,Hyderabad,Resigned,-1000.0,,(701)692-4485x41606,,2018-10-08
+747, Jill Nelson ,Male,1971-11-23,2002-02-27,Finance,Finance Analyst,42, ,Resigned,72170.0,nicholspatricia@hotmail.com,158.540.0644,Contract,2017-09-16
+748, Sandra Martinez ,,1974-08-31,2007-02-10,Finance,Software Engineer,39,Chennai,Active,,williamsadriana@moore.com,+1-514-288-9016x4247,Contract,
+749, Jose Alvarado ,Male,1974-02-22,2015-03-28,HR,HR Manager,1, ,Terminated,-1000.0,gbenson@moore.com,893-469-6461x3417,,2016-03-03
+750, Victoria Frost ,,1987-09-05,1995-12-28,  Engineering  ,Software Engineer,10,Chennai,Terminated,,llopez@thornton.com,640-704-0082x210,Contract,2008-07-13
+751, Michael Taylor ,,2001-02-06,2008-07-26,  Engineering  ,Operations Lead,17,Remote,Active,81012.0,christophertaylor@gray.biz,001-466-797-3160x31835,Full-time,
+752, Gabriel Meyer ,Female,1973-01-08,2004-02-17,Finance,Sales Executive,17,Hyderabad,Active,,tonyboyle@gmail.com,(891)247-4889x4725,Contract,
+753, Stephanie Carney ,Female,1998-12-21,2006-07-31,Operations,Finance Analyst,48,Bangalore,Active,-1000.0,nwallace@pope.net,001-298-171-5294x406,Contract,
+754, John Perez ,Male,1978-01-31,1984-12-02,Operations,Software Engineer,5,Hyderabad,Active,42952.0,jeffreyfowler@yahoo.com,+1-863-744-5990,Full-time,
+755, Jennifer Hendricks ,,1972-04-28,1984-01-24,Operations,HR Manager,45,Hyderabad,Resigned,88468.0,woodsgrant@jones.com,(729)648-2389x32632,Contract,1993-08-28
+756, Allison Stevenson ,,1996-12-10,2006-09-30,Operations,Finance Analyst,3,Bangalore,,,slong@lester-jackson.biz,001-996-413-5269x502,Contract,2022-04-16
+757, Jennifer Ewing ,,1995-04-18,2015-05-09,Sales,Operations Lead,12,Chennai,,-1000.0,stewartjoshua@gmail.com,(313)430-5841x04402,Full-time,2019-06-24
+758, Deborah Warner ,,1974-11-09,2022-08-12,  Engineering  ,Finance Analyst,11, ,Terminated,-1000.0,mathissteven@yahoo.com,001-886-607-1380x766,,2024-04-12
+759, Kathleen Sparks ,Female,2002-01-07,2005-05-05,Engineering,Operations Lead,15,Bangalore,Terminated,-1000.0,john86@berry-anderson.net,(445)973-9116x3748,Intern,2021-06-09
+760, Nicole Scott ,Female,1970-08-25,2000-04-24,  Engineering  ,Finance Analyst,47,Bangalore,,,lindsayvincent@friedman-leach.org,+1-664-009-2699x907,Intern,2023-02-09
+761, Julie Burns ,Female,1979-08-09,2014-02-26,Operations,Software Engineer,37,Hyderabad,Terminated,-1000.0,,635-943-8675x262,Full-time,2014-09-25
+762, Roger Woodward ,Male,1990-02-14,1994-06-12,sales,HR Manager,9,Remote,Terminated,,,4051760317,Intern,2006-10-18
+763, Mrs. Jessica Petersen ,Female,1997-06-26,1999-02-18,HR,Finance Analyst,47,Chennai,Terminated,143342.0,david00@chapman-carter.info,579.822.0916x618,Full-time,2017-10-15
+764, Edward Washington ,Male,1988-02-03,2012-03-03,Finance,Software Engineer,23, ,,,bclay@yahoo.com,001-649-750-8890x75569,Full-time,2016-02-15
+765, Robin Gonzales ,,1969-05-18,1981-04-28,HR,Software Engineer,46,Remote,,-1000.0,leeashley@porter.com,812.688.9029x96641,Full-time,2000-02-09
+766, Robert Hansen ,Male,1989-01-04,2019-05-22,sales,Finance Analyst,11,Remote,,79898.0,alexander31@gmail.com,+1-659-989-6986,Intern,2021-11-20
+767, Christopher Johnson ,,1969-11-06,1999-08-08,  Engineering  ,,36, ,Terminated,,washingtonkyle@yahoo.com,246.945.0943x50943,Intern,2020-01-02
+768, Kristen Nichols ,Male,1970-08-03,2001-07-13,Sales,Finance Analyst,2, ,,57121.0,,144.829.9123x585,Contract,2003-11-04
+769, Felicia Galloway ,Male,1965-10-19,2008-02-14,sales,,34, ,Resigned,-1000.0,stephanie24@yahoo.com,042-067-9690x9839,,2015-01-10
+770, Marilyn Monroe ,Female,1966-04-26,2002-11-20,Finance,Software Engineer,27,Hyderabad,,-1000.0,wumark@dominguez.biz,802.803.3019,Contract,2005-09-21
+771, John Mccoy ,Male,2002-12-28,2024-07-17,HR,Operations Lead,14,Remote,Active,-1000.0,warrensteven@snow.com,001-074-154-3118x95586,Intern,
+772, Richard Forbes ,,2001-10-27,2003-10-17,HR,Finance Analyst,25,Hyderabad,Active,-1000.0,stevenhill@gmail.com,4623943035,Full-time,
+773, Jessica Harper ,Male,1974-03-26,1978-03-09,  Engineering  ,Finance Analyst,20,Chennai,Resigned,-1000.0,juliacharles@gmail.com,778-124-1211x29204,Contract,1994-08-17
+774, Ann Moore ,Male,1979-05-29,1983-05-22,  Engineering  ,HR Manager,37, ,Resigned,-1000.0,jfuentes@hines.com,2505328870,Intern,2005-07-25
+775, James Duncan ,Female,1997-01-25,2011-07-11,HR,Software Engineer,4,Chennai,Active,-1000.0,hunterdakota@knox.com,(664)139-9276x896,Intern,
+776, Christina Matthews ,Male,1986-04-23,1986-12-02,Operations,Finance Analyst,13, ,Resigned,-1000.0,joycemary@thomas.com,353-257-9727x708,Contract,2006-06-06
+777, Mr. Gabriel Booth ,Female,1992-09-04,2002-06-20,Finance,Operations Lead,38,Bangalore,Terminated,30016.0,richard19@cortez-barrera.com,001-767-378-9653x097,Full-time,2020-01-11
+778, Claudia Weaver ,,1978-09-08,2004-03-23,  Engineering  ,Software Engineer,46,Chennai,Terminated,139737.0,steve36@hotmail.com,001-924-008-4473x59646,Full-time,2015-02-19
+779, Rebecca Peterson ,,1964-09-10,1983-03-24,Sales,HR Manager,38,Bangalore,Active,148273.0,aanderson@cole.info,372-871-0935x509,Intern,
+780, Michelle Lawson ,Female,1999-08-14,2012-07-13,Finance,Sales Executive,50, ,Active,-1000.0,cmcdonald@gmail.com,(457)095-8639,Contract,
+781, Michael Nicholson ,Female,1995-12-22,2007-12-02,HR,,28,Hyderabad,,-1000.0,mccoypaul@yahoo.com,001-648-405-6340x325,Contract,2018-04-02
+782, Brian Payne ,Male,1998-09-13,2021-12-10,Finance,Operations Lead,36, ,Resigned,73594.0,russelledward@patterson.biz,9150577340,Intern,2024-09-23
+783, Lisa Wagner ,,1971-06-24,1995-07-10,HR,Software Engineer,20,Hyderabad,Active,66289.0,andersondakota@gmail.com,001-887-838-3277,Contract,
+784, Devin Roach ,,1987-02-24,2023-04-17,Finance,HR Manager,10, ,Terminated,,deckeramanda@patrick-sanchez.com,(529)667-0407x9075,Contract,2024-01-08
+785, Vincent Mckenzie ,,1968-05-19,2003-03-10,HR,Operations Lead,4,Hyderabad,Active,-1000.0,halesophia@gmail.com,626-984-2279,Full-time,
+786, Keith Benson ,Male,1970-04-18,2001-07-06,sales,,29, ,Active,-1000.0,rossjeffrey@gmail.com,3144675764,Full-time,
+787, Linda Williams ,,1980-12-28,2024-12-15,Sales,Operations Lead,1,Hyderabad,,-1000.0,bradmartin@gmail.com,(651)689-3044,Intern,2024-12-23
+788, Zachary Medina ,Female,1975-02-13,2001-01-18,Engineering,Software Engineer,33,Hyderabad,Active,114569.0,robert57@johnson.com,+1-723-019-7979x4264,,
+789, Michelle Kelly ,Male,1974-12-29,2016-09-03,Finance,Software Engineer,16,Bangalore,Resigned,-1000.0,jesus60@cruz.info,514.730.4666x627,Contract,2024-11-01
+790, James Edwards ,,1992-06-27,2002-06-28,  Engineering  ,HR Manager,18,Chennai,,,adalton@gmail.com,935-528-5175x45824,Full-time,2003-12-29
+791, Michael White ,Male,1974-10-23,2013-09-23,Operations,Sales Executive,12,Remote,,78707.0,brandynelson@johnson.com,614-216-6652,Intern,2019-04-25
+792, Meredith Hudson ,,1995-03-04,2016-11-14,Finance,,4,Chennai,,88786.0,robert23@mason.com,509-116-2870,Intern,2019-06-04
+793, Tina Mercer ,,1973-04-10,1982-12-06,HR,HR Manager,20,Chennai,,,alyssa07@gmail.com,001-862-603-5824x2705,Contract,2018-04-25
+794, Brittany Smith ,,1981-08-06,2014-07-19,  Engineering  ,Sales Executive,35,Chennai,,,michellewatson@young.com,1643993583,,2024-12-24
+795, Edward Lopez ,Female,1985-10-06,2022-06-18,sales,Operations Lead,48, ,Resigned,91016.0,danielmoss@wright.com,153-179-1129x5207,Intern,2022-11-10
+796, Matthew Williams ,Female,1993-05-03,1997-05-05,HR,Software Engineer,45,Hyderabad,Resigned,,smithjohn@keller.com,6692838610,Intern,2021-04-12
+797, Mr. Robert Smith ,,1987-07-12,2018-10-22,Engineering,HR Manager,5, ,,91029.0,,001-338-360-0028x256,Full-time,2021-07-23
+798, Sandra Robinson ,,2000-06-28,2002-12-31,Sales,Finance Analyst,1,Remote,Resigned,-1000.0,deleonmichael@johnson.com,709-959-4312,Full-time,2025-02-13
+799, Charles Clark ,,1986-12-12,1987-06-02,Sales,Sales Executive,13,Remote,Resigned,-1000.0,rbrown@gray.org,970-712-8546,,1992-11-25
+800, Robert Scott ,,1991-01-30,2012-06-16,Sales,,2,Hyderabad,,-1000.0,burtonmegan@hotmail.com,(289)984-0982x33527,Full-time,2024-03-31
+801, Charles Williamson ,,1965-07-25,2018-08-19,HR,Operations Lead,47,Chennai,Active,-1000.0,valentinemichelle@yahoo.com,919.339.4986x314,Intern,
+802, Katelyn Hall ,,1999-05-22,2021-12-18,Engineering,,30,Bangalore,Terminated,122068.0,mariowalters@hotmail.com,462.514.6026x329,Intern,2024-07-12
+803, Rodney Morris ,Female,1993-06-23,1998-08-06,  Engineering  ,,46,Hyderabad,Active,38801.0,denniselaine@ellis.biz,375.586.0642x37605,,
+804, Michelle Carpenter ,Male,1981-10-23,2002-06-21,Operations,HR Manager,30,Remote,,,trhodes@espinoza.com,899-178-9791x072,,2012-07-10
+805, Amber Barrett ,Male,1995-01-29,2022-03-29,Sales,Finance Analyst,34, ,Terminated,-1000.0,claudiajones@smith-ruiz.info,6264520895,Full-time,2025-01-03
+806, Lance Delgado ,Female,1982-01-09,1999-07-10,  Engineering  ,Software Engineer,12,Bangalore,,-1000.0,,849-082-1364,Contract,2007-02-28
+807, Karen Baird ,Female,1973-05-27,2012-04-20,HR,Finance Analyst,26, ,,112770.0,jeff70@yahoo.com,417.487.5049,,2023-07-24
+808, Jared Walker ,,1988-10-06,1994-09-23,sales,,5,Bangalore,Terminated,,martindonald@gmail.com,(513)627-0906,Full-time,2019-08-04
+809, Kendra Dunn ,,1978-10-11,1983-07-13,  Engineering  ,Finance Analyst,12,Hyderabad,Active,,psparks@gmail.com,+1-833-194-5789x645,Contract,
+810, Wendy Stone ,,1996-07-19,2013-06-07,HR,Operations Lead,15,Remote,Terminated,129367.0,xcarpenter@yahoo.com,001-470-098-0532x792,,2019-08-27
+811, Lisa Davenport ,,1971-07-26,2023-08-28,sales,Finance Analyst,37,Chennai,,72424.0,michaelanderson@moody-bell.com,332-808-8854x955,,2025-02-20
+812, Bruce Welch ,Male,1981-09-29,1991-08-19,Sales,Software Engineer,30, ,Resigned,,victoria25@bennett.com,663-009-7533,Contract,2002-01-02
+813, Mrs. Kayla Sweeney ,,1964-05-11,2020-05-31,Finance,,39,Chennai,,69427.0,danielle11@stevens-moore.com,971.179.5230x53025,,2022-08-11
+814, Dr. Donna Robinson ,Female,1993-08-28,1998-07-29,sales,Sales Executive,25,Bangalore,Terminated,135970.0,whitakerdiamond@vasquez.biz,2500023442,,2003-10-31
+815, Stephanie Gonzalez ,Male,1972-01-20,1991-04-24,Operations,Operations Lead,44,Chennai,Resigned,,nicoleburch@lambert.com,0501027110,Full-time,1998-09-06
+816, Heather Brown ,Male,1972-02-03,2013-04-24,Engineering,Software Engineer,14,Hyderabad,Active,,kmarshall@young.com,+1-097-840-0356x411,Contract,
+817, Danny Duffy ,,1997-08-25,2023-05-04,Sales,,2,Hyderabad,,,dixonmaureen@garrett.com,702.898.1752,Full-time,2024-09-22
+818, Jason Anderson ,,1966-07-13,1998-05-26,HR,Sales Executive,24, ,Active,,elliscrystal@french.net,656-448-5136x1590,Full-time,
+819, Stephanie Walker ,,1998-06-30,2019-07-29,HR,HR Manager,10, ,Resigned,82629.0,henry48@gmail.com,001-625-163-9706x05104,Intern,2024-10-08
+820, Denise Neal ,,2002-05-14,2008-08-25,Operations,Operations Lead,23,Hyderabad,Resigned,130693.0,xcampbell@yahoo.com,001-767-614-8807x17254,Full-time,2016-04-07
+821, Joel Harding ,Female,1990-01-29,2021-07-16,HR,Sales Executive,38, ,,,monica38@hotmail.com,435-604-4234x79017,Intern,2023-06-11
+822, Edward Yates ,Female,1979-06-14,1981-09-06,Sales,Finance Analyst,30,Chennai,,55513.0,mcdowellamanda@yahoo.com,(020)722-1101,,2009-09-06
+823, Jonathan Schmidt ,Female,1979-11-03,2013-05-31,Engineering,Sales Executive,42,Chennai,Active,-1000.0,brandiespinoza@yahoo.com,001-193-824-0086x06214,Intern,
+824, Terry Castillo ,,1968-08-22,1975-12-21,Operations,Sales Executive,26, ,,130886.0,wilsoncarrie@gmail.com,001-615-903-4021x89506,Intern,2000-07-23
+825, Theresa Smith ,Male,1966-06-27,2005-12-07,Finance,Operations Lead,39,Hyderabad,Terminated,,kristin46@yahoo.com,290-969-0997,,2022-05-11
+826, Debbie Miller ,Male,2002-02-15,2023-05-19,Sales,Operations Lead,31, ,,-1000.0,beckermark@holt.com,001-541-608-9924x063,,2024-04-22
+827, Amanda Schwartz ,Female,1988-11-24,2016-12-03,Sales,Operations Lead,8,Hyderabad,Resigned,30745.0,toddjones@buchanan.com,001-050-471-5145,,2021-01-04
+828, Michael Hickman ,Female,1978-04-08,2010-02-28,HR,,33,Hyderabad,Resigned,116140.0,laurie24@yahoo.com,148-614-8170,Contract,2017-06-05
+829, Natasha Mata ,Male,2001-09-29,2010-05-13,Operations,Finance Analyst,48,Chennai,Terminated,,veronica29@greer.com,216.738.5272x0104,Full-time,2024-08-04
+830, Sarah Miller ,,1982-12-13,2017-01-28,Operations,Sales Executive,35,Remote,,,stephanie72@hotmail.com,+1-848-321-3379x91814,,2017-11-01
+831, Michael Guerrero ,Male,1971-10-21,1972-03-21,Finance,,19,Hyderabad,Terminated,134756.0,,+1-097-091-8078,Intern,1992-10-07
+832, John Castro ,,2000-12-06,2014-08-23,HR,Software Engineer,6,Remote,Active,-1000.0,richardsstephanie@yahoo.com,369-700-7049,,
+833, John Allen ,Female,1973-04-07,1999-08-26,HR,,31,Chennai,Terminated,42579.0,,0548169130,Intern,2014-12-06
+834, Tyrone Rodgers ,Male,2001-10-05,2014-04-24,  Engineering  ,Operations Lead,37,Bangalore,Resigned,-1000.0,klineamanda@hotmail.com,8604950258,Full-time,2014-08-06
+835, Mrs. Kendra Thomas ,Female,1984-07-09,1987-08-04,  Engineering  ,Operations Lead,17,Hyderabad,,-1000.0,hspencer@yahoo.com,+1-079-504-6757x37841,Intern,2002-09-06
+836, Patricia Adams ,,1973-01-11,1992-09-30,Operations,,15,Remote,Active,81837.0,scottnunez@pugh.biz,001-388-811-2467x4621,Intern,
+837, Robert Cooper ,,1964-11-10,1974-09-13,Operations,Sales Executive,1,Remote,Terminated,,owentimothy@gonzalez-garcia.org,(352)059-3193,Intern,1984-03-16
+838, Kristen Ward ,Male,1964-12-16,2021-01-16,Sales,Operations Lead,49,Hyderabad,,,shawngarcia@love.biz,176-662-2212x888,Full-time,2023-09-24
+839, Kelsey Daugherty ,Male,1973-11-17,2016-09-20,Sales,HR Manager,18,Hyderabad,,-1000.0,matthewjones@sloan.com,544-636-7119,Contract,2024-03-08
+840, James Miller ,Male,1969-12-10,1992-05-25,  Engineering  ,Software Engineer,25,Chennai,Resigned,143471.0,taylorwilcox@sanders.info,(606)873-4560x9163,,2001-12-18
+841, Alexander Moore ,,1973-06-02,1997-05-02,Operations,Software Engineer,19,Bangalore,Active,,freemanjesse@sutton-robertson.biz,+1-245-050-6205x52197,Full-time,
+842, Corey Taylor ,Male,1964-05-22,2017-02-01,Engineering,Finance Analyst,29,Chennai,Active,-1000.0,jennabowen@salazar-hunt.com,5931779293,Contract,
+843, Patricia Levy ,,1975-04-02,2002-12-21,Operations,Sales Executive,32,Remote,Active,-1000.0,kellygray@hotmail.com,828.510.6138x390,Contract,
+844, Ms. Brenda Hansen ,Male,1967-09-19,1999-12-24,Sales,Software Engineer,4,Hyderabad,Terminated,-1000.0,bryan42@hotmail.com,270-628-7874x21103,Contract,2021-02-01
+845, Brent Christensen ,Female,1968-08-30,1987-11-23,HR,,18, ,Resigned,-1000.0,samuelmata@yahoo.com,953-519-6114x437,,2006-04-30
+846, Charles Martin ,,1974-09-04,2009-04-24,  Engineering  ,Software Engineer,48,Remote,Active,78335.0,mhall@rivera.info,561-906-4175x7525,Intern,
+847, Jeffery Dixon ,Female,1971-10-24,2000-02-14,sales,,49, ,Resigned,-1000.0,,(681)819-6890,Intern,2007-09-29
+848, Anita Daniel ,Male,2001-06-15,2018-11-20,HR,Finance Analyst,5,Hyderabad,Resigned,,upeck@gmail.com,177-160-8655x34127,Contract,2024-05-31
+849, Molly Love ,,1986-02-22,2008-12-23,Sales,HR Manager,49,Remote,Terminated,,palvarado@yahoo.com,+1-000-500-7815,Contract,2016-12-16
+850, Margaret Sanchez ,Male,1985-03-29,1985-10-31,  Engineering  ,,45, ,Active,,samantha51@gmail.com,237-160-2912x99465,Contract,
+851, Xavier Smith PhD ,Male,1973-03-28,2016-04-02,sales,HR Manager,11,Remote,Resigned,-1000.0,jasmine99@yahoo.com,(758)036-9557x2417,,2023-05-15
+852, Kristen Johnson ,,1982-07-22,2020-03-26,Sales,Finance Analyst,17,Remote,,60483.0,thompsonnatalie@miller.net,650-825-7513x59685,Full-time,2021-09-04
+853, Lauren Clark ,Female,1993-06-07,2000-09-29,sales,Operations Lead,34,Chennai,,,gabrielleross@santos.com,795.697.1885,,2010-04-07
+854, Wendy Grant ,,1999-04-19,2022-02-13,Engineering,,34,Chennai,,,hayers@hotmail.com,7508229659,,2024-10-01
+855, Daniel White ,Male,1999-02-21,2014-04-24,sales,,21,Remote,Active,81905.0,alisonpierce@gmail.com,878-093-8353,Full-time,
+856, Heather Fry ,,1987-05-31,2006-04-05,Finance,Operations Lead,10,Chennai,,,nelsonkayla@jackson.info,(119)973-5561,Contract,2012-01-13
+857, Kevin Sims ,Female,1971-11-09,2018-12-13,  Engineering  ,,38,Chennai,,-1000.0,kimberlygreen@mitchell.com,6319502408,Contract,2019-08-24
+858, Dave Henderson ,Male,1969-05-01,1984-11-22,HR,HR Manager,23, ,Resigned,-1000.0,travispaul@larson.com,+1-621-327-9333x78736,Intern,2010-12-13
+859, Brandon Jones ,Male,1984-04-22,1998-12-03,Finance,HR Manager,13,Hyderabad,,134833.0,avilatanya@hotmail.com,+1-599-420-6586x0687,,2014-10-26
+860, Tyler Bright ,Female,1970-09-18,1978-02-18,Engineering,HR Manager,10,Remote,Resigned,,zacharythompson@simmons.info,173.248.9916x749,,2002-11-17
+861, Ronald Chan ,Male,1989-10-31,1996-10-30,HR,HR Manager,50,Bangalore,Resigned,-1000.0,masondarrell@hotmail.com,552.129.5378x0780,Contract,2021-05-26
+862, Barry Alexander ,Female,1981-02-20,1987-11-26,Sales,,23,Hyderabad,Resigned,102662.0,ujackson@yahoo.com,001-150-018-8756x6172,,2017-07-31
+863, Ian Carroll ,,1998-01-13,2014-12-08,  Engineering  ,HR Manager,4,Bangalore,Active,65798.0,joshua90@gmail.com,001-514-349-1183x73313,,
+864, Lori Carney ,Female,1991-02-06,2014-10-11,HR,Finance Analyst,49,Chennai,Active,79561.0,aliciajohnson@robinson-mitchell.com,776.744.3006,Contract,
+865, Nicholas Stevens ,Male,1964-06-24,1995-03-15,Engineering,,18,Hyderabad,,107057.0,callahanbrett@dillon.com,072.833.3933x260,Contract,2016-06-01
+866, Kathleen Oliver ,Male,1970-05-02,1992-09-05,  Engineering  ,Operations Lead,28,Chennai,Active,71233.0,sjackson@jones.net,7401725375,Contract,
+867, Alexander Nguyen ,,2001-01-26,2024-05-26,  Engineering  ,Sales Executive,31,Hyderabad,,117444.0,kmitchell@berry-flowers.com,+1-835-550-4434,,2024-07-11
+868, John Johnson ,Female,1992-03-05,2002-09-11,Finance,Finance Analyst,1,Chennai,,,tonichandler@holmes.com,(968)468-6404x55001,Intern,2007-06-25
+869, Jean Harrison ,,1997-06-30,2018-07-13,Sales,,38,Bangalore,Resigned,67896.0,johnli@gmail.com,+1-543-767-2524x8984,,2022-07-11
+870, Kristy Thompson ,Female,1975-03-13,2006-01-16,Finance,Finance Analyst,19,Remote,Active,47814.0,davisstephanie@cervantes-lane.com,891.406.2556,,
+871, Theresa Salas ,Female,1984-01-05,1998-03-29,  Engineering  ,Finance Analyst,7, ,Resigned,-1000.0,iwood@edwards-jones.com,988.865.3001,,2006-07-12
+872, Heather Wilson ,Male,1986-05-12,2003-11-25,  Engineering  ,,34,Bangalore,Terminated,,courtneygreen@gmail.com,982.732.3757x52103,Contract,2014-06-24
+873, Steven Kennedy ,Male,1966-06-01,2001-09-05,Operations,Finance Analyst,19,Bangalore,Resigned,,wellspeggy@ferguson-parker.org,270.018.9987,Intern,2008-11-22
+874, Alicia Willis ,,1994-06-22,2010-04-27,Engineering,Sales Executive,5, ,Terminated,86705.0,hbush@hotmail.com,(170)539-1859x88334,Intern,2012-02-19
+875, David Johns ,,1990-04-09,1991-05-21,Engineering,Finance Analyst,23,Hyderabad,,-1000.0,dana21@murray.com,+1-602-483-0153,Intern,2007-08-16
+876, Aaron Castro ,Male,1967-07-28,1981-04-10,Finance,Software Engineer,11,Remote,,88751.0,jodicallahan@hotmail.com,865-988-8072,Contract,1994-12-27
+877, Wendy Butler ,,1985-09-03,2021-06-30,HR,,25,Hyderabad,,,uwhite@gmail.com,+1-616-752-4252x27024,Intern,2023-06-06
+878, Adrian Cook ,Male,1997-08-11,2020-12-10,Engineering,Software Engineer,13,Chennai,,,,001-477-218-9572,Full-time,2022-02-10
+879, Brittany Nguyen ,Male,1995-08-09,2006-02-21,Engineering,HR Manager,4,Remote,Resigned,103733.0,,295-923-0719x682,Intern,2009-03-13
+880, Philip Melton ,Female,1988-08-28,1998-12-01,sales,HR Manager,14, ,,39317.0,elizabethmiller@nguyen-sandoval.org,001-255-553-8286x1062,Full-time,2006-01-13
+881, Nathan Benjamin ,Male,1994-08-12,2003-02-11,Finance,Finance Analyst,7,Remote,Active,44973.0,tmendoza@ortiz-roberson.com,421.239.4930,Full-time,
+882, Jeremy Sandoval ,Male,1985-08-08,2011-10-15,Finance,Finance Analyst,25,Hyderabad,Resigned,-1000.0,simpsonjames@gomez.com,+1-057-489-3860x865,,2019-01-16
+883, Eric Conrad ,Female,1999-01-02,2013-01-20,sales,Sales Executive,38,Bangalore,Resigned,,jimmy51@yahoo.com,852-398-1948,Full-time,2015-11-01
+884, Robert Jones ,,1967-07-26,2024-09-08,Finance,Sales Executive,45,Hyderabad,Resigned,120446.0,chenson@gutierrez.com,001-490-033-8369x10403,Contract,2024-12-12
+885, Sean Green ,Male,1980-09-24,1990-03-31,Sales,Operations Lead,27,Hyderabad,,,emilylyons@gmail.com,001-553-194-5182,Contract,2002-04-13
+886, Lisa Duncan ,Male,1964-05-16,1971-01-13,Finance,Sales Executive,19,Hyderabad,Active,61048.0,lramsey@gmail.com,(340)516-5008x39403,Full-time,
+887, Shawn Wang ,Female,1968-09-13,1999-09-20,Operations,,40,Remote,,,kristinnorton@alvarez-howard.net,872.465.1498x82562,,2023-07-20
+888, Amber Caldwell ,Female,1982-07-25,2007-10-09,Operations,Finance Analyst,9,Remote,Resigned,,slee@ward-gordon.net,915-715-7153x1494,Full-time,2020-02-08
+889, Kelly Chandler ,,1990-08-27,2011-02-27,  Engineering  ,Sales Executive,19,Hyderabad,Resigned,-1000.0,jordanmary@gmail.com,001-801-393-5714x20645,Full-time,2017-02-23
+890, Michael Bowman ,Male,1997-02-04,2012-05-09,Sales,HR Manager,2,Hyderabad,Terminated,69990.0,thorntonanthony@hotmail.com,(038)712-4035,Intern,2018-12-28
+891, Molly Dunn ,Female,2002-01-30,2005-07-26,Engineering,Operations Lead,43,Chennai,Resigned,-1000.0,kfrank@fowler-smith.com,2173956142,Contract,2012-11-22
+892, Greg Soto ,,1993-02-17,2024-05-03,Operations,,40,Bangalore,Terminated,-1000.0,douglas34@hotmail.com,(248)691-3468x320,Full-time,2024-11-24
+893, Ronald Harris ,,1965-11-09,1973-03-01,Finance,Finance Analyst,50,Chennai,Active,,ojones@mejia.com,(033)010-9873,Full-time,
+894, David Weeks ,Female,1973-07-04,1982-04-10,Engineering,HR Manager,5,Bangalore,Resigned,106616.0,dianefox@hotmail.com,001-084-665-6980x2814,,1986-07-12
+895, Jonathan Holmes ,Female,1973-11-25,2006-01-03,Operations,Finance Analyst,30,Hyderabad,Terminated,-1000.0,christopher70@rangel.com,541.432.5345,Contract,2016-01-24
+896, Peter Miller ,Male,1999-01-29,2024-07-17,  Engineering  ,,8,Chennai,Active,148734.0,pattonjeanette@stewart.com,+1-282-838-5635x602,Intern,
+897, Douglas Park ,,1997-04-23,2000-12-10,Operations,Operations Lead,49,Remote,Active,,kaylatran@stewart.com,(646)530-7280,Full-time,
+898, Donald Mclean ,Female,1997-03-27,2006-04-17,  Engineering  ,Operations Lead,6,Hyderabad,Active,,andrewstevens@nunez-woods.info,(815)971-2244x95524,Intern,
+899, William Meyer ,Male,1965-08-26,1995-04-07,  Engineering  ,Finance Analyst,19,Chennai,,149175.0,mchavez@lewis-hill.com,444-930-8589x59718,Contract,2000-09-21
+900, Katelyn Bartlett ,Female,1977-01-12,1988-04-22,HR,Operations Lead,45,Chennai,Resigned,38542.0,misty23@gmail.com,001-216-6220,Intern,2009-05-06
+901, Terry Lawrence ,,1987-09-28,2017-08-12,  Engineering  ,,7,Bangalore,Terminated,117625.0,richardsonjonathan@hotmail.com,001-512-791-5710x1869,,2020-12-09
+902, Natalie Preston ,Male,1977-10-09,2008-03-20,  Engineering  ,HR Manager,27,Remote,Terminated,,shannonsparks@guzman-orozco.com,138.681.9542,Contract,2011-03-26
+903, Ashley Dominguez ,Male,1993-05-26,2023-10-19,HR,Finance Analyst,24,Hyderabad,Resigned,-1000.0,dnorton@gmail.com,045.232.6460,Intern,2024-02-08
+904, David Hansen ,Female,1968-01-11,1973-05-09,Engineering,HR Manager,43,Bangalore,,,nicole41@perez.net,001-916-424-2578,,2003-08-08
+905, Kathryn Drake MD ,,1988-04-02,2020-05-20,Sales,Operations Lead,8,Bangalore,,,mooredavid@woodard.com,6125978399,Contract,2023-07-23
+906, Kevin Miranda ,Female,1975-05-24,2017-07-24,  Engineering  ,Sales Executive,32,Chennai,Active,126783.0,jessica59@gmail.com,001-869-572-6387x740,Contract,
+907, Sarah Martinez ,Male,1974-06-22,2009-09-26,  Engineering  ,,25,Bangalore,Active,,james75@hotmail.com,001-721-245-9821,Intern,
+908, James Williams ,Female,1997-12-04,2010-05-09,Finance,Operations Lead,18,Remote,Terminated,,cheryl92@rowe-lloyd.com,960.739.9327,,2017-05-04
+909, Tammie Ford ,Female,1983-03-10,1992-01-26,Finance,Operations Lead,2,Bangalore,Resigned,-1000.0,snydersamuel@salazar-porter.com,+1-037-174-0105,,2008-08-29
+910, Shannon Sandoval ,Female,1999-07-20,2014-11-01,Operations,Finance Analyst,49,Bangalore,,,welchphillip@yahoo.com,+1-297-358-5952x46060,Contract,2017-11-12
+911, Holly Jackson ,Female,2002-07-07,2019-01-31,sales,,8,Remote,Resigned,-1000.0,forbesthomas@hotmail.com,254.196.2101x3648,Intern,2023-07-29
+912, Kelly Wilson ,Female,1970-02-16,2018-06-14,HR,Sales Executive,40,Remote,Terminated,137441.0,,+1-175-799-2302x49413,Contract,2019-08-04
+913, Kimberly Miller ,Female,1998-04-16,2024-12-29,Sales,Operations Lead,11,Hyderabad,Terminated,,robertsjoanna@yahoo.com,001-427-021-4142x888,Intern,2025-01-01
+914, Joel Morales ,,2002-02-07,2023-02-02,Operations,Sales Executive,6,Chennai,,-1000.0,sheilalee@yahoo.com,001-176-931-0633x397,Intern,2023-08-12
+915, Maria Garcia ,Female,1971-12-07,1979-11-27,Sales,,50,Remote,Active,,peterjackson@gmail.com,6970435250,Full-time,
+916, Jessica Wood ,Female,1964-12-09,1972-10-07,Operations,,34, ,Terminated,134274.0,wsanchez@yahoo.com,+1-883-969-6315x821,Contract,1975-01-26
+917, Alexis Tucker ,,1983-12-03,1985-07-19,Sales,Sales Executive,25,Chennai,Terminated,-1000.0,michael85@yahoo.com,0600793001,Intern,1996-01-01
+918, Angela Herrera ,,1983-03-07,1991-10-21,Sales,HR Manager,41,Remote,Active,-1000.0,justin19@gmail.com,973-562-6867,Contract,
+919, Clinton Robbins ,Male,1977-04-26,1994-10-16,Finance,,38,Hyderabad,,,andrew40@barnes.net,+1-922-423-8079x155,Contract,2018-07-05
+920, Kendra Miller ,Male,1964-12-14,2002-04-25,Engineering,Sales Executive,22,Chennai,,98271.0,johnflores@barnes.com,556.763.9432x609,,2016-09-13
+921, Danielle Hall ,Female,2000-06-02,2018-03-25,  Engineering  ,Operations Lead,18, ,Active,,edwardkrause@yahoo.com,(139)801-3741x789,,
+922, Cody Fritz ,Male,1994-03-21,1995-07-13,sales,Finance Analyst,20,Bangalore,,,bushmichael@beard.com,001-181-176-4388,Intern,2007-08-23
+923, Keith Bell ,,1997-12-25,2022-10-03,sales,Sales Executive,2,Remote,Active,-1000.0,johnsonmark@martin-lewis.com,+1-716-402-4770,Intern,
+924, Holly Briggs ,,2001-07-15,2013-09-28,Operations,Operations Lead,31,Hyderabad,Terminated,-1000.0,,715-958-9125x711,,2021-01-07
+925, James Stanley ,Female,1998-04-19,2020-06-17,HR,HR Manager,10,Hyderabad,,-1000.0,prodriguez@gmail.com,+1-939-940-4286x2070,Full-time,2020-10-26
+926, Andrew Davis ,,1991-07-07,2003-01-05,HR,HR Manager,36,Bangalore,Active,-1000.0,matthew90@yahoo.com,001-290-224-8828x74714,,
+927, Toni Anderson ,Female,1983-04-27,1988-08-28,sales,HR Manager,14, ,Active,100480.0,laurie31@hotmail.com,(705)489-2808x4345,,
+928, Mrs. Belinda Shepherd ,Male,2001-09-18,2004-07-07,sales,Operations Lead,1,Remote,Resigned,-1000.0,hbentley@gmail.com,(052)692-1592,Full-time,2014-09-19
+929, Jasmine Johnson ,Male,1990-07-25,1990-08-22,Sales,HR Manager,38,Remote,Active,57504.0,ireynolds@chung.com,001-730-856-0574x91703,Contract,
+930, Amanda Wood ,Male,1968-11-23,2003-04-27,  Engineering  ,Finance Analyst,10,Remote,Terminated,,danthony@hotmail.com,(452)862-4766,Full-time,2013-01-07
+931, Eric Gilmore ,Female,1999-01-26,2014-05-02,Sales,Software Engineer,32,Bangalore,Resigned,,angelawhite@compton.com,001-428-537-6284x33535,Intern,2023-10-09
+932, Aaron Peters ,,1968-04-29,2011-02-27,Engineering,Sales Executive,48,Hyderabad,,-1000.0,thomascourtney@hotmail.com,001-860-583-3943x5327,,2018-10-30
+933, Latasha Hill ,Female,1984-01-09,2006-02-04,  Engineering  ,Operations Lead,13,Hyderabad,Resigned,,derrickcunningham@hotmail.com,001-779-658-6555x85008,,2021-01-24
+934, Elijah Miller ,,1977-04-12,1991-07-28,Operations,HR Manager,26,Remote,,74216.0,christy93@jones.com,783-685-3303x8157,Contract,2013-09-02
+935, Peggy Bridges ,Female,1980-02-16,2010-12-24,Engineering,Finance Analyst,47,Hyderabad,Active,-1000.0,ryankaren@davis.info,404.177.8468x31566,Intern,
+936, Phyllis Hudson ,,1976-05-11,2020-12-28,Finance,Finance Analyst,17,Bangalore,Resigned,,johnsondavid@hotmail.com,517.332.6898,Intern,2021-04-15
+937, Brianna Brown ,Male,2002-02-06,2020-05-04,HR,Software Engineer,29,Hyderabad,,,josecantrell@gmail.com,(782)011-4765,Full-time,2020-06-03
+938, Scott Ramirez ,Female,1965-06-15,1982-03-23,Finance,HR Manager,47,Chennai,Active,41022.0,brianna07@jones.com,(054)491-5877,Intern,
+939, Stephen Smith ,Female,1966-10-31,2016-07-18,Engineering,Sales Executive,17,Bangalore,Resigned,-1000.0,marissaperez@anderson-love.com,346-447-7609,Intern,2024-04-26
+940, Richard Small ,Female,1970-06-17,1974-03-15,HR,Operations Lead,35,Hyderabad,Active,119375.0,,001-884-549-8995,Intern,
+941, John Smith ,Male,1975-12-15,2001-11-09,  Engineering  ,Operations Lead,36,Remote,Terminated,,jonathan06@cooper.com,2304526792,Contract,2010-01-15
+942, Charles Green ,Female,1983-05-18,1990-07-16,HR,Finance Analyst,25,Chennai,,99214.0,fkrueger@hotmail.com,419.020.8372x61285,Intern,1994-08-30
+943, Jonathan Ellis ,Male,1979-10-13,2001-09-05,Operations,Finance Analyst,49,Bangalore,Terminated,,robertcowan@vazquez.com,915.485.1005,Contract,2002-07-01
+944, Mary Jimenez ,Male,1970-05-30,2006-08-20,Engineering,Finance Analyst,5, ,,-1000.0,martha07@yahoo.com,423.697.4511x5495,Full-time,2009-02-06
+945, Matthew Thompson ,,1976-07-09,2023-07-15,Engineering,,24, ,Active,,larry72@hoffman-carter.com,001-569-110-4592x3839,Full-time,
+946, Justin Barrett ,Male,1983-04-01,2022-09-02,Sales,HR Manager,36,Bangalore,Resigned,125982.0,zevans@allen-shaw.info,(249)830-0491x859,Intern,2023-11-19
+947, Danielle Pierce ,,1986-12-05,2011-05-18,Operations,Operations Lead,41,Hyderabad,Resigned,-1000.0,gomezjessica@wu.biz,796-120-7222x6847,Full-time,2017-09-26
+948, Jackson Smith ,Female,1974-01-18,1979-01-29,HR,Operations Lead,6, ,,-1000.0,randalldaniel@gmail.com,154.324.7804x88597,Intern,2005-06-01
+949, Kathryn Smith ,,2001-04-30,2005-02-10,Sales,Operations Lead,24, ,Resigned,115272.0,danielpierce@hotmail.com,(581)097-7939x9048,,2012-04-01
+950, Linda Baxter ,Male,1973-11-09,1998-03-25,Engineering,Operations Lead,39,Bangalore,Resigned,81692.0,villegasrita@ortega-thompson.com,8795650587,Intern,2004-01-28
+951, Alicia Padilla ,Female,1983-11-24,1992-07-10,Operations,Operations Lead,19,Hyderabad,Resigned,40098.0,smithdarrell@gmail.com,001-948-850-1724x563,Contract,2007-01-16
+952, Paul Gonzalez MD ,Male,1965-02-26,2002-07-17,HR,HR Manager,44, ,Active,-1000.0,josephchaney@miller.info,(165)122-0469x5490,Full-time,
+953, Ms. Michelle Hull ,Female,1966-09-22,2024-09-01,  Engineering  ,Sales Executive,22,Bangalore,Active,105161.0,gardnerapril@reed.com,+1-388-485-5946x90638,Full-time,
+954, Christopher Prince ,Male,1989-02-15,2005-04-13,Operations,Sales Executive,36,Remote,Terminated,-1000.0,rmoore@daugherty.info,424.421.3589,Full-time,2014-02-08
+955, Alisha Fleming ,Male,1998-06-09,2022-11-22,  Engineering  ,Sales Executive,4,Remote,,,cherylphillips@gmail.com,(373)275-6441,Contract,2024-03-09
+956, Kimberly Franklin ,,1983-03-02,1986-08-30,  Engineering  ,Software Engineer,27,Bangalore,Terminated,-1000.0,brent15@taylor-powell.com,591.878.1836x48607,Contract,1994-10-06
+957, Jessica Johnson ,Female,1987-10-22,2007-10-01,Finance,,13,Hyderabad,Terminated,,ppatterson@gmail.com,+1-915-150-8404x6928,Full-time,2013-04-02
+958, Alexandria Valentine ,Male,2001-03-24,2021-05-16,sales,Operations Lead,5,Chennai,,,mbullock@lloyd.com,(425)851-0246,,2024-01-13
+959, Mackenzie Hall ,Male,2000-05-28,2016-09-20,sales,Software Engineer,4,Bangalore,,,qcraig@jones.com,739-019-6501x3836,,2022-11-28
+960, Robert Farley ,,1983-01-14,1989-12-11,sales,Software Engineer,10,Chennai,Terminated,118448.0,gcannon@hotmail.com,(246)528-6838,Full-time,2018-11-24
+961, Crystal Morris ,,1967-08-23,1976-03-27,Finance,,6,Remote,Terminated,,morganbrandon@yahoo.com,(446)326-7528x80213,Intern,1993-06-14
+962, Leslie Daniel ,Female,1986-09-23,2018-09-16,HR,Sales Executive,16,Hyderabad,Active,39620.0,dhunt@miller.com,+1-231-552-2705x7898,Contract,
+963, Dana Baker ,Female,2001-10-03,2022-01-06,  Engineering  ,Sales Executive,32,Remote,,-1000.0,awilliams@gmail.com,229-622-1431x5760,Full-time,2024-03-25
+964, Jordan Morris ,Male,1980-12-31,1985-12-18,Sales,,8,Hyderabad,Terminated,-1000.0,willie40@hotmail.com,781-020-5072x63426,Intern,1986-01-14
+965, James Dennis ,,1975-09-10,1984-02-08,Operations,Software Engineer,12,Hyderabad,Terminated,54763.0,galvaneduardo@gmail.com,001-586-040-4944,Full-time,2004-06-18
+966, William Garcia ,,1999-03-02,2007-02-14,HR,Operations Lead,22,Hyderabad,,-1000.0,samantha62@gmail.com,966-503-9978x89208,,2018-03-07
+967, Nicole Davidson DDS ,,1996-09-07,1999-07-02,HR,Finance Analyst,36,Chennai,Active,,wellsroberto@yahoo.com,(022)233-2383,Contract,
+968, Rachel Fletcher ,Female,1972-06-05,2017-12-07,Operations,HR Manager,16,Remote,Terminated,,daniellekidd@johnson.com,952.035.7009,,2018-07-09
+969, Suzanne Lynn ,Female,1986-10-25,2015-05-07,Sales,Finance Analyst,9, ,,109779.0,paul20@walker.com,033-265-1312,Intern,2017-11-23
+970, George Harris ,,1992-06-01,2015-12-05,HR,,30,Chennai,Terminated,,jacobriley@yahoo.com,232.778.8406x534,Intern,2017-08-12
+971, Jose Mckinney ,Female,1990-11-08,2006-05-18,Sales,HR Manager,9,Remote,Active,-1000.0,tsimmons@grimes.com,389.863.3846,Intern,
+972, Tina Alexander ,,1967-08-07,1983-12-24,sales,Operations Lead,42, ,Resigned,41192.0,,+1-903-016-7028,Full-time,2000-09-04
+973, Katherine Peterson ,,1966-05-10,1980-06-13,Finance,,4,Remote,Resigned,34929.0,mollyhill@yahoo.com,930.156.2443x28551,Contract,1983-08-27
+974, Alejandro Simmons ,Male,1993-09-03,2017-07-03,sales,,15,Hyderabad,Active,-1000.0,eric91@stephenson.com,001-427-848-5207x3392,Full-time,
+975, Christopher Combs ,Female,1988-12-12,2006-11-10,sales,Operations Lead,45,Hyderabad,,,garciaveronica@hotmail.com,266-742-6404,Contract,2021-02-21
+976, Alexandra Robertson ,Male,1973-04-02,2023-02-27,  Engineering  ,,14,Chennai,Terminated,,shelby12@yahoo.com,809-236-8966x371,Contract,2023-05-08
+977, Brian Green ,,1996-11-22,2022-03-29,  Engineering  ,HR Manager,38,Bangalore,Terminated,-1000.0,eric35@yahoo.com,(783)096-9958x2562,,2023-12-02
+978, Erica Flynn ,Male,1988-12-27,2003-04-19,HR,,2, ,Terminated,-1000.0,joshuathomas@randall-barker.com,+1-194-228-1178x151,Contract,2003-10-29
+979, Carol Hancock ,,1992-02-06,2022-01-11,Finance,Sales Executive,36, ,Active,136325.0,thomasrebecca@sanders-lawrence.com,391-406-2098x1595,,
+980, Cynthia Miller ,Female,2002-04-14,2004-06-27,sales,Operations Lead,41,Bangalore,Active,-1000.0,conleybrandy@hotmail.com,(684)072-4771x9665,,
+981, Jermaine Moss ,Male,1981-05-22,2001-05-11,sales,Software Engineer,46,Chennai,,,nwilliams@yahoo.com,268-602-6896x293,,2023-12-28
+982, Rose Hernandez ,Male,1996-01-30,2024-03-06,sales,Software Engineer,46, ,Active,,jon88@hotmail.com,001-745-103-3450x317,Intern,
+983, Ashley White ,,1995-10-29,2015-07-09,HR,HR Manager,17,Chennai,,-1000.0,sandrews@mitchell.com,+1-902-001-5597x6454,Intern,2018-08-08
+984, Kenneth Kelley ,,1993-08-18,2006-11-03,  Engineering  ,Operations Lead,44,Remote,Active,,michael75@nelson-clements.com,+1-247-902-8983x901,Intern,
+985, Nicolas Tran ,,1983-09-02,2020-02-20,HR,Software Engineer,21,Hyderabad,Resigned,,smithshawn@cruz.biz,001-186-061-3414x761,,2021-08-07
+986, Bridget Hogan ,Female,1991-04-30,1995-04-17,HR,Finance Analyst,16, ,Terminated,,melissalutz@ward.com,692.396.8405,Intern,2017-06-18
+987, Scott Harrison ,Female,1994-12-13,2012-10-01,sales,Finance Analyst,48,Chennai,Terminated,-1000.0,matthew47@yahoo.com,068.305.5589x17279,,2019-11-08
+988, Lori King ,Female,1981-09-27,2016-01-27,HR,Sales Executive,30,Hyderabad,Terminated,-1000.0,jasonjordan@nelson-griffin.com,001-665-816-2625x82846,Contract,2020-03-04
+989, Johnny Anderson ,,1990-03-17,2001-09-12,Operations,Finance Analyst,22,Chennai,Resigned,70387.0,rhernandez@hardy-chase.com,(876)715-1497x454,Intern,2003-09-19
+990, Patricia Hogan ,Female,1979-03-05,1993-03-31,Finance,Finance Analyst,4,Chennai,,-1000.0,arnoldtammy@burns.biz,+1-180-388-9294,,2016-06-28
+991, Barbara Bell ,,1968-03-27,1969-02-11,sales,HR Manager,12,Chennai,,-1000.0,marshallmanuel@gmail.com,072.186.2178,Full-time,1978-07-26
+992, Nicholas Zamora ,Female,1970-06-28,2000-04-20,Sales,HR Manager,13,Chennai,Active,-1000.0,emilyjones@hotmail.com,+1-015-889-4043,Full-time,
+993, Michael Allen ,Female,1990-11-26,1996-02-13,Operations,Operations Lead,29,Hyderabad,,55486.0,lisacrawford@gonzalez.com,655.473.3767,Contract,2010-12-24
+994, Alexis Guerra ,Male,1983-12-10,1990-03-03,Finance,Finance Analyst,50,Chennai,,,alanmccoy@gmail.com,6323223967,,2022-03-21
+995, Jeanette Rodriguez ,Female,1986-03-10,2002-04-11,Operations,,38,Chennai,Active,-1000.0,robertrobinson@yahoo.com,(905)973-0623x38708,,
+996, Joy Gomez ,Female,1988-07-05,2017-01-20,Finance,Software Engineer,49,Bangalore,Active,-1000.0,cookluis@moore.com,(295)420-1071x39006,,
+997, Terry Garza ,Female,1977-06-10,1998-05-20,HR,HR Manager,10,Chennai,,-1000.0,williamfernandez@noble.com,063-833-1227,Intern,2017-02-28
+998, Kimberly Porter ,Female,1999-09-04,2014-09-13,Operations,Software Engineer,24,Hyderabad,Active,-1000.0,ashleylee@hotmail.com,911.077.0091x296,Full-time,
+999, Kevin Boyer ,Female,1982-03-16,1985-10-01,Engineering,,6,Chennai,Terminated,,mark37@washington.info,+1-898-382-2180x221,Intern,2010-02-23
+1000, Jacqueline Obrien ,Male,1991-11-25,2002-03-24,  Engineering  ,,7,Chennai,Resigned,82251.0,brookscatherine@mitchell.net,+1-575-370-0841x269,,2021-05-17
