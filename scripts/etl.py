@@ -194,3 +194,7 @@ df = df\
     .withColumn("phone", col("phone").cast(StringType()))\
     .withColumn("employment_type", col("employment_type").cast(StringType()))\
     .withColumn("last_working_day", to_date(col("last_working_day"), "yyyy-mm-dd"))
+
+# Previewing cleaned dataset :
+print(df.show(50, truncate=False))
+print("Successfully cleaned")
