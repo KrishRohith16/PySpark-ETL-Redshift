@@ -168,3 +168,8 @@ df = df.withColumn("last_working_day",
 df = df.withColumn("last_working_day", parse_date_udf(col("last_working_day"))) \
                .withColumn("last_working_day", when(col("last_working_day").isNull(), lit("None")).otherwise(col("last_working_day")))
 # ------------------------------------------------------------------------------------------------------------------------------------------
+
+# Re-ordering columns :
+# To ensure a consistent schema for downstream processes and data integration.
+df = df.select("emp_id", "full_name", "gender", "dob", "join_date", "department", "job_title", "manager_id",\
+               "location", "status", "employment_type", "salary", "email", "phone", "last_working_day")
