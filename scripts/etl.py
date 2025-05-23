@@ -198,3 +198,18 @@ df = df\
 # Previewing cleaned dataset :
 print(df.show(50, truncate=False))
 print("Successfully cleaned")
+
+# Saving cleaned dataframe as csv, json, and parquet formats using pandas:
+# converting pyspark dataframe to pandas dataframe
+pandas_df = df.toPandas()
+
+# Saving as csv :
+pandas_df.to_csv(r'E:\PySpark-ETL-Redshift\cleaned_data\employee_data_cleaned.csv', index=False)
+
+# Saving as json :
+pandas_df.to_json(r'E:\PySpark-ETL-Redshift\cleaned_data\employee_data_cleaned.json', orient="records", lines=True)
+
+# Saving as parquet :
+pandas_df.to_parquet(r'E:\PySpark-ETL-Redshift\cleaned_data\employee_data_cleaned.parquet', index=False)
+
+print("Successfully saved cleaned dataset")
