@@ -173,3 +173,24 @@ df = df.withColumn("last_working_day", parse_date_udf(col("last_working_day"))) 
 # To ensure a consistent schema for downstream processes and data integration.
 df = df.select("emp_id", "full_name", "gender", "dob", "join_date", "department", "job_title", "manager_id",\
                "location", "status", "employment_type", "salary", "email", "phone", "last_working_day")
+
+# Previewing Datatypes :
+print(df.printSchema())
+
+# Converting datatypes for all columns :
+df = df\
+    .withColumn("emp_id", col("emp_id").cast(IntegerType()))\
+    .withColumn("full_name", col("full_name").cast(StringType()))\
+    .withColumn("gender", col("gender").cast(StringType()))\
+    .withColumn("dob", to_date(col("dob"), "yyyy-mm-dd"))\
+    .withColumn("join_date", to_date(col("join_date"), "yyyy-mm-dd"))\
+    .withColumn("department", col("department").cast(StringType()))\
+    .withColumn("job_title", col("job_title").cast(StringType()))\
+    .withColumn("manager_id", col("manager_id").cast(IntegerType()))\
+    .withColumn("location", col("location").cast(StringType()))\
+    .withColumn("status", col("status").cast(StringType()))\
+    .withColumn("salary", col("salary").cast(FloatType()))\
+    .withColumn("email", col("email").cast(StringType()))\
+    .withColumn("phone", col("phone").cast(StringType()))\
+    .withColumn("employment_type", col("employment_type").cast(StringType()))\
+    .withColumn("last_working_day", to_date(col("last_working_day"), "yyyy-mm-dd"))
